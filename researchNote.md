@@ -1,4 +1,4 @@
-## 11.14.23
+## 23.11.14
 
 writing research note is essential to remember to what happed last time and to remember the task we were assign last time. we can write anything that sensei suggested for practacing. 
 
@@ -8,10 +8,12 @@ Sensei tell us that at the beganing it will be difficult for us, and suggested t
 Sort time to describe the poster, and content is important , poster should be self contained, and understadable to the audience. Sabbir vai asked how to make understand the audience the background story?
 Sensei told to prepare some live demonstration, or movies atlest prepare some laptop or tab.Sabbir san asked sensei to demonstrate a poster presentation,Sensei suggested to search some university poster presentation. Sensei mention about UMBC university.
 
-## 11.13.23
+## 23.11.13
 
 yes sensei last day was cold also. and i have two class to attend , one was in the morning at 8.00 am and the another was at 12.45 , that was your class.
 
-## 11.12.23
+## 23.11.12
 
 Sunday was funday and i have no class and i tried to get familiar with latex and successfully wrote an initial research prosal for todays (11.14.23)meeting. 
+
+## 23.11.15
