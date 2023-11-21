@@ -17,3 +17,15 @@ yes sensei last day was cold also. and i have two class to attend , one was in t
 Sunday was funday and i have no class and i tried to get familiar with latex and successfully wrote an initial research prosal for todays (11.14.23)meeting. 
 
 ## 23.11.15
+I have one class that i misssed because i had a bad headec. And i have solved two problems in leetcode.
+
+## 23.11.17
+I have tried to get familiar with markdown. I have make an snippets of basic markdown command.
+
+
+## 23.11.21
+Next thursday is national holiday.<br>
+[Workshop_on_Informatics](https://sites.google.com/view/winf2023/home),Deadline-last of this month.
+
+sensei suggested to take all classes before next march.13-14 of next january there will be entrance exam and we are strictly prohabited in campus.suggested to present on the presentation.
+Sensei reviwed sabbir sans paper comment.
