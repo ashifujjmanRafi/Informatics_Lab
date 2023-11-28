@@ -58,10 +58,10 @@
 
 ## Ordered list
     Use:
-        1. Age
-        1. Name
-        1. Id
-        1. Year
+        1.age
+        name
+        id
+        year
 ## Effect
 1. Age
 1. Name
