@@ -144,11 +144,51 @@ I got an arubaito and today i have scheduled 9 to 2 pm, it was my first day with
 
 ## 23.12.10
 
-Saturday i tried to practice some nihongo , and watch one episode of "Jujutshu kaisen". I cooked for myself at night and practice nihongo at duolingo.
-
-## 23.12.11
-
 Today there was an workshop Workshop_on_Informatics , many student was gathered most of them were japnease and some internatinal student. I went there and three of my senior presented their idea. Sabbir san, Shuvo san and Suma san. Sabbir sans idea is to develope a sytem where multiple robot on a supershop or factory can work under a centralized administration, if any task is assigned the robots will decide itself which work it will to based on shortest path finding avoiding collision with other robot , and if multiple task and multiple robot are assign they will do the same , first calculate for whom its efficient and then do the job, his presentation tittle was **Parallel Task Allocation in Multi-robot Environment under Uncertainty based on Auction Mechanism**. Next i visit suma san and her idea is to solve parking problem in parking lot according individuals choice. Basically she introduced a problem where if anyone wanted to park a car several issue arise like someone wants to park beside the main exit or close to bathroom, and how to manage those car which are parked for a long time and another thing if two or more car wanted to park in same which one get more priority. I think solving this problem is little bit tricky because our mind changes certainly.
 Then i visi shuvo san, his idea is to find a path for electic viacle with available charging point based on if there is available point acoording my car battery life , can i use them or not because there will be a advance booking system. If there is more choice that satisfy the first condition then choose the sortest path. His idea is cool i think because i think in future there will be more electrical viacle and we need this kind of app or system. I also tried to understand other japanease students idea but their idea was written on japanease that i beraly understand and i asked if they can explain their idea but that dosnt work out. The presentation was closed at 2.15 and i came back to my room. It was really a great experience.
 
+## 23.12.11
+
+I have two classes today one was cancelled Data engineering and another class was in 2.25 pm and i have group presentation , describe a cyber attack happen in my country. I made a three page presentation about the incident Bangladesh bank Money heigst happend in 2016. 
+
+
 ## 23.12.12
+
+International conference presentation is about 20 min. Sensei suggested sabbir san to to find out those question background those he get in wiNF by himself. The most question was like,
+**why he use centralized auctioner insted of decentralized** In his research he planned conduct it **centralized auction based system** because he were planning to use a centralized server that will be responsible for task allocation and path planning. 
+
+**How many robot you are planning to simulate in your model and if he simulate them how he is gonna do that** Initially his planning is to make a simulation based on few number of robot. After the simulation he will compare it with other researcher model and then take the decision.
+Or this can be we gonna run multiple simulation taking different number of robot like 5 then 10 then 15 and we will compare the result and then we can go ahead to our actual planning.
+**some ask about how to conduct the experiment, ask the evaluation technique**
+Dont have to answer every question according out instinct, without backgruound knowledge its better not to answer all the question rather we can clarify what we can do about out experience.
+**There should some limitation describe in the presentation slide** not own limitation but the limitation of the research. **answering the question , change the the slide to relevent slide and then answer the question,**
+
+
+## 23.12.13
+
+I have only one class today programming language . I noted some key point and i think i can catch up. After the calss i came back home and tried to solve a problem in leetcode. And also practice some nihongo.
+
+## 23.12.14
+
+I have only one class today nihongo . It was so much cold outside.
+
+## 23.12.15
+
+I have done my prayer at 12 pm and then i have a class at 12.45 and i joined that. There was a session about KOITO company,two guest lectuare tried to explaine their products bascially the are working on lights for the cars. Its a huge company and they have many branches in many country. They also have a branch in india , china .. Their headoffice is in tokyo. Most of the employee are internatinal and minimum qualification is bachelor and there will be a SPI exam for entering their company. 
+
+## 23.12.16
+
+I got an arubaito and today i have scheduled 7 to 11 am, it was my second day without any trainer , I was little bit nervous but i tried to do my best and it was a great experience.
+
+## 23.12.17
+
+I also have arubaito today and i have scheduled 7 to 11 am, it was my third day without any trainer, i think i am improving and i am getting used to it.
+
+## 23.12.18
+
+I have two classes today one was cancelled Data engineering and another class was in 2.25 pm and last day we give our presentation. Todays works was seeing the japanease students presentation , slides was in english , sensei told us to find the best slide maker. And i have party tonight , sabbir snas party it was cool. we arrange kind of picnic where were the cook it was fun also.
+
+
+## 23.12.19
+
+I am not feeling so good. The weather has suddenly changed i didnt expect this much cold. I have already polypus and this cold giving me a hard time. Sensei asked sabbir san about his conference and presentation experience and told his to share the question he faces in the evnet. They asked about the model comparism, also asked about weather he wanna simulation or not. sensei suggested that practicing is very important. 
