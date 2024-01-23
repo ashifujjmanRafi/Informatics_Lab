@@ -189,6 +189,123 @@ I also have arubaito today and i have scheduled 7 to 11 am, it was my third day 
 I have two classes today one was cancelled Data engineering and another class was in 2.25 pm and last day we give our presentation. Todays works was seeing the japanease students presentation , slides was in english , sensei told us to find the best slide maker. And i have party tonight , sabbir snas party it was cool. we arrange kind of picnic where were the cook it was fun also.
 
 
-## 23.12.19
+## 23.12.19 **LM**
 
 I am not feeling so good. The weather has suddenly changed i didnt expect this much cold. I have already polypus and this cold giving me a hard time. Sensei asked sabbir san about his conference and presentation experience and told his to share the question he faces in the evnet. They asked about the model comparism, also asked about weather he wanna simulation or not. sensei suggested that practicing is very important. 
+**Sensei suggested to update the research continiously note because it can be memorized, there should be a plan it can be changed but it just go on**
+I am feeling not so well physically , its so cold and i have a fever form last night.
+
+## 23.12.20
+
+I was not feeling good although i joined todays programming class, i already missed 5 classes.
+
+## 23.12.21
+
+I have only one class today nihongo . It was so much cold outside.
+
+## 23.12.22
+
+I have done my prayer at 12 pm and then i have a class at 12.45 and i joined that. There was a session about Banking system of japna.
+
+## 23.12.23
+
+I have arubaito today,scheduled 7 to 2 pm. I was so much exhusted by working, i go for shopping some groceries and then i cook , eat then go to sleep.
+
+## 23.12.24
+
+I also have arubaito today and i have scheduled 7 to 11 am, it was my third day without any trainer, i think i am improving and i am getting used to it.
+
+## 23.12.25
+
+The winter vacation started from today and i dont have arubaito today , i went out with my friends in sanaru , it was so nice. There was a cricket match between seniors and juniors and i also joined their.
+
+
+## 23.12.26
+
+Today i was seeing some research papers of out lab mates and i found they all tried to suggest solution for  a distinct challenge related to the domain of interest. I was confused and then i knock ihsan san, asking help.
+
+## 23.12.30
+
+Today i have arubaito from 7am to 12pm, my cycle stnaded in font of H&M in hamamatsu station, but when i came back my cycle wasnt there. I was surprised and numb, i came back to the recidense by walking.
+
+## 23.12.31
+ 
+I talked to my seniors and decided to make an complain about my lost , today i have arubaito it was raining so much and didn't took my purse as well as the identification card , the police said without that i cant make a complain.
+
+## 24.1.1 
+
+Today i have arubaito from 10 am to 7pm , i again go to the police station and make an complain , they told me if they find the cycle , they will call me. 
+
+## 24.1.2
+
+I have arubaito today,scheduled 7 to 2 pm. I was so much exhusted by working, i go for shopping some groceries and then i cook , eat then go to sleep.
+
+## 24.1.3
+
+Today i dont have any arubaito,last night i met dipto san,they were plannig go toyohashi and i also go with them. We went to Ikobe coast, it was so cold and so nice. I enjoyed so much.
+
+## 24.1.4
+
+There was two assignments pending , i tried and solved one its about information security, then i have arubaito from 4pm to 9pm.
+
+## 24.1.5
+
+## 24.1.6
+
+## 24.1.7
+
+## 24.1.8
+
+## 24.1.9
+
+The vacation is over , the class started today there was three classes and i have joined, then i have arubaito 4pm to 9pm
+
+## 24.1.10
+
+I have only one class today programming language . I noted some key point and i think i can catch up. After the calss i came back home and tried to solve a problem in leetcode. And also practice some nihongo.
+
+## 24.1.11
+
+I have only one class today nihongo . It was so much cold outside.
+
+## 24.1.12
+
+I have done my prayer at 12 pm and then i have a class at 12.45 and i joined that.Then i have arubaito to 5pm to 9pm.
+
+## 24.1.13
+
+I have arubaito today, 4pm to 9pm.
+
+## 24.1.15
+
+I have two classes today Data engineering and another class was in 2.25 that happend in online,then i have arubaito at 5pm to 9pm.
+
+## 24.1.16 (LM)
+In auguast there will be an plan presentation for masters first grade student, sensei suggested to prepare some metarials for the presentation. There will be some exams and presentation for evaluating the first semester in the classes. For job finding japanease language skill is very important sensei suggested to make conversation with the japanease students, only taking classes isnt enough.
+There will be atleast one paper presentation before 2025,march. **In last meeting sensei asked me what are the issue i was facing according my research.** 
+***Research question is What to do and why***,you can write in your conclusion,Inorder to do that you need to clarify the current issues you are having now, Randomly add the questions. Sensei suggested to write the key point for others when they are talking to sensei, that can help to remember them the topic
+
+## 24.1.17
+I have only one class today , programming language, this was the last class of this course.
+
+## 24.1.18
+There is nihongo class today then I have arubaito 5 to 10 pm. There is an assignment for information security, today was last date
+
+## 24.1.19
+Today is Friday , prayers day. I have nihongo class , then I finished my prayer at 12.30 pm , then I have another class , at 12.45, where there will be a final presentation next week. Today is a rehearsal for that presentation. The topic is comparing two online shopping websites: one is well-known globally like H&M, and the other is local, like MOUSSY. We need to analyze and describe the strong and weak points of each website and suggest ways to improve MOUSSY. As a researcher, my role is to collect data and provide suggestions for how MOUSSY can enhance its online shopping model.
+
+## 24.1.20
+Today is weekend , I have arubaito to 1 to 9 pm. I have started a anime series Black clover, the character build up is awesome. 
+ 
+## 24.1.21
+I have arubaito today, 12pm to 9pm. I have finished 10 episode of Black clover last night. I have two assignment to complete of Information security and Data Engineering. It was a busy day.
+
+## 24.1.22
+I have three classes today ,the first was nihongo, then i participated in an photoshot for Department of Behavior Informatics. Then i have class Data engineering, that happen on nihongo and i dint understad.Information security class was in 2.25 pm. Then i have arubaito 5 to 10 pm.
+
+## 24.1.23 **LM**
+
+
+
+
+
