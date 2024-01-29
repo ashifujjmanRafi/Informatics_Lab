@@ -303,9 +303,25 @@ I have arubaito today, 12pm to 9pm. I have finished 10 episode of Black clover l
 ## 24.1.22
 I have three classes today ,the first was nihongo, then i participated in an photoshot for Department of Behavior Informatics. Then i have class Data engineering, that happen on nihongo and i dint understad.Information security class was in 2.25 pm. Then i have arubaito 5 to 10 pm.
 
-## 24.1.23 **LM**
+## 24.1.23 *LM*
 
+AAI-2024 conference,
+The 23rd IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology,WI = Artificial Intelligence in the Connected World December,9-12, 2024, Bangkok, Thailand.[Link](https://www.wi-iat.com/wi-iat2024/index.html)
 
+## 24.1.24
+I have only one class today , programming language, this was the last class of this course.
 
+## 24.1.25
+There is nihongo class today then I have arubaito 5 to 10 pm. There is an assignment for information security, today was last date
 
+## 24.1.26
+Today is Friday , prayers day. I have nihongo class , then I finished my prayer at 12.30 pm , then I have another class , at 12.45, where there will be a final presentation next week. Today was final presentation. The topic is comparing two online shopping websites: one is well-known globally like H&M, and the other is local, like MOUSSY. We need to analyze and describe the strong and weak points of each website and suggest ways to improve MOUSSY. As a researcher, my role is to collect data and provide suggestions for how MOUSSY can enhance its online shopping model.
 
+## 24.1.27
+Today is weekend , I have arubaito to 1 to 9 pm. I have started a anime series Black clover, the character build up is awesome. 
+ 
+## 24.1.28
+I have arubaito today, 12pm to 9pm. I have finished 10 episode of Black clover last night. I have two assignment to complete of Information security and Data Engineering. It was a busy day.
+
+## 24.1.29
+I have three classes today ,the first was nihongo. Then i have class Data engineering, that happen on nihongo and i dint understad. Information security class happen in online.
