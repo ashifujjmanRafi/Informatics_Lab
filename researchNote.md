@@ -325,3 +325,63 @@ I have arubaito today, 12pm to 9pm. I have finished 10 episode of Black clover l
 
 ## 24.1.29
 I have three classes today ,the first was nihongo. Then i have class Data engineering, that happen on nihongo and i dint understad. Information security class happen in online.
+
+## 24.1.30 *LM*
+I have two class today and a paper presentation. I just finished my presentation, it was like 1hour presentation on **"User Behaviour Analysis on LMSs and MOOCs"**
+Sumbmitting the thesis on time.End of this week 2nd year student has final presentation on thursday and friday there will be a poster presentation and every one will present their presentation, and sensei suggested to ask the specifiq time. From today the examination week started, next tuesday there will be final presentation thus no meeting, next meeting will be 13. There will be an entering exam on campus on next week. and we cant enter.After the final thesis presentation there will be less chace to get communicate with the japanease student. For job finding communicating with the jpanease on nihongo. Midterm presentatin may be happen in last of march and sensei suggested to see the senior how they organize their presentation because, our plan presentation will be held on  last of august.
+
+16th IIAI International Congress on Advanced Applied Informatics, July 6-12, 2024, Takamatsu, Japan
+Domestic conference : 214th ICS Research Presentation
+
+## 24.1.31
+
+Today was our nihongo finat test for this semester, and so many dedline for assignments. Last night i barely sleeped, i tried my best to get better in this class. Then i have data engineering class, this may be the last class. And then i attend informatics security class. thats all for today.
+
+## 24.2.1 
+
+Today there is no class but i have two assignment deadline to meet. I have completed them today one of the assignment was about recent cyber attack and how can be prevented.
+
+## 24.2.2
+
+Today is Friday , prayers day. I finished my prayer at 12.30 pm , then I have A class Shizuoka Enterprise , at 12.45. maybe its the last class.
+
+## 24.2.3
+
+Today i  have any arubaito, 1 to 10 pm, and a final assignment to submit of shizuoka enterprise. thats all for today.
+
+## 24.2.4
+
+There was two assignments pending , i tried and solved one its about information security, then i have arubaito from 4pm to 9pm.
+
+## 24.2.5
+
+Today, it was last nihongo class of this semester, and Hakamata Sensei previewed the nihongo test result, i passed on the nihongo exam and next class will be in april.
+
+## 24.2.6
+
+There is no class from today may be , may the class will starded on next semester , and i have succesfully submitted the assignments. Today i tried to practice nihongo two chapter. And i have arubaito 4 to 10 pm. And today there is no lab meeting today.
+
+
+## 24.2.7
+
+
+
+## 24.2.8
+
+## 24.2.9
+
+The vacation is over , the class started today there was three classes and i have joined, then i have arubaito 4pm to 9pm
+
+## 24.2.10
+
+I have only one class today programming language . I noted some key point and i think i can catch up. After the calss i came back home and tried to solve a problem in leetcode. And also practice some nihongo.
+
+## 24.2.11
+
+I have only one class today nihongo . It was so much cold outside.
+
+## 24.2.12
+
+I have done my prayer at 12 pm and then i have a class at 12.45 and i joined that.Then i have arubaito to 5pm to 9pm.
+
+## 24.2.13
