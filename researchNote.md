@@ -393,27 +393,27 @@ IIAI AAI 2024: [https://iaiai.org/conference/aai2024/]
 shuvo san: Reasearch note are not only about success but also about how the failure happen otherwise it can be happen again and again. Research notes are about how to carrying out the research, what problem are we facing like this kind of things. The research discussion with Iftekhar san, the notes on the scheen , we will start from the research summary. He said that the meeting was started from the research summary and finding some conference for submitting the paper that he needs. Sensei does not see any effort from the research notes, and Ifetekhar said that he had some difficulties from the job hunting activities, such as the web test or SPI and also finding some companies. Sensei said that at least please also write those things to be the written in the research notes, and yeah I think it is also important even it is not related to the research. Sensei said, okay we will try to write from now but in 3 weeks with no research notes, it is not a short times.
 Writing wrong fact or misslead factor, in research note is prohabited.
 
-## 24.2.7
+## 24.2.14
 
-I was preparing documents for applying a COE for my wife.
+I was preparing documents for applying a COE for my wife. Next firday i am going to submit the documents to nagoya immigration office. i have part time 4 to 10 pm.
 
-## 24.2.8
+## 24.2.15
 
 I have arubaito today 5 to 10 pm.
 
-## 24.2.9
+## 24.2.16
 
-Today is Friday , prayers day. I finished my prayer at 12.30 pm.
+Today is Friday,i got up early and went to the immigration office and successfully submitted my documents. It is prayers day. I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors. 
 
-## 24.2.10
+## 24.2.17
 
-I woke up morning i have no class, no part time today doing some problem solving after a long time.
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
 
-## 24.2.11
+## 24.2.18
 
-I have arubaito from 1 to 10 pm .
+I have arubaito from 1 to 10 pm. 
 
-## 24.2.12
+## 24.2.19
 
 I was trying to read some paper of my lab.
 
