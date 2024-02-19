@@ -189,7 +189,7 @@ I also have arubaito today and i have scheduled 7 to 11 am, it was my third day 
 I have two classes today one was cancelled Data engineering and another class was in 2.25 pm and last day we give our presentation. Todays works was seeing the japanease students presentation , slides was in english , sensei told us to find the best slide maker. And i have party tonight , sabbir snas party it was cool. we arrange kind of picnic where were the cook it was fun also.
 
 
-## 23.12.19 **LM**
+## 23.12.19 **LM(mt)** 
 
 I am not feeling so good. The weather has suddenly changed i didnt expect this much cold. I have already polypus and this cold giving me a hard time. Sensei asked sabbir san about his conference and presentation experience and told his to share the question he faces in the evnet. They asked about the model comparism, also asked about weather he wanna simulation or not. sensei suggested that practicing is very important. 
 **Sensei suggested to update the research continiously note because it can be memorized, there should be a plan it can be changed but it just go on**
@@ -364,24 +364,59 @@ There is no class from today may be , may the class will starded on next semeste
 
 ## 24.2.7
 
-
+I was preparing documents for applying a COE for my wife.
 
 ## 24.2.8
 
+I have arubaito today 5 to 10 pm.
+
 ## 24.2.9
 
-The vacation is over , the class started today there was three classes and i have joined, then i have arubaito 4pm to 9pm
+Today is Friday , prayers day. I finished my prayer at 12.30 pm.
 
 ## 24.2.10
 
-I have only one class today programming language . I noted some key point and i think i can catch up. After the calss i came back home and tried to solve a problem in leetcode. And also practice some nihongo.
+I woke up morning i have no class, no part time today doing some problem solving after a long time.
 
 ## 24.2.11
 
-I have only one class today nihongo . It was so much cold outside.
+I have arubaito from 1 to 10 pm .
 
 ## 24.2.12
 
-I have done my prayer at 12 pm and then i have a class at 12.45 and i joined that.Then i have arubaito to 5pm to 9pm.
+I was trying to read some paper of my lab.
 
-## 24.2.13
+## 24.2.13 *LM*
+
+Sensei told to try to submit research proposal to a international conference once, and for 2nd grade student its the last chance.
+IIAI AAI 2024: [https://iaiai.org/conference/aai2024/]
+shuvo san: Reasearch note are not only about success but also about how the failure happen otherwise it can be happen again and again. Research notes are about how to carrying out the research, what problem are we facing like this kind of things. The research discussion with Iftekhar san, the notes on the scheen , we will start from the research summary. He said that the meeting was started from the research summary and finding some conference for submitting the paper that he needs. Sensei does not see any effort from the research notes, and Ifetekhar said that he had some difficulties from the job hunting activities, such as the web test or SPI and also finding some companies. Sensei said that at least please also write those things to be the written in the research notes, and yeah I think it is also important even it is not related to the research. Sensei said, okay we will try to write from now but in 3 weeks with no research notes, it is not a short times.
+Writing wrong fact or misslead factor, in research note is prohabited.
+
+## 24.2.7
+
+I was preparing documents for applying a COE for my wife.
+
+## 24.2.8
+
+I have arubaito today 5 to 10 pm.
+
+## 24.2.9
+
+Today is Friday , prayers day. I finished my prayer at 12.30 pm.
+
+## 24.2.10
+
+I woke up morning i have no class, no part time today doing some problem solving after a long time.
+
+## 24.2.11
+
+I have arubaito from 1 to 10 pm .
+
+## 24.2.12
+
+I was trying to read some paper of my lab.
+
+## 24.2.13 *LM*
+
+
