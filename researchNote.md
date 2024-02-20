@@ -411,12 +411,22 @@ I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today 
 
 ## 24.2.18
 
-I have arubaito from 1 to 10 pm. 
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.2.19
 
-I was trying to read some paper of my lab.
+I was trying to read some basic concept of simulation, like what is simulation , the creation of a model than can be manipulated logically to decide how the physical world works, simulation answer questions. I have started to seeing a sassion on modeling and simulation. 
 
-## 24.2.13 *LM*
+## 24.2.20 *LM*
 
+Sensei says not to come campus on next sunday. Next week sensei will go nogoya as well as hokkaido, may be he will cancel the tour and the session can run ok . And next next week 5 march maybe there will no meeting or the relocation the meeting time. And Next month sensei have some bisuness trip, and there will some relocationg of session time. And in 12 march there will be no meeting because there will be an entering exam, and for busy schedule may be there will be no relocation of the meeting. This is the briefing of schedule of this month and next month. And april there will be deadline for the internationl conference.
+
+Todays meeting started with suma san. Sensei asked her what are the issue is she facing according her research and job hunting issue, that will be very helpful for masters first grade student. 
+obstacle in the parking lots? while we are making a simulation of basic parking lot where new obstacle may be face, like we can skip complicated obstacle. Suma san actually facing the problem about visualization, like who are going to get benifits.
+Fairness in resource allocation and fairness while 2 persons have same problem - who getting beinifits
+- We may not be clear/have no way to analyze what is actually happening. To analyse what is happening we should know
+- If we apply some reinforcement tech-then the log data may be small.
+- If the output data is small, then we may not worry about the visualisation.
+- We don't know where to start is the difference between bachelors and masters.
+In Masters course there will be some complicated terms and experiment and thats why sensei is there to help us, but first students must leam something so they give us enough chances. And then we have discussions We may first have to have failures while doing something to learn. But those failures is good for better learning.
 
