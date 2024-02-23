@@ -429,4 +429,6 @@ Fairness in resource allocation and fairness while 2 persons have same problem -
 - If the output data is small, then we may not worry about the visualisation.
 - We don't know where to start is the difference between bachelors and masters.
 In Masters course there will be some complicated terms and experiment and thats why sensei is there to help us, but first students must leam something so they give us enough chances. And then we have discussions We may first have to have failures while doing something to learn. But those failures is good for better learning.
+Suma san have some issue including fairness after discussion with kawai san, like how does the fairness can be conducted ex in case someone disable and a pregnant women and first camer driver in a parking lot how does it can be determine whos gonna take the parking space>  what is completely unfair? in some cases we clearly see what is unfair and how we can adjust them.
+some Ai : cloud.ai,google AI genimi,
 
