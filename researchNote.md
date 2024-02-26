@@ -430,5 +430,30 @@ Fairness in resource allocation and fairness while 2 persons have same problem -
 - We don't know where to start is the difference between bachelors and masters.
 In Masters course there will be some complicated terms and experiment and thats why sensei is there to help us, but first students must leam something so they give us enough chances. And then we have discussions We may first have to have failures while doing something to learn. But those failures is good for better learning.
 Suma san have some issue including fairness after discussion with kawai san, like how does the fairness can be conducted ex in case someone disable and a pregnant women and first camer driver in a parking lot how does it can be determine whos gonna take the parking space>  what is completely unfair? in some cases we clearly see what is unfair and how we can adjust them.
-some Ai : cloud.ai,google AI genimi,
+some Ai : cloud.ai,google AI genimi.
 
+## 24.2.21
+
+I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
+
+## 24.2.22
+
+I have arubaito today 2 to 10 pm.I was so exhusted finishing my arubaito.
+
+## 24.2.23
+
+Today is Friday, I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors. 
+
+## 24.2.24
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.2.25
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.2.26
+
+I was trying to read some basic concept of simulation, like what is simulation , the creation of a model than can be manipulated logically to decide how the physical world works, simulation answer questions. Also trying to read nihongo, trying to understand basic conversation skill. I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal, and there could be many unique problem statements related to my research theme like Adaptive Traffic Signal Control, Congestion Prediction and Avoidance, Emergency Response Coordination: designing agents specialized in detecting accidents or emergencies, and so on. However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+
+## 24.2.27 *LM*
