@@ -507,3 +507,4 @@ Also trying to read nihongo, trying to understand basic conversation skill.
 
 ## 24.3.5 *LM*
 
+Sensei says not to come campus on next sunday. And next week 12 march there will no meeting. And Next meeting may be happen in 26 march, and there will some relocationg of session time. This is the briefing of schedule of this month and next month. And april there will be deadline for the internationl conference. the next semester will start from 11 april may be.
