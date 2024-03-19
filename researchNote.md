@@ -508,3 +508,62 @@ Also trying to read nihongo, trying to understand basic conversation skill.
 ## 24.3.5 *LM*
 
 Sensei says not to come campus on next sunday. And next week 12 march there will no meeting. And Next meeting may be happen in 26 march, and there will some relocationg of session time. This is the briefing of schedule of this month and next month. And april there will be deadline for the internationl conference. the next semester will start from 11 april may be.
+
+## 24.3.6
+
+I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
+
+
+## 24.3.7
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.3.8
+
+Today is Friday, I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors.
+
+## 24.3.9
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.10 
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.11
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+## 24.3.12
+
+There is no lab meeting today. Today is also the first day of Ramadan, i keep fasting and therer was a iftar party with the friends and senior brothers.
+
+
+## 24.3.13
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.3.14
+
+Today is Friday, I finished my prayer at 12.30 pm.
+
+## 24.3.15
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.16
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.17
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+## 24.3.18
+
+I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+
+## 24.3.19 **LM**
+
+
+
