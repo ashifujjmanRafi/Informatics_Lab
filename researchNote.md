@@ -565,5 +565,30 @@ I am confused about my research, As I don't have any previous experience in rese
 
 ## 24.3.19 **LM**
 
+The next meeting time will be changed to 4.45 pm.
 
+## 24.3.20
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.3.21
+
+Today is Friday, I finished my prayer at 12.30 pm.
+
+## 24.3.22
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.23
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.3.24
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+## 24.3.25
+I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+
+## 24.3.26
 
