@@ -590,5 +590,135 @@ I was trying to read nihongo, trying to understand basic conversation skill.
 ## 24.3.25
 I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
 
-## 24.3.26
+
+
+## 24.2.26 *LM*
+
+Next week sensei will go nogoya as well as hokkaido, may be he will cancel the tour and the session can run ok . And next next week 5 march maybe there will no meeting or the relocation the meeting time. And Next month sensei have some bisuness trip, and there will some relocationg of session time. And in 12 march there will be no meeting because there will be an entering exam, and for busy schedule may be there will be no relocation of the meeting.
+
+Talking with **sabbir san** : IN His code  he assigned static object randomly as it was a room model and movable object have a free position. Based on pygame library function he already assign some time interval and based on these time Interval our movable object run one place to another place
+he also assign some static path for movable object.
+Based on his current simsulation scenario, he can reproduce an updated version from here like updated version should include some static obstacle in random position or fleed position. he want to have also some fixed path for moving olject from one place to another place in this current situation without collision avoidance our movable object running smoot
+
+-Dreadlock and colision arddance tutaly afferent things but thens may be some small connection In his research the suction mechaniem may not be sufficient to ratoris condock soue in me situation
+
+To avond the deadinck issue we have actually two options, The
+- We can use some deadlock avoidance agorthm 
+- We can do nothing for this deadlock condition
+Sabbir san wanted to use aution mechanism for his simulation, and sensei suggested that if deadlock situation happen maybe that will be care of another way not help of aution mechanism, because aution mechanism is not used for this type of problem.
+- It can be haldle manually , like we can told in the code like if/else condition, and no need to think about it right now.
+- what can be happen if we try to do something, 
+
+Talking with **shuvo san** :
+For His simulation need to code for range prediction. he has some issues with making code and he tried to find this kind of code.He thinks next step is range prediction but it's not correct, after range prediction, he will try to do the best CS selection step. This is his maybe he may have other issue but he does not clearly understand it.
+**"Toward an Efficient Electric Vehicle Charging Place Booking System using Multiagent Learning"**, is the title for his paper.
+
+## 24.3.28
+
+I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
+
+## 24.3.29
+
+Today is Friday, I finished my prayer at 12.30 pm.
+
+## 24.3.30
+
+
+
+## 24.3.31
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.4.1
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.2
+
+
+
+## 24.4.3 
+
+Sensei says not to come campus on next sunday. And next week 12 march there will no meeting. And Next meeting may be happen in 26 march, and there will some relocationg of session time. This is the briefing of schedule of this month and next month. And april there will be deadline for the internationl conference. the next semester will start from 11 april may be.
+
+## 24.4.4
+
+I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
+
+
+## 24.4.5
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.4.6
+
+Today is Friday, I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors.
+
+## 24.4.7
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.8 
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.9
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+## 24.4.10
+
+There is no lab meeting today. Today is also the first day of Ramadan, i keep fasting and therer was a iftar party with the friends and senior brothers.
+
+
+## 24.4.11
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.4.12
+
+Today is Friday, I finished my prayer at 12.30 pm.
+
+## 24.4.13
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.14
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.15
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+## 24.4.16
+
+I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+
+## 24.4.17 
+
+The next meeting time will be changed to 4.45 pm.
+
+## 24.4.18
+
+I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+
+## 24.4.19
+
+Today is Friday, I finished my prayer at 12.30 pm.
+
+## 24.4.20
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.21
+
+I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.22
+
+I was trying to read nihongo, trying to understand basic conversation skill. 
+
+
+## 24.3.23 **LM**
 
