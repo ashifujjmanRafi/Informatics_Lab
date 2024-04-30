@@ -763,3 +763,15 @@ Then second module , ??<br>
 For Smart traffic light control, Initially it will be controlled with perspective of two value time and number of cars,following x waiting time.How to done it dynamically?
 
 <img title="initial idea" alt="Alt text" src="/home/rafz/Documents/Informatics_Lab/WhatsApp Image 2024-04-30 at 1.34.09 PM.jpeg" width="400">
+
+Next week there will be no meeting.
+**Disscussion with me** <br>
+Research is not a problem solving, When we do some problem solving we do some research. The main focus is to learn from the lab.Sometime strong belive is not correct.For now it is ok for learning new things. But in some case it should have some counter question,arguments.
+Research question doesn't mean problem statement- For understading the research .
+Ask others about most effective way is important,
+What can we do for it? - what can we for some specification statement?
+Difference between mockup and handsketch or ppt- From the mockup we can think different perspective, and the research question will be understandable by everyone.
+
+When we want to learn something new we should be confused, if i always beleive on my own belief maybe its not right all the time. I would be confused untill passed masters grade.
+
+Talk with toufik san:
