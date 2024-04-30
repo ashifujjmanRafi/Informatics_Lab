@@ -592,9 +592,8 @@ I am confused about my research, As I don't have any previous experience in rese
 
 
 
-## 24.2.26 *LM*
+## 24.3.26 *LM*
 
-Next week sensei will go nogoya as well as hokkaido, may be he will cancel the tour and the session can run ok . And next next week 5 march maybe there will no meeting or the relocation the meeting time. And Next month sensei have some bisuness trip, and there will some relocationg of session time. And in 12 march there will be no meeting because there will be an entering exam, and for busy schedule may be there will be no relocation of the meeting.
 
 Talking with **sabbir san** : IN His code  he assigned static object randomly as it was a room model and movable object have a free position. Based on pygame library function he already assign some time interval and based on these time Interval our movable object run one place to another place
 he also assign some static path for movable object.
@@ -619,106 +618,142 @@ I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
 
 ## 24.3.29
 
-Today is Friday, I finished my prayer at 12.30 pm.
+Today is Friday, I finished my prayer at 12.30 pm.And then i had part time from 5pm to 10 pm.
 
 ## 24.3.30
 
+I have part-time from 11am to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
 
 
 ## 24.3.31
 
-I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+I woke up morning i have no class, i have part-time from 11am to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
 
 ## 24.4.1
 
 I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
 
-## 24.4.2
+## 24.4.2 
 
-
+Today there is no lab meeting , new semester is going to be  started from next week.
 
 ## 24.4.3 
 
-Sensei says not to come campus on next sunday. And next week 12 march there will no meeting. And Next meeting may be happen in 26 march, and there will some relocationg of session time. This is the briefing of schedule of this month and next month. And april there will be deadline for the internationl conference. the next semester will start from 11 april may be.
+
 
 ## 24.4.4
 
-I have part time 3 to 10 pm.I was so exhusted finishing my arubaito.
+I have part time 5 to 10 pm.I was so exhusted finishing my arubaito.
 
 
 ## 24.4.5
 
-I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+Today is Friday, I woke up morning i have a nihongo class test for next semester then i have part-time from 5 to 10 pm.
 
 ## 24.4.6
 
-Today is Friday, I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors.
+I finished my prayer at 12.30 pm. Then i joined a job hunting discussion how to manage reference letter and which company offer englinsh or combine interview i heard the information form the seniors.
 
 ## 24.4.7
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.8 
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.9
 
-I was trying to read nihongo, trying to understand basic conversation skill. 
+The second semester class has started and i took 4 classes and nihongo class at this semester. 
 
 ## 24.4.10
 
-There is no lab meeting today. Today is also the first day of Ramadan, i keep fasting and therer was a iftar party with the friends and senior brothers.
+Today is Eid, muslims special day, after fasting 30 days we celebrate this day. 
 
 
 ## 24.4.11
 
-I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+I woke up morning i have nihongo class 8.45, i have part-time from 5 to 10 pm. Then today i tried to doing some problem solving after a long time, on leetcode.
 
 ## 24.4.12
 
-Today is Friday, I finished my prayer at 12.30 pm.
+Today is Friday, I finished my prayer at 12.30 pm. I had a class at 8.45. Then afternoon i have arubaito from 5 to 10 pm.
 
 ## 24.4.13
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.14
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.15
 
-I was trying to read nihongo, trying to understand basic conversation skill. 
+I was trying to read nihongo, I have nihongo class at 8.45, trying to understand basic conversation skill. Then i have another class software desiging at 4.5 pm , i am planning to take the class.
 
 ## 24.4.16
 
 I am confused about my research, As I don't have any previous experience in research. After joining meetings and reading some papers of our lab members, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+I already tried to talk with ihsan san, i send a message him but he didnt replied. I also talked with Takashahi san he is going to submit a sort paper in uncoming IAII conference. 
 
 ## 24.4.17 
 
-The next meeting time will be changed to 4.45 pm.
+I have nihongo class at 8.45, trying to understand basic conversation skill. Then today i have no class and afternoon i have part time 5 pm to 10 pm.
 
 ## 24.4.18
 
-I woke up morning i have no class, i have part-time from 1 to 10 pm. Then today i tried to doing some problem solving after a long time on leetcode.
+I woke up morning i have nihongo class, Then another new class i am going to take informatin resource its a must take course for me to fullfill the credit requirements.
 
 ## 24.4.19
 
-Today is Friday, I finished my prayer at 12.30 pm.
+Today is Friday, i have nihongo class at 8.45. then  I finished my prayer at 12.30 pm. Then i have arubaito at 5 pm.
 
 ## 24.4.20
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.21
 
-I have arubaito from 1 to 10 pm. I was so exhusted finishing my arubaito. 
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
 
 ## 24.4.22
 
-I was trying to read nihongo, trying to understand basic conversation skill. 
+I was trying to read nihongo, trying to understand basic conversation skill.  About my research, I found a pattern of addressing a distinct challenge related to the domain of interest. They propose a specific problem, followed by presenting a solution or comparing their ideas with previous work. I understand the importance of having a specific problem statement in my proposal ? However, I'm unsure about how to identify such a problem or what steps I should take in this situation.
+I already tried to talk with ihsan san, i send a message him but he didnt replied. I also talked with Takashahi san he is going to submit a sort paper in uncoming IAII conference. 
 
 
-## 24.3.23 **LM**
+## 24.4.23 **LM**
+
+Last year student already submitted their paper in the conference. Sabbir sans paper link is here:https://us02web.zoom.us/j/84052723369?pwd=R01KZ2YvMHFBY3JSVFE1MXlmaStkdz09, and this is for suzuki sans paper :https://us02web.zoom.us/j/84052723369?pwd=R01KZ2YvMHFBY3JSVFE1MXlmaStkdz09
+sensei already updated the page. 
+From our lab 6 papers submitted, 
+
+## 24.4.24 
+
+I have nihongo class at 8.45, trying to understand basic conversation skill. Then today i have no class and afternoon i have part time 5 pm to 10 pm.
+
+## 24.4.25
+
+I woke up morning i have nihongo class, Then another class informatin resource.
+
+## 24.4.26
+
+Today is Friday, i have nihongo class at 8.45. then  I finished my prayer at 12.30 pm. Then i have arubaito at 5 pm.
+
+## 24.4.27
+
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.28
+
+I have arubaito from 11 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.29
+
+I was trying to read nihongo, trying to understand basic conversation skill.
+
+
+## 24.4.30 **LM**
+
+
 
