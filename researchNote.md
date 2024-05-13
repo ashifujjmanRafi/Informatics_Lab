@@ -640,11 +640,9 @@ Today there is no lab meeting , new semester is going to be  started from next w
 ## 24.4.3 
 
 
-
 ## 24.4.4
 
 I have part time 5 to 10 pm.I was so exhusted finishing my arubaito.
-
 
 ## 24.4.5
 
@@ -775,3 +773,32 @@ Difference between mockup and handsketch or ppt- From the mockup we can think di
 When we want to learn something new we should be confused, if i always beleive on my own belief maybe its not right all the time. I would be confused untill passed masters grade.
 
 Talk with toufik san:
+
+## 24.4.7
+
+There is no lab meeting today, 
+
+## 24.4.8 
+
+I have nihongo class at 8.45. I have arubaito from 5 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.4.9
+
+I have two class at 8.45 and 10.20. 
+
+## 24.4.10
+
+Today is Friday, I finished my prayer at 12.30 pm. I had a class at 8.45. Then afternoon i have arubaito from 5 to 10 pm.
+
+## 24.4.11
+
+I have arubaito from 10 pm to 10pm.
+
+## 24.4.12
+
+I have arubaito from 10 pm to 10pm.
+
+## 24.4.13
+
+I am trying to solve one problem from leetcode everyday. From the last meeting sensei suggested to make a mockup for the research for better understanding, and other perspective can be arise some good research question.
+He also suggested not to use ppt for mockup, i asked my seniors they have done their mockup using ppt, i am planning to doing it using pygame and now i am trying to understand the basic concept of pygame first.
