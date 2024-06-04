@@ -386,11 +386,11 @@ I have arubaito from 1 to 10 pm .
 
 I was trying to read some paper of my lab.
 
-## 24.2.13 *LM*
+## 24.2.13 *LM*-Reasearch note
 
 Sensei told to try to submit research proposal to a international conference once, and for 2nd grade student its the last chance.
 IIAI AAI 2024: [https://iaiai.org/conference/aai2024/]
-shuvo san: Reasearch note are not only about success but also about how the failure happen otherwise it can be happen again and again. Research notes are about how to carrying out the research, what problem are we facing like this kind of things. The research discussion with Iftekhar san, the notes on the scheen , we will start from the research summary. He said that the meeting was started from the research summary and finding some conference for submitting the paper that he needs. Sensei does not see any effort from the research notes, and Ifetekhar said that he had some difficulties from the job hunting activities, such as the web test or SPI and also finding some companies. Sensei said that at least please also write those things to be the written in the research notes, and yeah I think it is also important even it is not related to the research. Sensei said, okay we will try to write from now but in 3 weeks with no research notes, it is not a short times.
+shuvo san: **Reasearch note** are not only about success but also about how the failure happen otherwise it can be happen again and again. Research notes are about how to carrying out the research, what problem are we facing like this kind of things. The research discussion with Iftekhar san, the notes on the scheen , we will start from the research summary. He said that the meeting was started from the research summary and finding some conference for submitting the paper that he needs. Sensei does not see any effort from the research notes, and Ifetekhar said that he had some difficulties from the job hunting activities, such as the web test or SPI and also finding some companies. Sensei said that at least please also write those things to be the written in the research notes, and yeah I think it is also important even it is not related to the research. Sensei said, okay we will try to write from now but in 3 weeks with no research notes, it is not a short times.
 Writing wrong fact or misslead factor, in research note is prohabited.
 
 ## 24.2.14
@@ -774,31 +774,203 @@ When we want to learn something new we should be confused, if i always beleive o
 
 Talk with toufik san:
 
-## 24.4.7
+## 24.5.1
+
+I have arubaito from 5 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.5.2
+
+I have two classes today, and have to submit some assignments, In this semester every classes assingning so many assignments
+
+
+## 24.5.3 
+
+Today is Friday, i have completed prayer and after that i have part-time from 5 to 10 pm.
+
+## 24.5.4
+
+This is saturday , weekend i have arubaito from 10am to 10pm, 
+
+## 24.5.5
+
+This is sunday , weekend i have arubaito from 10am to 10pm, 
+
+## 24.4.6
+
+I have two assignments to submit today, and planning to solve some problem in leetcode. 
+
+## 24.5.7
 
 There is no lab meeting today, 
 
-## 24.4.8 
+## 24.5.8 
 
 I have nihongo class at 8.45. I have arubaito from 5 to 10 pm. I was so exhusted finishing my arubaito. 
 
-## 24.4.9
+## 24.5.9
 
 I have two class at 8.45 and 10.20. 
 
-## 24.4.10
+## 24.5.10
 
 Today is Friday, I finished my prayer at 12.30 pm. I had a class at 8.45. Then afternoon i have arubaito from 5 to 10 pm.
 
-## 24.4.11
+## 24.5.11
 
 I have arubaito from 10 pm to 10pm.
 
-## 24.4.12
+## 24.5.12
 
 I have arubaito from 10 pm to 10pm.
 
-## 24.4.13
+## 24.5.13
 
-I am trying to solve one problem from leetcode everyday. From the last meeting sensei suggested to make a mockup for the research for better understanding, and other perspective can be arise some good research question.
-He also suggested not to use ppt for mockup, i asked my seniors they have done their mockup using ppt, i am planning to doing it using pygame and now i am trying to understand the basic concept of pygame first.
+I am trying to solve one problem from leetcode everyday. 
+From the last meeting sensei suggested to make a mockup for the research for better understanding, and other perspective can be arise some good research question.
+Not using ppt!
+He also suggested not to use ppt for mockup, i asked my seniors they have done their mockup using ppt, i am planning to doing it using pygame and now i am trying to understand the basic concept of pygame first. I was seeing a journal,"Smart Traffic Light Using YOLO Based Camera
+with Deep Reinforcement Learning Algorithm" i saw some figures and got an modeling idea for my mockup but i am not sure about it.
+
+
+
+## 24.5.14
+
+Next Next week our meeting will be skiped. From 28 there will be a conference JASAI, sensei will be busy. From june our meeting will be just on time.
+
+About **Research Note**: 
+The thing i remember from the last time, **Reasearch note** are not only about success but also about how the failure happen otherwise it can be happen again and again. Research notes are about how to carrying out the research, what problem are we facing like this kind of things. Sensei said that at least please also write those things to be the written in the research notes, and yeah I think it is also important even it is not related to the research. Sensei said, okay we will try to write from now but in 3 weeks with no research notes, it is not a short times.
+Writing wrong fact or misslead factor, in research note is prohabited.
+
+Sensei told to **Toufik san** :
+As a human being we cant remember all that happen with us with date and time, but if we write down everything maybe we can recall.
+Also writing research note we can monitor our work we are doing , if its blank it can make ourself ashamed that we havent done anything, Its a reminder for us that how much time we are giving in research prerspective.
+Reading a paper and we should to write it on research note, and if we are confusion about anything thats a problem we can talk about with sensei.
+Sensein suggested not to read some paper not to understan something, and those paper have some concreate goal.
+Result part have no connection with mockup, we have some expected result. And sensei suggested,
+***Dont beleive in your beleving***
+In the **conclusion part** two thing can be mentioned like , what result we are expecting, what we are dreaming to do and the result we will actually get from the result. At my understaning Research never concluded, it can and will be improved continiously. In conclusion sort clear goal. 
+
+**Disscussion with me:**
+Simpler desing for mockup, text base or rectangle, for initial mockup. Maybe in later time animation can be the final mockup. When we can do some text base mockup , we can also do more clear visualization. For now text base mockup is best thing.I thought maybe its the final mockup , that was the problem. 
+Writing something on my paper can relax me , sometime doing parallal work is good thing.
+
+Expected situation is to see the expanded time for the greater cognation side of the road and it 
+What the other aspect we can think of about traffic management ?
+what can be done for high speed car ?
+For emergency case like ambulance passing what can be done in traffic management ?
+
+Data from some road?
+
+## 24.5.15
+
+I have nihongo class, then i came home tried to read a paper. I have arubaito from 5 to 10 pm.
+
+## 24.5.16
+
+I have two classes and some assignments to submit today. I tried to do some problem solving in leetcode. Then i have part time 5 to 10 pm.
+
+## 24.5.17
+Today is friday, i have one class, then i have completed my prayer. Then i came to the lab and i have two assignment deadline one i have completed last night, the others i would complete now. I have another program to atten at 4pm about job hunting, HICE. I have joined a seminar about job searching, what should i keep in mind for searching a job. One of the most important thing i learn today if i have enough skill to communicate in japanease job hunting will be easy. Then i came back to lab. 
+I planned to make a initial mockup today. After finishing the initial mockup i have had some discuss with Takahashi san.
+
+## 24.5.18
+
+I have part time 10 am to 10 pm.
+
+## 24.5.19
+
+I have part time 10 am to 10 pm.
+
+## 24.5.20
+
+I have two classes today, i missed the nihongo class. Then i went to the lab, tried to do something about my research. I have tried to read some related random papers, To search some question that can be arise in my research also. Sensei give some hint last week like,
+ 
+  - For the drunk drivers how it is helpfull to follow the lights?
+  - Mid Night drivers drive rushly, can something be done about it?
+  - Can the accident be reduced ? or accident can be identified?
+  - After accident the emergency help time can be reduced?
+  - Can the collide car or rule breaking car can be identified through this system?
+  - Traffic police or man power what will their role?
+  - If weather collapse like heavy rain or snowfall how does the system react?
+  - 
+  
+
+## 24.5.21 **LAB MEETING**
+
+Next week lab meeting will be skipped for domestic conference. Plan presentation will happen in auguast. 
+
+## 24.5.22
+
+I was trying to read nihongo, trying to understand basic conversation skill. Today i have only nigongo class, then i have arubaito 5pm to 10 pm.
+
+
+## 24.5.23 
+
+I have two class today nihongo and information resource. And there is 4 assignments in this week, too many assignments in this semester. For my research i am reading some papers and i didnt the show the initial mockup to sensei maybe after showing i can get some cooment and work through.
+
+## 24.5.24 
+
+I have nihongo class at 8.45, trying to understand basic conversation skill. Then today i have no class. I have done my prayer at 12 pm then i came to lab and there was a earthquake seminar i joined that. afternoon i have part time 5 pm to 10 pm.
+
+## 24.5.25
+
+
+
+## 24.5.26
+
+
+
+## 24.5.27
+
+Today is monday and i have one class in the morning and the second class is cancelled cause sensei want us to join the JASAI. I came to lab early and do some problem solving and seen some paper for some research question.
+
+## 24.5.28
+
+I have one class , There is no lab meeting today. I came to lab and tried to do some assignment.
+
+## 24.5.29
+
+I was trying to read nihongo, there is a exam in next month in 6th, And i havent done the assignment in this semester all. I tried to read from different resources.
+
+## 24.5.30 
+
+JASAI
+I have allpied to jasai for part time and got one day part time , today 8 am to 6pm, It was a great experience, there management system was so smooth, i vouleenteared in management team, And attend two presentation that was in english and i find it interesting.
+
+
+## 24.5.31
+
+Today is firday i have one nihongo class in the morning but i missed that last day i was too much tired i coudnt wake up in time, then i go to the campus for doing friday prayer, I have arubaito from 5 to 10 pm. I was so exhusted finishing my arubaito. 
+
+## 24.6.1
+
+I have joined todays job fair in act city and visited 7 companies. This is new to me, may be i will do internship in some companies. And I visited company they work with compression of images, their compression ratio is near 40 to 50 % but image quality seems same.
+
+## 24.6.2
+
+
+
+
+## 24.6.3
+
+I have two class today i missed the nihongo class, then i came to lab the next class had a assignment but i didnt understand , and i asked takahashi san to help me and there was a disscussion meeting around 1 p.m to 3 pm for the Information organization class. In this week there was seven assignments, too much pressure. And then nigongo practice so many things. 
+About my research i am trying to read a paper,"Multiagent Decision Making For Maritime Traffic Management"
+As far i can think of some research question,
+  - For the drunk drivers how it is helpfull to follow the lights?
+  - Mid Night drivers drive rushly, can something be done about it?
+  - Can the accident be reduced ? or accident can be identified?
+  - what can a agent do after accident?
+  - After accident the emergency help time can be reduced?
+  - Can the collide car or rule breaking car can be identified through this system?
+  - Traffic police or man power what will their role?
+  - If weather collapse like heavy rain or snowfall how does the system react?
+  - 
+  
+## 24.6.4 **LAB MEETING**
+
+From next week sensei will have class at 4pm, From next meeting there will be divided into two time one will be same as this time and another will start from 5.40 pm. Last meeting was about domestic conference, Sensei was working as local organizing, 
+
+Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing.
+
+
+
