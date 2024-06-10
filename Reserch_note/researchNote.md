@@ -970,7 +970,16 @@ As far i can think of some research question,
 
 From next week sensei will have class at 4pm, From next meeting there will be divided into two time one will be same as this time and another will start from 5.40 pm. Last meeting was about domestic conference, Sensei was working as local organizing, 
 
-Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing.
+Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing. 
 
+## 24.6.5
+
+Today i have nihongo class and there is a job fair in the afternoon . And i am planning to go there, i meet several compinies Suzuki , senkei as my understanding now i should focus on nihongo much.
+
+## 24.6.6
+
+## 24.6.7
+
+## 24.6.10
 
 
