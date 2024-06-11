@@ -1006,3 +1006,7 @@ I am thinking about some research question,
 Next meetings update,
 
 This meeting will go on till 3.50 and then if it is necessary the meeting will be continued againg from 5.45.
+**About Thesis:** sensei suggested not to use microsoft doc, which Style? The best way to start writing theasis is not to think about it rather started writhing, In thesis it is important what i have i done not what have accomplished or the explanation.
+Sensei suggested to think about research question daily not more than one hour quontiniously.
+
+Disscussion with soma san: 
