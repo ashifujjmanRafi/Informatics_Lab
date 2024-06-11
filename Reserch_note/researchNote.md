@@ -852,8 +852,7 @@ In the **conclusion part** two thing can be mentioned like , what result we are 
 
 **Disscussion with me:**
 Simpler desing for mockup, text base or rectangle, for initial mockup. Maybe in later time animation can be the final mockup. When we can do some text base mockup , we can also do more clear visualization. For now text base mockup is best thing.I thought maybe its the final mockup , that was the problem. 
-Writing something on my paper can relax me , sometime doing parallal work is good thing.
-
+Writing something on my paper can relax me ,**sometime doing parallal work is good thing.**
 Expected situation is to see the expanded time for the greater cognation side of the road and it 
 What the other aspect we can think of about traffic management ?
 what can be done for high speed car ?
@@ -970,16 +969,40 @@ As far i can think of some research question,
 
 From next week sensei will have class at 4pm, From next meeting there will be divided into two time one will be same as this time and another will start from 5.40 pm. Last meeting was about domestic conference, Sensei was working as local organizing, 
 
-Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing. 
+**Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing.** 
 
 ## 24.6.5
 
-Today i have nihongo class and there is a job fair in the afternoon . And i am planning to go there, i meet several compinies Suzuki , senkei as my understanding now i should focus on nihongo much.
+Today i have nihongo class and there is a job fair in the afternoon . And i am planning to go there, i meet several compinies Suzuki , senkei as my understanding now i should focus on nihongo much. Then i came to lab and tried to do some problem solving. this semester there are too many assignments, like everyday has atleast one or two assignment.
 
 ## 24.6.6
 
+There are two classes in the morning. I missed one cause i am not feeling well. I have two assignments deadline to meet today. About research i am trying to search some new paper. Tomorrow i have nihongo class test i tried to practice so hard , this semester there is so much pressure and in couldnt fully concentrate to nihongo, i find it hard to leave something for next day.
+
 ## 24.6.7
+
+Today i have nihongo class test, it was hard for me i hardly can pass in this exam, now i understand a little nihongo but for reading and speaking i have to practice more and more. Then i have arubaito from 5pm to 10pm.
 
 ## 24.6.10
 
+Today is monday, i have two classes and two assignment to submit. I missed the nihongo class last night i slept late , the assignments was much hard to crack. I came to lab after finishing the class. And i am planning to apply for a schoolarship, i tried to fill the documents and i asked mizutani san for help. Then i tried to read a report "A traffic light control method based on multi‐agent deep reinforcement learning algorithm".
+And i tried to write the abstraction and conclusion in my paper. 
 
+## 24.6.11 **LAB MEETING**
+
+Recap from the last meeting(24.5.14) and my current situation:
+Sensei suggested to do creat initial mockup, and practice parallal working. sensei give some hint about, i was not clear last day about current situation like expected resul would be not only to see the expandaed time for the greater cognation side of the road. also suggested to think other aspect can be think about traffic management.
+
+I am thinking about some research question,
+  - For the drunk drivers how it is helpfull to follow the lights?
+  - Mid Night drivers drive rushly, can something be done about it?
+  - Can the accident be reduced ? or accident can be identified?
+  - what can a agent do after accident?
+  - After accident the emergency help time can be reduced?
+  - Can the collide car or rule breaking car can be identified through this system?
+  - Traffic police or man power what will their role?
+  - If weather collapse like heavy rain or snowfall how does the system react?
+
+Next meetings update,
+
+This meeting will go on till 3.50 and then if it is necessary the meeting will be continued againg from 5.45.
