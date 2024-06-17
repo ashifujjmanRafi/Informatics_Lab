@@ -1010,3 +1010,20 @@ This meeting will go on till 3.50 and then if it is necessary the meeting will b
 Sensei suggested to think about research question daily not more than one hour quontiniously.
 
 Disscussion with soma san: 
+
+## 24.06.12
+
+Today i have one class nihongo. After that i came to lab at 4pm and tried to read some paper. Then i have two assignments to submit this week. I have done one.
+
+## 24.06.13
+
+Today i have two class nihongo and information resource, then i have marathone part time from today to sunday . Today i have part time from 4pm to 10 pm. And after finishing the part time i did one of my assignments.
+
+## 24.06.14
+
+Today is friday, i have one nihongo class,then i have done my prayers. Then i have arubaito 5pm to 10 pm.
+
+## 24.06.17
+
+Today is Eid day the biggest celebration day for muslims, last night i went to sea beach for refreshment after 9 hours of part time. i was so much exhusted though i went. In the morning at 7am i have done eid salah. then i got two invitation from seniors. At night we bangali community arrange a small get together. I was in management team and also helped the cooking team.
+It was so much busy day. this week i havent done so much about research for this semesters assignments and eid celebration.
