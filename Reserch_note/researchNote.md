@@ -1027,3 +1027,30 @@ Today is friday, i have one nihongo class,then i have done my prayers. Then i ha
 
 Today is Eid day the biggest celebration day for muslims, last night i went to sea beach for refreshment after 9 hours of part time. i was so much exhusted though i went. In the morning at 7am i have done eid salah. then i got two invitation from seniors. At night we bangali community arrange a small get together. I was in management team and also helped the cooking team.
 It was so much busy day. this week i havent done so much about research for this semesters assignments and eid celebration.
+
+## 24.06.18 **LAB MEETING**
+
+End of this week electricity shutdown.
+
+Now i can start some mockup for each situation.
+
+## 24.06.19
+
+I feel sick, i havent a single thing today.
+
+## 24.06.20
+
+I have two class today. i am not feeling good, i missed the classes. I have two assignments this week. I am trying to do that. About research i should talk with soma san about the mockup. I am plannig to do some internship. 
+
+## 24.06.21
+
+Today is friday, i have nihongo class, i woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 5pm to 10 pm.
+
+## 24.06.24
+
+I have two class today, i go to the lab for do something about the research mockup. Soma san wasnt in the lab, i texted her for suggestion about the mockup.
+
+## 24.06.25 **LAB MEETING**
+
+Next meeting will be pysical meeting.
+
