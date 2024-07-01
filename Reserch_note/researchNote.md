@@ -1052,5 +1052,24 @@ I have two class today, i go to the lab for do something about the research mock
 
 ## 24.06.25 **LAB MEETING**
 
-Next meeting will be pysical meeting.
+Next meeting will be pysical meeting. Sensei suggested to do start the mockup without more thinking about the result would be.
+
+## 24.06.26 
+
+There is one nihongo class today, and i missed that. About research i am thinking to doing the after accident reaction of the system first.
+
+## 24.06.27 
+
+I came to lab there was two assignment pending for this week. I have completed them .
+
+## 24.06.28
+
+Today is friday, i have nihongo class, i woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 5pm to 10 pm.
+
+## 24.07.1
+
+I have joined todays software design, there will be some presentation and case stuy for next 3 weeks. then i tried to thik of a senarion and make a initial mockup , i took help from the AI.
+
+
+
 
