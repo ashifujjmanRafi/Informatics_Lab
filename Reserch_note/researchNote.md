@@ -1036,7 +1036,8 @@ Now i can start some mockup for each situation.
 
 ## 24.06.19
 
-I feel sick, i havent a single thing today.
+I feel sick, i havent a single thing today. 
+
 
 ## 24.06.20
 
@@ -1070,6 +1071,38 @@ Today is friday, i have nihongo class, i woke up late today i am not feeling goo
 
 I have joined todays software design, there will be some presentation and case stuy for next 3 weeks. then i tried to thik of a senarion and make a initial mockup , i took help from the AI.
 
+## 24.07.2 **LAB MEETING**
+
+Presentation of Suma San:
+What is fair allocation? Fair allocation - FOF
+Need basis fairness, Group fairness, Hybrid approches combines mulple fairnaess criteria or integrate them with other objectives such as efficiency or overall welfare.
+Difficulty of determinig fairness?
+A decision that seems fair and equitable to one group may be viewed as unfair by other - this is drawback 
+- Can LLM effectively determine the fairness?
+- as input the situation as natural language explanation go as the input and as ouput natural language
+- No proper judgement from the top used LLM
+- About the simulation in what basis according to fairness - need basis fairness?
+- OLLAMA - Promt engineering as input please tell in one word that is it fair or not
+- Main movite for this research how the LLM response to the fiarness and unfairness.
+
+The main purpose of AI is to thinking  as like human, Is it really possible to achive fairness through LLM?
+
+Suggestion : how difficulties we faces doing the researches it can be included
+
+Presentation of shuvo San:
+
+working on charging place allocation uning multi agent there is two part
+- Imagine we are going somewhere from hamamatsu to tokoyo on a electric viacle. And we can be sort of bettery.how is that situation. this paper introduces a smart charging navigation system for long distance EV travels.
 
 
+Presentation of sabbir san:
 
+Parallal task allocation in multi robot environment based on auction mechanism with deadlock constrains.
+
+Imagine in automated warehouse where various types of robots are responsible for different tasks, such as picking items from shelves, transporting them to packing stations, and managing inventory. each robot is equipped with specific capabilities and is tasked with performing multiple jobs in parallel to optimize productivity. The challenge arises when multiple robots need to access the same narrow aisle or pick items from the same shelf simultaneously, leading to potential deadlocks and inefficiencies.
+
+This paper we are working  to achive parallal task allocation in multi robot environment erasing deadlock situation using auction mechanism.
+
+we are trying to find some deadlock situation and tried to suggest some algorithm for 
+
+we have used itterative auction mechanism.

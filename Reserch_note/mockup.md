@@ -18,33 +18,27 @@
 |  +------------------+  |
 |  +------------------+  |
 |  |  Agent 2         |  |
-|  |  - Analyzes      |  |
+|  |  - Analyzes current |
 |  |    traffic flow  |  |
-|  |  - Predicts      |  |
-|  |    future issues |  |      
-|  +------------------+  |
-|  +------------------+  |
-|  |  Agent 3 (o/p)   |  |
-|  |  - Optimizes     |  |
+|  |  - - Optimizes   |  |
 |  |    traffic signals| |
 |  |  - Coordinates   |  |
 |  |    with control  |  |
 |  |    system        |  |
-|  +------------------+  |
 +------------------------+
             |
             |
             v
 +------------------------+
-| Central Traffic       |
-| Control System        |
+| Central Traffic        |
+| Control System         |
 | +--------------------+ |
 | | - Adjust Traffic   | |
 | |   Lights           | |
-| | - Manage Ramp       | |
+| | - Manage Ramp      | |
 | |   Metering         | |
-| | - Send Emergency    | |
-| |   Alerts            | |
+| | - Send Emergency   | |
+| |   Alerts           | |
 | +--------------------+ |
 +------------------------+
             |
@@ -68,9 +62,8 @@ Reporting: Once the accident is detected, the agent immediately reports the inci
 Agent 2: Traffic Flow Analysis Agent
 Action: This agent analyzes the impact of the accident on the overall traffic flow. It uses historical and real-time data to assess the extent of congestion caused by the accident.
 Prediction: The agent predicts potential secondary congestion points and evaluates the risk of further accidents in the vicinity due to the initial collision.
-Agent 3: Traffic Signal Optimization Agent
 Action: Upon receiving the accident report and traffic analysis, this agent dynamically adjusts traffic signal timings to mitigate congestion.
 Coordination: It synchronizes traffic lights at nearby intersections to prioritize the flow of vehicles away from the accident site. This helps in reducing bottlenecks and maintaining smoother traffic flow in unaffected areas.
-5. Central Traffic Control System:
+Central Traffic Control System:
 Action: The Central Traffic Control System acts on the information received from the MAS agents. It executes the recommended traffic signal adjustments and implements additional measures like ramp metering on highways to control vehicle inflow.
 Emergency Alerts: The system sends real-time alerts to emergency services, including police, fire departments, and medical responders, with precise details of the accident.
