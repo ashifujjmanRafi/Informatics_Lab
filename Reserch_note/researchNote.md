@@ -963,13 +963,13 @@ As far i can think of some research question,
   - Can the collide car or rule breaking car can be identified through this system?
   - Traffic police or man power what will their role?
   - If weather collapse like heavy rain or snowfall how does the system react?
-  - 
+  
   
 ## 24.6.4 **LAB MEETING**
 
 From next week sensei will have class at 4pm, From next meeting there will be divided into two time one will be same as this time and another will start from 5.40 pm. Last meeting was about domestic conference, Sensei was working as local organizing, 
 
-**Telling others people about the research dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing.** 
+**Telling others people about the research- dont try too much to make them understand rather try to show some mockup or work or prove what you are doing. And explain your condition and you are unable to speak in japanease in japanease they will understand that atleast you are practicing.** 
 
 ## 24.6.5
 
@@ -990,7 +990,7 @@ And i tried to write the abstraction and conclusion in my paper.
 
 ## 24.6.11 **LAB MEETING**
 
-Recap from the last meeting(24.5.14) and my current situation:
+**Recap from the last meeting(24.5.14) and my current situation:**
 Sensei suggested to do creat initial mockup, and practice parallal working. sensei give some hint about, i was not clear last day about current situation like expected resul would be not only to see the expandaed time for the greater cognation side of the road. also suggested to think other aspect can be think about traffic management.
 
 I am thinking about some research question,
@@ -1127,21 +1127,21 @@ I have tried to read about LiDAR technology. Today is friday, i have nihongo cla
 
 I have three assignment  this week , about research i tried to "AccidentGPT: Large Multi-Modal Foundation Model for Traffic Accident Analysis" read this paper. There was no class today and i tried to solve some assignments.
 
-## 24.07.15 **Lab meeting**
+## 24.07.16 **Lab meeting**
 
 Short notice: deadline of submitting thesis friday of next week.
 Mid term presentation, the preparation is on the way.
-When we solve or optimize something,Your research should present something new, not simply repeat existing findings.
-
-## 24.07.16
-
-After that i came to lab at 4pm and tried to read some paper. Then i have two assignments to submit this week. I have done one. 
+When we solve or optimize something,Your research should present something new, not simply repeat existing findings.**What is your controbution to your work or your research?**
 
 ## 24.07.17
 
-I was trying to read nihongo, trying to understand basic conversation skill. Today i have only nigongo class, then i have arubaito 5pm to 10 pm.
+After that i came to lab at 4pm and tried to read some paper. Then i have two assignments to submit this week. I have done one. 
 
 ## 24.07.18
+
+I was trying to read nihongo, trying to understand basic conversation skill. Today i have only nigongo class, then i have arubaito 5pm to 10 pm.
+
+## 24.07.19
 
 Today is friday, i have nihongo class, I woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 4pm to 9pm.
 
@@ -1151,4 +1151,27 @@ I have three assignment  this week-i have tried to solve them. Then i have a cla
 
 ## 24.07.23 **Lab meeting**
 
+Disscussion with soma san:
+Her problem is that she cant use ollama in some cases(with the mac mini in the lab), in order to run some large model like command r plus And when in tried to run via LMStudio which is prepared unig vnc. I cant use the copy paste function. As i need to give the input of car parking situation s generated she can t use this models.
+So the things she confirmed for this issues, capy paste of virtual lmstudio is disabled becauses of the option s she have selected while installing.
+- the large models which are unable to run via alllama is the issue of ollama, so even if she wants to observe some data from there.
 
+Disscussion with sabbbir san:
+**What is your controbution to your work or your research?**
+How many approch you have tried to solve dead lock situation.
+- we can prepare one or more approch for the research and then compare the result and show it and can say which one is better and our originality.
+
+Disscussion with shuvo san:
+
+
+About research contribution, As far disscussion with sabbir san i think we should compare our approch with some existing approch that will prove our contribution.
+**May be seeing the potential of multiagent system in the booking sytem and the optimal route selection.**
+
+
+**Discussion with me:**
+Tittle for my presentation - "Toward a Multi-Agent Approach for Dynamic Traffic Control and Optimization"
+
+
+
+
+  
