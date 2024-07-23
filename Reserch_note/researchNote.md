@@ -891,7 +891,7 @@ I have two classes today, i missed the nihongo class. Then i went to the lab, tr
   - Can the collide car or rule breaking car can be identified through this system?
   - Traffic police or man power what will their role?
   - If weather collapse like heavy rain or snowfall how does the system react?
-  - 
+  
   
 
 ## 24.5.21 **LAB MEETING**
@@ -1017,7 +1017,7 @@ Today i have one class nihongo. After that i came to lab at 4pm and tried to rea
 
 ## 24.06.13
 
-Today i have two class nihongo and information resource, then i have marathone part time from today to sunday . Today i have part time from 4pm to 10 pm. And after finishing the part time i did one of my assignments.
+Today i have two class nihongo and information resource, then i have marathone part time from today to sunday. Today i have part time from 4pm to 10 pm. And after finishing the part time i did one of my assignments.
 
 ## 24.06.14
 
@@ -1031,13 +1031,11 @@ It was so much busy day. this week i havent done so much about research for this
 ## 24.06.18 **LAB MEETING**
 
 End of this week electricity shutdown.
-
 Now i can start some mockup for each situation.
 
 ## 24.06.19
 
 I feel sick, i havent a single thing today. 
-
 
 ## 24.06.20
 
@@ -1090,19 +1088,67 @@ The main purpose of AI is to thinking  as like human, Is it really possible to a
 Suggestion : how difficulties we faces doing the researches it can be included
 
 Presentation of shuvo San:
-
 working on charging place allocation uning multi agent there is two part
 - Imagine we are going somewhere from hamamatsu to tokoyo on a electric viacle. And we can be sort of bettery.how is that situation. this paper introduces a smart charging navigation system for long distance EV travels.
 
-
 Presentation of sabbir san:
-
 Parallal task allocation in multi robot environment based on auction mechanism with deadlock constrains.
-
 Imagine in automated warehouse where various types of robots are responsible for different tasks, such as picking items from shelves, transporting them to packing stations, and managing inventory. each robot is equipped with specific capabilities and is tasked with performing multiple jobs in parallel to optimize productivity. The challenge arises when multiple robots need to access the same narrow aisle or pick items from the same shelf simultaneously, leading to potential deadlocks and inefficiencies.
+This paper we are working  to achive parallal task allocation in multi robot environment erasing deadlock situation using auction mechanism. we are trying to find some deadlock situation and tried to suggest some algorithm for we have used itterative auction mechanism.
 
-This paper we are working  to achive parallal task allocation in multi robot environment erasing deadlock situation using auction mechanism.
+## 24.07.3
 
-we are trying to find some deadlock situation and tried to suggest some algorithm for 
+I have two class today. I am not feeling good, i missed the classes. I have two assignments this week. I am trying to do that.
 
-we have used itterative auction mechanism.
+## 24.07.4
+
+Today i have one class nihongo. After that i came to lab at 4pm and tried to read some paper. Then i have two assignments to submit this week. I have done one.
+
+## 24.07.5
+
+Today is friday, i have nihongo class, i woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 5pm to 10 pm.
+
+## 24.07.8
+
+I have joined todays software design, there will be some presentation and case stuy for next 3 weeks. then i tried to thik of a senario and make a initial mockup , i took help from the AI.
+
+## 24.07.9 **Lab meeting**
+
+
+## 24.07.10
+
+I have two class today. I am not feeling good, i missed the classes. I have two assignments this week. I am trying to do that.
+
+## 24.07.11
+
+I have tried to read about LiDAR technology. Today is friday, i have nihongo class, i woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 5pm to 10 pm.
+
+## 24.07.14
+
+I have three assignment  this week , about research i tried to "AccidentGPT: Large Multi-Modal Foundation Model for Traffic Accident Analysis" read this paper. There was no class today and i tried to solve some assignments.
+
+## 24.07.15 **Lab meeting**
+
+Short notice: deadline of submitting thesis friday of next week.
+Mid term presentation, the preparation is on the way.
+When we solve or optimize something,Your research should present something new, not simply repeat existing findings.
+
+## 24.07.16
+
+After that i came to lab at 4pm and tried to read some paper. Then i have two assignments to submit this week. I have done one. 
+
+## 24.07.17
+
+I was trying to read nihongo, trying to understand basic conversation skill. Today i have only nigongo class, then i have arubaito 5pm to 10 pm.
+
+## 24.07.18
+
+Today is friday, i have nihongo class, I woke up late today i am not feeling good. I have done my prayer then came to room. I have part time from 4pm to 9pm.
+
+## 24.07.22
+
+I have three assignment  this week-i have tried to solve them. Then i have a class at 4 pm - software engineering, about research i tried to "Traffic accident detection and condition analysis based on social networking data" read this paper. 
+
+## 24.07.23 **Lab meeting**
+
+
