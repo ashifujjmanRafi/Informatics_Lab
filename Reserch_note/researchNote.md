@@ -1171,7 +1171,51 @@ About research contribution, As far disscussion with sabbir san i think we shoul
 **Discussion with me:**
 Tittle for my presentation - "Toward a Multi-Agent Approach for Dynamic Traffic Control and Optimization"
 
+my interest for now is to seeing the potentiality of multi agent system for post accident senario. 
+
+Think about the EV- automatic cars for obstacle detection.
+
+## 24.07.24
+
+I followed sensei's hint and searching some papers on obstacle detection for automatic vechile.
+"3D Visual Perception for Self-Driving Cars using a
+Multi-Camera System: Calibration, Mapping,
+Localization, and Obstacle Detection"
+Keywords: Fisheye Camera, Multi-camera System, Calibration, Mapping,
+Localization, Obstacle Detection
+This paper mainly focuses on the ability to sense cars surroundings, the 3D variant of this problem : estimating the 3D structure of the environment around the car and exploiting it for tasks such as visual localization and obstacle detection.
+
+## 24.07.25
+
+The problem with my current research that research questions actually have the potentiality to being researched. I tried to read another paper,
+"Real-Time Multi-obstacle Detection and Tracking Using a Vision Sensor for Autonomous Vehicle"
+
+## 24.07.26
+
+"Detecting Unexpected Obstacles for Self-Driving Cars:
+Fusing Deep Learning and Geometric Modeling" [link](https://arxiv.org/pdf/1612.06573) - <br>
+addressed problem with a vision system that leverages appearance, contextual as well as geometric cues.
+
+## 24.07.26
+
+Investigating Driving Interactions: A Robust Multi-Agent Simulation
+Framework for Autonomous Vehicles, [link](https://arxiv.org/pdf/2402.04720)
+
+Deep-Reinforcement-Learning-Based Collision Avoidance of Autonomous Driving System for Vulnerable Road User Safety [link](https://www.mdpi.com/2079-9292/13/10/1952)
+The hybrid A* path searching algorithm is first applied to calculate a pre-defined path marked by waypoints, and a low-level path-following controller is used under cases where no VRUs are detected. Upon detection of any VRUs, however, a high-level DRL collision avoidance controller is activated to prompt the vehicle to either decelerate or change its trajectory to prevent potential collisions.
+
+## 24.07.29
+ Obstacle detection and avoidance for automated vehicle: a review, [link](https://link.springer.com/article/10.1007/s12596-020-00676-6#Abs1) :One of the initial approaches was by using ultrasonic sensors and laser range scanner and was adopted with acceptable accuracy. But as the camera applications geared up with their advances in types and sophistications, a pair of camera or stereo vision has geared up for this application.
+ "Multiple Obstacle Detection for Assistance Driver System Using Deep Neural Networks :" [link](https://link.springer.com/chapter/10.1007/978-3-030-24271-8_45)
+ they propose a deep convolutional networks for solving the online multiple obstacles detection problem. The method consists of deep visual information extraction and visual pattern learning. They are modeled as deep Convolution Neural Networks, which are able to learn discriminative visual features for obstacle detection and model inter-object relations in an asymmetric way and give the orientation extraction for the moving obstacles.
+"Obstacle Detection and Distance Estimation for Autonomous Electric Vehicle Using Stereo Vision and DNN": [link](https://link.springer.com/chapter/10.1007/978-981-13-3393-4_65)
+This can be achieved in multitude of ways such as using passive sensors like camera and applying vision algorithms on their data or using active sensors like RADAR, LIDAR, time of flight (TOF). Active sensors are costly and not suitable for use in academic and research purposes. Since we have advanced computational platforms and optimized vision algorithms, we can make use of low-cost vision sensors to capture images in real time and map the surroundings of an automobile. In this paper, we tried to implement stereo vision on autonomous electric vehicle for obstacle detection and distance estimation.
 
 
+I have one class of software engineering today, there is a last assignment.
+In last week i got hint from sensei and i tried to read some paper about that topic. My current situation is i am confused that i asked suma san , takahashi san about the hint. Is sensei give me the hint for changing the research theme, soma san replied she was actually busy with her thesis last week and didn't followed much.
+Takahashi san said sensei taught me about importance of "WHAT" and "curiosity".
+Sensei knows "curiosity" of research community and can judge your research topic would be accepted or not so welcome.And also said he take enough volume of note to remember the details of you and sensei's last discussion.
 
+For now i am confused ? i find more curiousity with this theme of obstacle detection for self driving vehicle . 
   
