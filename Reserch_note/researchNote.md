@@ -1211,11 +1211,94 @@ The hybrid A* path searching algorithm is first applied to calculate a pre-defin
 "Obstacle Detection and Distance Estimation for Autonomous Electric Vehicle Using Stereo Vision and DNN": [link](https://link.springer.com/chapter/10.1007/978-981-13-3393-4_65)
 This can be achieved in multitude of ways such as using passive sensors like camera and applying vision algorithms on their data or using active sensors like RADAR, LIDAR, time of flight (TOF). Active sensors are costly and not suitable for use in academic and research purposes. Since we have advanced computational platforms and optimized vision algorithms, we can make use of low-cost vision sensors to capture images in real time and map the surroundings of an automobile. In this paper, we tried to implement stereo vision on autonomous electric vehicle for obstacle detection and distance estimation.
 
-
 I have one class of software engineering today, there is a last assignment.
-In last week i got hint from sensei and i tried to read some paper about that topic. My current situation is i am confused that i asked suma san , takahashi san about the hint. Is sensei give me the hint for changing the research theme, soma san replied she was actually busy with her thesis last week and didn't followed much.
+
+In last week i got hint from sensei and i tried to read some paper about that topic. My current situation is i am confused that i asked suma san , takahashi san about the hint.have sensei give me the hint for changing the research theme, soma san replied she was actually busy with her thesis last week and didn't followed much.
 Takahashi san said sensei taught me about importance of "WHAT" and "curiosity".
-Sensei knows "curiosity" of research community and can judge your research topic would be accepted or not so welcome.And also said he take enough volume of note to remember the details of you and sensei's last discussion.
+Sensei knows "curiosity" of research community and can judge your research topic would be accepted or not so welcome.And also said he didnt take enough volume of note to remember the details of you and sensei's last discussion.
 
 For now i am confused ? i find more curiousity with this theme of obstacle detection for self driving vehicle . 
-  
+
+## 24.07.30 **Lab Meeting**
+
+29-31 august there will be mid term presentation, this could be early morning schedule. September first week sensei will have an workshop in hiroshima prefecture.
+
+Discussion with me :
+He is very confused.
+Sensei question - What kind of issues he has about his research title.
+Instead of saying - what should you do => change “should” to “can” i.e., what can i do
+He thought he would get some ideas from the papers => so, he started to read them.
+Before reading those papers, did you prepare some questions on reading those papers?
+Why are you willing to have the brief summary of the content of the paper - the summary is already there in the abstract. You can directly copy and paste the abstract if you just want a summary. It is very easy and accurate.
+Before making a checklist it is also necessary to check the background of the paper like where it comes from - don't read papers randomly.
+Where this paper comes (the paper he is reading now) . how you reached this paper. Why do you believe this paper is nice to read?
+Don't search your papers. See papers that come from top conferences.
+Usually people search by keywords,  but recently published papers don't include the keywords.
+The one he is reading is not a research paper rather a summary of what is happening in the field. From such things we don't have any way on how to organize our research.
+Instead of searching - see the recently published state-of-art.
+What issues are you having in your presentation title?
+Your research title is very general but doesn't include the details of your research. So, I told you in the last lab meeting to concentrate on the details of your research.
+The issue is - we mentioned nothing more details.
+The situation in different cases is different. How many cases/scenarios are you written in your research?
+He showed some questions but still these are less detailed and very general - for eg, reg drunk and drive - are they having family/nt, what kind of car he is driving etc.,
+When you ask someone about these details then they can answer or give some more details to you.
+Those details can be utilized to do some mock ups.
+It is necessary to clearly evaluate those all ⅞ instance cases.
+
+For mockup first think about the detailed senario, like What kind of car, the Road details.
+
+## 25.07.31
+
+The classes are over, in this week there are three last assignment for this semester.
+
+## 24.08.1
+
+In last meeting we talked about the situations and i wanted to chage my research theme but sensei told that i should work on the research questions first like make more detatils about the senario, that i am working on currently, The research question currently i am focusing on 
+ - Can the accident be prevented ? or accident can be identified?
+
+How a multi-agent system (MAS) can help for real-time accident preventation or obstacle detaction in **autonomous car**. 
+
+## 24.08.2
+
+In in my home country a civil war is happening between the unarmed students vs armed government army. Many innocent people are dying , this happening for like half of a month. But for now it happenig so brutally and many of my friends got died and injured in the protest. I am not feeling well mentally.
+
+## 24.08.5
+
+Today Bangladesh got victory against the facist government and so many unwanting event is happening in my country. I am happy and sad at the same time.
+
+Last meeting summary:
+What issues are you having in your presentation title? -The issue is - we mentioned nothing more details.
+The situation in different cases is different. How many cases/scenarios are written in my research
+ - some questions but still these are less detailed and very general 
+ - for eg, reg drunk and drive - are they having family/nt, what kind of car he is driving etc.,
+ - When you ask someone about these details then they can answer or give some more details to you.
+
+
+## 24.08.6 **LAB MEETING**
+
+Our midterm presentation might be happen in 29 august at the morning shift.
+
+With multi agent approch even we cant decide this approch is optimal for the solution.                                                                                                     
+Last meeting summary:
+What issues are you having in your presentation title? 
+- we mentioned nothing more details about the research senario.
+- How a multi-agent system (MAS) can help in real-time accident preventation or obstacle detaction for autonomous car. 
+Next question, how can we do it?  having seen some example, We need some complete example senario. After seen some complete senario then we can genaralize them. After genaralizing them then i can find some way to solve the senario.
+How can we do some detailed senario for them ?
+Thinking about good example is not easy, dont try to produce from your imagination, it would harm. 
+If you worry about your future,
+Having some short disscussion with others
+another way is only observing by yourself, if you find something them take memo.
+when we try to make good example we should start from bad example. Try a little better example step by step. 
+
+Talking with soma san:
+What i actually want to doing with obstacle detection like only detecting the obstacle, because there has been some technology they have already detecting the obstacle.
+  - the existing obstacle detection technology has some range
+  - i am wanting to detect obstacle for autonomous cars for accurate finding
+  - next existing obstacle detection technology, how do they operate
+  - what are the obstacle detection technology for autonomous 
+  - what i really wanted to do after detecting the obstacle 
+  - it can be used post accident senario to alrming the upcoming cars: then there should be inter communication system.
+  - Obstacle detection for parking lot: normal car can detect obstacle in parking lot how
+  - i can detect obstacle then what?
+  - 
