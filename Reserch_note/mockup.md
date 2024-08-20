@@ -38,3 +38,50 @@ References
 
 
 	
+To create a research proposal for using large language models (LLMs) to address complex ethical scenarios in autonomous vehicles, consider structuring it around these key points:
+
+### 1. **Introduction**
+   - **Context:** Discuss the increasing adoption of autonomous vehicles and the critical ethical challenges they present, particularly in scenarios where the vehicle must choose between two or more harmful outcomes (e.g., swerving to avoid a pedestrian but risking a collision with oncoming traffic).
+   - **Problem Statement:** Outline the specific problem of ethical decision-making in autonomous vehicles, focusing on situations where the vehicle must prioritize between different potential victims in a collision.
+   - **Objective:** The research aims to explore how LLMs can be integrated into decision-making systems to handle these ethical dilemmas effectively.
+
+### 2. **Literature Review**
+   - **Ethics in Autonomous Vehicles:** Summarize existing research on ethical frameworks (e.g., utilitarianism, deontological ethics) used in the development of autonomous vehicle decision-making systems.
+   - **Role of LLMs:** Review current applications of LLMs in decision-making, highlighting their potential in processing vast amounts of ethical data, generating decision options, and simulating ethical scenarios.
+   - **Existing Challenges:** Identify gaps in the existing research, such as the limitations of rule-based systems in handling nuanced ethical decisions and the potential of LLMs to fill these gaps.
+
+### 3. **Research Questions**
+   - How can LLMs be trained to understand and apply ethical principles in real-time decision-making scenarios?
+   - What are the implications of using LLMs for ethical decision-making in autonomous vehicles, both in terms of technical feasibility and societal impact?
+   - How can LLMs be integrated into existing autonomous vehicle frameworks to enhance their decision-making capabilities?
+
+### 4. **Methodology**
+   - **Data Collection:** Describe the collection of ethical scenarios and decision-making frameworks that the LLM will be trained on. This may include crowd-sourced ethical judgments, expert opinions, and existing legal and moral guidelines.
+   - **LLM Training:** Explain the process of fine-tuning the LLM on the collected ethical scenarios, focusing on its ability to generalize ethical principles and generate appropriate responses in novel situations.
+   - **Simulation and Testing:** Outline the use of simulations to test the LLM's decision-making in various ethical scenarios, comparing its performance with existing systems.
+   - **Evaluation:** Discuss how the ethical decisions made by the LLM will be evaluated, considering factors like consistency with human ethical judgments, compliance with legal standards, and societal acceptance.
+
+### 5. **Expected Outcomes**
+   - Development of an LLM-based ethical decision-making module for autonomous vehicles.
+   - Insights into the strengths and limitations of LLMs in ethical reasoning.
+   - Recommendations for integrating LLMs into autonomous vehicle systems.
+
+### 6. **Implications and Future Work**
+   - Discuss the broader implications of using LLMs in autonomous vehicles, including potential legal and regulatory challenges, public perception, and the need for continuous monitoring and updates.
+   - Suggest areas for future research, such as improving the interpretability of LLM decisions and addressing biases in ethical decision-making.
+
+### 7. **Conclusion**
+   - Summarize the potential of LLMs to enhance ethical decision-making in autonomous vehicles and the importance of this research in advancing the safe and ethical deployment of autonomous technologies.
+
+This structure provides a comprehensive approach to exploring the use of LLMs in addressing ethical scenarios for autonomous vehicles.
+
+
+
+
+Traditional OCR vs. LLM-based OCR
+Traditional OCR: This involves multiple steps: image preprocessing, text segmentation, character recognition, and text reconstruction. It can be error-prone, especially with complex images or handwritten text.   
+LLM-based OCR: LLMs, trained on vast amounts of text and image data, can directly process images and extract text.1 This can potentially improve accuracy, especially in challenging conditions.1   
+
+
+
+**less complex and human like reasoning** we present an autonomous vehicular system based on multi-agents to reduce the complexity of the autonomous system. In fact, instead of executing several tasks by one process, we split them between different agents. Therefore, this complexity reduction reduces the execution time and provide a quick intervention in complex scenarios. Furthermore, our multi-agent system can be applied for all vehicular brands. In contradictory to the existing systems that were dedicated to specific brands.

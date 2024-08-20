@@ -1170,7 +1170,6 @@ About research contribution, As far disscussion with sabbir san i think we shoul
 
 **Discussion with me:**
 Tittle for my presentation - "Toward a Multi-Agent Approach for Dynamic Traffic Control and Optimization"
-
 my interest for now is to seeing the potentiality of multi agent system for post accident senario. 
 
 Think about the EV- automatic cars for obstacle detection.
@@ -1302,3 +1301,117 @@ What i actually want to doing with obstacle detection like only detecting the ob
   - Obstacle detection for parking lot: normal car can detect obstacle in parking lot how
   - i can detect obstacle then what?
   - 
+
+## 24.08.7
+
+ADAS- Advance
+
+- Level 0: No Automation: The driver performs all driving tasks.
+- Level 1: Driver Assistance: The vehicle can assist with one or more driving functions (e.g., adaptive cruise control, lane departure warning).
+- Level 2: Partial Automation: The vehicle can combine two or more driving functions (e.g., adaptive cruise control and lane-keeping assist), but the driver must remain engaged and ready to take control.
+- Level 3: Conditional Automation: The vehicle can handle all aspects of driving in certain conditions, but the driver must be ready to take control when requested.
+- Level 4: High Automation: The vehicle can handle all aspects of driving in most conditions, but human intervention may still be necessary in some situations.
+- Level 5: Full Automation: The vehicle can handle all driving tasks under all conditions without human intervention.
+
+While the concept of a fully autonomous vehicle (Level 5 on the SAE scale) is captivating, the reality is that we are not there yet.
+
+**Research Question:**
+1.  Addressing complex ethical scenarios that autonomous vehicles may encounter, such as choosing between different potential victims in a collision.For example, an autonomous vehicle might need to decide whether to swerve to avoid hitting a pedestrian, potentially risking a collision with oncoming traffic.
+
+Challanges for now:
+- Sensor Fusion: multi-sensor data fusion, sensor calibration, sensor uncertainty
+- Perception: object detection, object tracking, semantic segmentation
+- Path Planning and Control: motion planning, trajectory generation, vehicle dynamics
+- Human-Machine Interaction: human-robot interaction, driver behavior, trust
+- Simulation and Testing: virtual environments, simulation platforms, hardware-in-the-loop
+  
+Definition of **sensor fusion** in the ai context: In the AI context, sensor fusion epitomizes the cross-disciplinary approach of combining information from diverse sensors – such as cameras, radars, LiDAR, and ultrasonic sensors – to create a unified, comprehensive understanding of the environment. By fusing data from these varied sources, AI systems can foster higher levels of situational awareness and decision-making capabilities
+
+## 24.08.8
+
+Challanges:
+1. Detecting small objects like children, debris, or potholes can be challenging, especially at higher speeds.
+2. Incorrectly identifying objects as obstacles (false positives) or failing to detect actual obstacles (false negatives) can lead to safety issues.
+3.  Effectively combining data from multiple sensors (cameras, LiDAR, radar) to improve detection accuracy remains an ongoing challenge.
+4.  
+
+## 24.08.9
+
+https://scholar.google.co.jp/scholar?as_ylo=2024&q=obstacle+detection+for+autonomous+vehicles&hl=en&as_sdt=0,5&as_vis=1
+
+
+## 24.08.12
+About Waymo, Before our Waymo Driver begins operating in a new area, we first map the territory with incredible detail, from lane markers to stop signs to curbs and crosswalks. Then, instead of relying solely on external data such as GPS which can lose signal strength, the Waymo Driver uses these highly detailed custom maps, matched with real-time sensor data, to determine its exact road location at all times.
+
+Lidar: 
+Lidar, or Light Detection and Ranging, paints a 3D picture of the vehicle’s surroundings. Lidar sensors are located all around the vehicle in order to send millions of laser pulses in all directions, then measure how long it takes for them to bounce back off objects. No matter the time of day, our lidar system gives the Waymo Driver a bird’s eye view of what’s around.
+
+Camera:
+Our cameras give the Waymo Driver a simultaneous 360° view around the vehicle. They are designed with high dynamic range and thermal stability, to see in both daylight and low-light conditions, and tackle more complex environments. They can spot traffic lights, construction zones, and other scene objects, even from hundreds of meters away. There are 29 cameras on our Jaguar I-PACEs.
+
+Radar: 
+Radar uses millimeter wave frequencies to provide the Waymo Driver with crucial details like an object’s distance and speed. Radar is effective in rain, fog, and snow.
+
+Brain: 
+As the “brain" of the Waymo Driver, our onboard computer combines the latest server-grade CPUs and GPUs. It takes information provided by dozens of sensors on the car, identifies the different objects (like other cars and pedestrians), and plans a safe route towards your destination – all in real time.
+
+
+First what i am planning to doning -> research background -> research motivation -> motivation senario? ->
+
+## 24.08.13
+
+Sensor fusion is a main challange for dteecting obstacle and here in proposing multi agent approch like output from different sensor will be haldled by multiple agents and a certralized agent will take the main decision.
+
+
+## 24.08.14
+
+How an LLM-based system could potentially handle this:
+
+1. Context Integration: The LLM could integrate information from multiple sources (visual inputs, traffic rules, construction zone protocols) to understand the overall context.
+2. Reasoning: It could reason about the hierarchy of traffic controls (e.g., worker gestures may override malfunctioning lights).
+3. Generalization: Even if not explicitly trained on this exact scenario, the LLM could generalize from its knowledge of traffic rules, construction zones, and safety protocols.
+4. Human-like Interpretation: It could interpret the construction worker's gestures in the context of road work, even if they're not standard traffic signals.
+5. Cautious Approach: The LLM could generate a conservative plan that prioritizes safety, such as slowing down, attempting to establish clear communication with the worker, and proceeding with extreme caution.
+6. Explanation Generation: The LLM could provide clear reasoning for its decisions, which could be crucial for post-incident analysis or real-time communication with passengers.
+
+
+## 24.08.15
+
+Why multiagent is our choice?
+- Each agent focuses on a specific task (e.g., object detection, path planning), making them highly efficient.
+-  In a multi-agent system, decision-making is distributed across several agents, reducing the risk of a single point of failure and allowing the system to respond more flexibly to changing conditions.
+- Agents can collaborate, sharing information and coordinating their actions to achieve a common goal.
+- 
+
+## 24.08.16
+
+I am trying to make a presentation that includes a novel approach to autonomous driving systems by integrating a Large Language Model (LLM) as the main decision-making agent within a multi-agent framework.
+And i about the senarion i am thinking about false positive and false negative.
+
+
+## 24.08.19
+
+Last meeting recap: we mentioned nothing more details about the research senario,how can we do it?  having seen some example, We need some complete example senario. After seen some complete senario then we can genaralize them. After genaralizing them then i can find some way to solve the senario.
+How can we do some detailed senario for them ?
+Thinking about good example is not easy,dont try to produce from your imagination, it would harm. 
+If you worry about your future,Having some short disscussion with others.
+
+Short discussion with soma san:
+What i actually want to doing with obstacle detection like only detecting the obstacle, because there has been some technology they have already detecting the obstacle.
+  - the existing obstacle detection technology has some range
+  - i am wanting to detect obstacle for autonomous cars for accurate finding, then what?
+  - next existing obstacle detection technology, how do they operate
+  - what are the obstacle detection technology for autonomous 
+  - what i really wanted to do after detecting the obstacle
+
+
+## 24.08.20 **LAB MEETING**
+
+My current situation, I have prepared a presentation, the senario is kind of
+a case of partial road construction or maintenance, that I often I see in road in japan , some pepole uses red and white flag to make signal its ok to pass or not they block the maintaince part with traffic cones.
+What we human do in this kind of situation, - We use our common sense and pass through safe side.
+What a  AV might do in this situation? -A typical autonomous vehicle (AV) might see the "STOP" sign and barriers and immediately come to a complete stop. It might interpret this as a full road closure, based on its pre-trained data.
+
+Some informatin for near future, 
+Next tuesday sensei is busy, there will be no meeting. Next wendesday, 8/28
+**About the thesis**, there would be 3 submission date first is for comment from other sensei this could be change but submission to the administration the submission time are very firmly, then the version would be submitted to the campus file system this is prior final then if the commite will decide wheater it is ok or not. If it is ok then there will be no submission, otherwise there would be a final submission.
