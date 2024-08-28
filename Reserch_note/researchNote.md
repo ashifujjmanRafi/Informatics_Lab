@@ -1419,4 +1419,7 @@ Next tuesday sensei is busy, there will be no meeting. Next wendesday, 8/28
 
 ## 24.08.28
 
-What toufik san really want to do is not mentioned in his presentation, sensei asked 
+What toufik san really want to do is not mentioned in his presentation, sensei asked
+"have you mentioned many supportive work and why you dont argue, are not market traders arent take any helps from others"
+Distinguish between the belief and something is confirmed.
+About the research isses where is the prove that you 
