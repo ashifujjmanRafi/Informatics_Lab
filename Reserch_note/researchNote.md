@@ -1415,3 +1415,8 @@ What a  AV might do in this situation? -A typical autonomous vehicle (AV) might 
 Some informatin for near future, 
 Next tuesday sensei is busy, there will be no meeting. Next wendesday, 8/28
 **About the thesis**, there would be 3 submission date first is for comment from other sensei this could be change but submission to the administration the submission time are very firmly, then the version would be submitted to the campus file system this is prior final then if the commite will decide wheater it is ok or not. If it is ok then there will be no submission, otherwise there would be a final submission.
+
+
+## 24.08.28
+
+What toufik san really want to do is not mentioned in his presentation, sensei asked 
