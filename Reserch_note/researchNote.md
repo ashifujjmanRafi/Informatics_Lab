@@ -1423,3 +1423,7 @@ What toufik san really want to do is not mentioned in his presentation, sensei a
 "have you mentioned many supportive work and why you dont argue, are not market traders arent take any helps from others"
 Distinguish between the belief and something is confirmed.
 About the research isses where is the prove that you 
+
+**CARLA** has been developed from the ground up to support development, training, and validation of autonomous driving systems.
+CARLA: In addition to its core features, CARLA offers a framework for integrating V2X communication, allowing developers to simulate interactions between vehicles, infrastructure, and pedestrians.
+AirSim: AirSim also provides support for V2X communication, enabling the creation of more realistic and complex urban environments.
