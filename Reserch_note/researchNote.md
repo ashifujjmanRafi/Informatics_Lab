@@ -1427,3 +1427,7 @@ About the research isses where is the prove that you
 **CARLA** has been developed from the ground up to support development, training, and validation of autonomous driving systems.
 CARLA: In addition to its core features, CARLA offers a framework for integrating V2X communication, allowing developers to simulate interactions between vehicles, infrastructure, and pedestrians.
 AirSim: AirSim also provides support for V2X communication, enabling the creation of more realistic and complex urban environments.
+
+## 24.08.29
+
+About the question my goal: clear why using LLM , In such kind of scenario data driven model cant take decision what should to include human like reasoning we want to include LLM
