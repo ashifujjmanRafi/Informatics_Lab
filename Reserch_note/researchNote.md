@@ -1431,3 +1431,28 @@ AirSim: AirSim also provides support for V2X communication, enabling the creatio
 ## 24.08.29
 
 About the question my goal: clear why using LLM , In such kind of scenario data driven model cant take decision what should to include human like reasoning we want to include LLM
+
+## 24.09.6
+
+I reached home safely. this week there would be no lab meeting.
+
+## 24.09.16
+
+There is a upcoming conference and important dates,
+Paper Submission: October 31, 2024
+
+
+Notification: November 15, 2024
+
+Authors Registration: November 30, 2024
+
+Cameraready (ICT Paper Authors): November 30, 2024
+
+Cameraready (INT Paper Authors): December 31, 2024
+
+ΙΙΑΙ ΑΑΙ 2024-Winter Congress: December 16- 18
+
+what kind of paper i should prepare for this conference?
+
+
+
