@@ -1436,23 +1436,73 @@ About the question my goal: clear why using LLM , In such kind of scenario data 
 
 I reached home safely. this week there would be no lab meeting.
 
+## 24.09.09
+
+
 ## 24.09.16
 
 There is a upcoming conference and important dates,
 Paper Submission: October 31, 2024
-
-
 Notification: November 15, 2024
-
 Authors Registration: November 30, 2024
-
 Cameraready (ICT Paper Authors): November 30, 2024
-
 Cameraready (INT Paper Authors): December 31, 2024
-
 ΙΙΑΙ ΑΑΙ 2024-Winter Congress: December 16- 18
 
-what kind of paper i should prepare for this conference?
+What kind of paper i should prepare for this conference?
+
+todays meeting was postponded as sensei mentioned in last meeting.
+
+## 24.09.17
+
+## 24.09.18
+
+## 24.09.19
+
+## 24.09.23
+
+I tried to write the introduction part of the research. I am follwing our seniors paper.
+For now my issue is what kind of paper i sould prepare for the upcoming conference and what should included.
+
+## 24.09.24 **Lab Meeting** 
+
+Toufik san: sensei suggested to make simplified simulation and mockups for the reserarch for better understading the final output.
+
+The theme is changed and now i have to write the conclusion. 
+About the registration, First writing the conclusion and some reference.
+What kind of detailed question i have then sensei can give some feedback.I have to write atleast 4 pages paper.
+
+
+
+## 26.09.24
+
+## 1.10.24 **LAB MEETING**
+
+For last two day there is a uncertain flood happening near my location, No continious electricity for preventing unwanted accident. I started the conclusion, this is my current situation.
+
+
+## 23.10.24 
+
+I am going back japan and in didnt join this lab meeting.
+
+## 25.10.24
+
+I just reached japan, i am trying to update my research paper soon i will upload this to the slack channel.
+I am so much tired and sick this is my current sitution.
+
+## 27.10.24
+
+I am sick, i got fever may be the weather is changing thats why, i am taking rest actually. I asked toufik san and other first grade student about last lab meeting they told me sensei only talked with toufik san about how to write research note and asked him to make simulation for his work. Sensei also tell something about paper to toufik san but they remember not much. 
+
+## 28.10.24
+
+I am not fully well still, i planned to going on lab and have some small talk with takahashi san but i couldnt make it. I am writing research background now. ANnd planning to write also the methodology but maybe i should disscussed it with sensei first. Next meeting i will ask him. If i feel good tomorrow i will talk to takahashi san also.
+
+## 29.10.24
+Suggestion from takahasi san:
+- More example is one idea to fullfillin the paper requirements. 
+- about contribution of multiagent system for communication between vechiels think about VICS, 
+- 
 
 
 
