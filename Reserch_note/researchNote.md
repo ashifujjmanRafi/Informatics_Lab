@@ -1504,5 +1504,103 @@ Suggestion from takahasi san:
 - about contribution of multiagent system for communication between vechiels think about VICS, 
 - 
 
+## 30.10.24 
+
+Avoiding word like innovation,
+13:14 Rafiさんの話
+Why we use LaTeX is that, for every conference, they have a specific format of LaTeX.
+教員はM1の留学生にも今日から書き始めろと指導した。
+結論から書け。逆向きから書くという方法があるということを知っていること、それだけでも意味がある。
+Conclusion can be written only by first author, while other part can be written by rest authors.
+That's why we write papers from conclusion.
+Here you are saying about innovation.
+f. Can you define what is innovation?
+r. Preparing solution?
+f. Umm. So without having progress of technics? ...no.
+Innovation という単語は研究ではなくて、ビジネスの世界で使われることが多い。
+f. Knowing which terms are used in which field is important.
+(introduction of "Make it Stick" book)
+(to 1st grade M students)Since the time of master cource is limited,
+I will strongly recommend you to start writing your paper at beginning of your cource.
+How produce a paper is important regardless what output is.
+Top conference: actual presentation deadline will come next May, while full paper submission is this month.
+There is gap between submission and presentation.
+Instead of that, **conferences** of IEEE (excluding A class one) are good challange for master grade students.
+Ofcource, you(Rafi) can try this!
+Which conference we are going to submit is other important issue.
+(introduction of "IIAI AAI winter 2024" conference)
+f. Length of paper is very important.
+- 1st priority is writing up enough length of paper and then improve the quality.
+- Don't use generative AI to write your paper.
+- Don't copy and paste from other researches.
+Sensei has been undertaking the risk of being included on the papers as the co-author.
+(If first author's behabiour is not consice, next year students might be rejected too)
+---
+(Continue reading Rafi's paper(especially on conclusion part))
+Solution -> Solution is not a progress technically.
+Then to show something about it, we gonna show something regarding it.
+e.g. we can obtain some level of benefit or drawback from LLM??
+human-like reasoning?
+Conclusion must be a conclusion. Answer must be included.
+Most efficient way to brabrabra... is writing conclusion without any knowledge
+and have such kind of discussion.
+(for 1st grade master students)Start writing to start thinking about your research.
+**repeated cycles** process of thinking about your research (not a single cicle of doing) is helpful.
+Immidietly after you submit your paper, you can start next conference submitting paper.
+Very actively working studnets did so.
+He submit both of conference and workshop.
+About figure, you should use copy licensed figure.
+---
+Why we have to submit international conference?
+f. There are some reasons. One of them is final reviewers might not be a expert of the field
+  and that is why they want to see some evidence to prove your paper has been accepted
+  by the community members of related field.
+---
+(Re-show his plan presentation)
+f. You showed somewhat difference between yours and current researches.
+"Unsafe-unknown", in such a case... (missed)
+possible issue on experiments:
+  Are these unknown situations really unknown to us?
+What happens on agents is really unknown.
+During learning process, learning agents does not gain information.
+You(Rafi) does not seem to want to do such approach.
+f. What can we do?
+f. Ask LLM directly?
+Can be solution?:
+  If we could ask LLM and quickly build up experiment situation based on its answer,
+  then we can make situation event it's very difficult to realize.
+f. Actually undergraduate student is trying to create child behavior.
+In Japan, elementary school students go to school without any help by parents. Unexpected behavior of children.
+f. Limitation: prepare unknown situation was hard.
+  So we made **potentially unknown situation to agents** even while
+  designer of the experiment already know about the situation.
+  rest is what would be future work.
+f. example story: child follows a ball
+f. Then go to detailed question
+  like this: "how to reproduce it in the simulation environment"?
+Having some kind of prototypes / mockup to reproduce what we can reproduce situation.
+e.g. zebra mark, passing person, children, etc. ← text representation is also OK.
+You can write it as research objective saying what we will do next is ???
+Writing program for experiment is another good point to start from.
 
 
+
+In paper dont writing sort form like dont or wont -> do not.
+
+## 1.11.24
+- i will include the explanation of unknown unsafe 
+- then some scenarions
+- limitation and future work
+- making some test case and result from gpt and add the images to the paper.
+- 
+Unknow-unsafe scenarios why complicated,
+Happen without warning
+Require immediate decision-making
+Often combine multiple challenges at once
+May not have been experienced before by the driver
+Can overwhelm normal driving responses
+
+## 4.11.24
+
+
+## 5.11.24
