@@ -1602,5 +1602,24 @@ Can overwhelm normal driving responses
 
 ## 4.11.24
 
+At 2nd november the conference deadline is closed maybe this time i can not submit my paper.
 
 ## 5.11.24
+
+About my research what i can do now actually this is my goes with my current situation.
+
+
+## 6.11.24 **Lab meeting**
+
+Toufik san: Last time what disscussion happent to him, last time its about the research note - how to write research note, what should do readng new research paper. Then sensei suggest him to make him some simulation about his research
+- what kind of mockup we have in my research 
+- for example apple store based on some example
+- then sensein suggest him to prepare him to make some mockup
+  
+In last last meeting i was not present, Sensei told about the importance of thinking about  "what i can do insted of what should i do"
+We should think about what can we do. Sensei suggested him about some conclusion but toufik snas imaginary conclusion is far different from it. He is being stick with his believe without any confirm evidence. Its a serious problem. About sabbir san he believe his paper include problem formualation and conclusion should include some. 
+Sensei suggested the first grade student to taking digital note insted of physical note, and still some of them taking note in physical manner, this is same situation with toufik san believing their own believe.
+
+Summerize about the last meeting that could conclude what is the confusion, this could be helpful to push you further. For toufik sans metter the confusion is coming from the feeling thats why its hard to explain his current situaiton. He is thinking who whould be the user? Dont mix what is happening in market, but the marketers dont thinking about this rather that thinking what can be improve. Rather think about your procedures or alternatives what improvement can be done. We are  thinking like the marketers which option would be best from this 3 examples.
+
+- thinking about the viewpoint of the users is very difficult. From the users side we dont want the best one, better one is ok. But as the producer we want the best solution. Checking all the possible other ideas. 
