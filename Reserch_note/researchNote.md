@@ -1535,7 +1535,7 @@ f. Length of paper is very important.
 - Don't copy and paste from other researches.
 Sensei has been undertaking the risk of being included on the papers as the co-author.
 (If first author's behabiour is not consice, next year students might be rejected too)
----
+
 (Continue reading Rafi's paper(especially on conclusion part))
 Solution -> Solution is not a progress technically.
 Then to show something about it, we gonna show something regarding it.
@@ -1550,7 +1550,7 @@ Immidietly after you submit your paper, you can start next conference submitting
 Very actively working studnets did so.
 He submit both of conference and workshop.
 About figure, you should use copy licensed figure.
----
+
 Why we have to submit international conference?
 f. There are some reasons. One of them is final reviewers might not be a expert of the field
   and that is why they want to see some evidence to prove your paper has been accepted
@@ -1611,7 +1611,14 @@ About my research what i can do now actually this is my goes with my current sit
 
 ## 6.11.24 **Lab meeting**
 
-Toufik san: Last time what disscussion happent to him, last time its about the research note - how to write research note, what should do readng new research paper. Then sensei suggest him to make him some simulation about his research
+**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it’s best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master’s students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
+- About figure, you should use copy licensed figure.
+- Are these unknown situations really unknown to us?
+  What happens on agents is really unknown.
+  During learning process, learning agents does not gain information.
+- Limitation: prepare unknown situation was hard.
+
+**Toufik san:** Last time what disscussion happent to him, last time its about the research note - how to write research note, what should do readng new research paper. Then sensei suggest him to make him some simulation about his research
 - what kind of mockup we have in my research 
 - for example apple store based on some example
 - then sensein suggest him to prepare him to make some mockup
@@ -1623,3 +1630,18 @@ Sensei suggested the first grade student to taking digital note insted of physic
 Summerize about the last meeting that could conclude what is the confusion, this could be helpful to push you further. For toufik sans metter the confusion is coming from the feeling thats why its hard to explain his current situaiton. He is thinking who whould be the user? Dont mix what is happening in market, but the marketers dont thinking about this rather that thinking what can be improve. Rather think about your procedures or alternatives what improvement can be done. We are  thinking like the marketers which option would be best from this 3 examples.
 
 - thinking about the viewpoint of the users is very difficult. From the users side we dont want the best one, better one is ok. But as the producer we want the best solution. Checking all the possible other ideas. 
+- Sensei suggested him to make a simulation for the first conditon, for a single buyer. And strongly suggest him to it from now.
+- For the second case, the reviewers get gift card that will calculated buy a agent they will also get a discount. When the buyers going to buy phone after seeing the review, they will set a trashold value for buying the phone. Buyers and reviewers are different? - why
+- We have invistigate the--MISSED , the future is evaluating the-- MISSED
+  
+
+Disscussion with new students,
+Suggenstion from toufik san, Sensei suggested to update the research continiously note because it can be memorized, there should be a plan it can be changed but it just go on
+- try to write nearly everything in research note
+- making point would make less time to write the explanataion.
+- Sensei suggested to use keybord to writing the note and ask some others if they miss something to taking note.
+
+** Some Notice: **
+Next saturday there will happen some event sensei suggested to join them.
+There would be undergradute plan presenation in next thursday.
+Entering exam for japanese student, where we cant come in campus.
