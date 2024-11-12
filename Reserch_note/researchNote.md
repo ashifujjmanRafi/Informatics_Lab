@@ -1645,3 +1645,32 @@ Suggenstion from toufik san, Sensei suggested to update the research continiousl
 Next saturday there will happen some event sensei suggested to join them.
 There would be undergradute plan presenation in next thursday.
 Entering exam for japanese student, where we cant come in campus.
+
+## 7.11.24
+
+Have some disscussion with toufik san and takahashi san about toufik sans research how can he explain his objective and he wrote some code as sensei suggested. 
+
+## 8.11.24
+
+About my research the IIAI conference i intended to submit my paper, the date is over . Then i have to be prepared for next conference.
+
+## 11.11.24
+
+Last updated research paper i tried to update some point that sensei suggested,
+- I tried to  include the explanation of unknown unsafe 
+- Then i added some new examples
+- Limitation and future work, sensei give me some hint
+- I planned to making some test case and result from gpt and add the images to the paper, but this was undone.
+
+## 12.11.24
+
+About my research i have updated my paper and didnt get any comment from sensei. For now i am waiting for some comment from sensei and then in next stage what can be done is the question.
+
+## 13.11.24
+
+**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it’s best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master’s students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
+- About figure, you should use copy licensed figure.
+- Are these unknown situations really unknown to us?
+  What happens on agents is really unknown.
+  During learning process, learning agents does not gain information.
+- Limitation: prepare unknown situation was hard.
