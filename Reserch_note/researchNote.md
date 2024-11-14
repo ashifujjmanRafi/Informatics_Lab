@@ -1674,3 +1674,12 @@ About my research i have updated my paper and didnt get any comment from sensei.
   What happens on agents is really unknown.
   During learning process, learning agents does not gain information.
 - Limitation: prepare unknown situation was hard.
+  
+**Disscussion with Sensei:**
+Next thinking about some prototype, We really dont know our research outcome right now this is current issue?
+The first step is to start writing code about the car crashing,
+How can we make some knowledge to the cars,
+
+Note from Hasan san, Firstly sensei listen rafi san’s present situation, sensei said sorry to him. Sensei told unknown situation   for car that is known to human . then sensei , told him to make prototype. He ask to sensei , what type of prototype he can make, then sensei told to follow mock up. First of all write some code that show some known and unknown  situation . then next step is  prototype to final simulation.In  Implementation  some situation with the code , though it hard but start to first some specific situation implementation,and it can be written in paper. And also listing up the worries topics that can be shown to sensei. If we stuck in some situation then we should  left  it for that time and reading some top conference papers. About it. Sensei emphasize to write research note.
+
+ 
