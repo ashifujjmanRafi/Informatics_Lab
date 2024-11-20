@@ -1666,7 +1666,7 @@ Last updated research paper i tried to update some point that sensei suggested,
 
 About my research i have updated my paper and didnt get any comment from sensei. For now i am waiting for some comment from sensei and then in next stage what can be done is the question.
 
-## 13.11.24
+## 13.11.24 **Lab meeting**
 
 **Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it’s best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master’s students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
 - About figure, you should use copy licensed figure.
@@ -1682,4 +1682,44 @@ How can we make some knowledge to the cars,
 
 Note from Hasan san, Firstly sensei listen rafi san’s present situation, sensei said sorry to him. Sensei told unknown situation   for car that is known to human . then sensei , told him to make prototype. He ask to sensei , what type of prototype he can make, then sensei told to follow mock up. First of all write some code that show some known and unknown  situation . then next step is  prototype to final simulation.In  Implementation  some situation with the code , though it hard but start to first some specific situation implementation,and it can be written in paper. And also listing up the worries topics that can be shown to sensei. If we stuck in some situation then we should  left  it for that time and reading some top conference papers. About it. Sensei emphasize to write research note.
 
- 
+## 14.11.24
+
+Have some disscussion with toufik san and takahashi san about toufik sans research how can he explain his objective and he wrote some code as sensei suggested. 
+
+## 15.11.24
+
+About my research the IIAI conference i intended to submit my paper, the date is over . Then i have to be prepared for next conference.
+
+
+## 19.11.24
+
+About my research i have updated my paper and didnt get any comment from sensei. For now i am waiting for some comment from sensei and then in next stage what can be done is the question in last lab meeting i have started thinking about coding as the mockup. My confusion is why dont use a simulator like carla where the road situations are like real life wheres i am thinking to get some unknown senarios suggestions from the LLM. Then first i should start writing code for the initial then i can get suggestion from sensei.
+
+
+## 20.11.24 **Lab meeting**
+
+Last lab meeting summerization: Sensei suggested  me to do some prototype, From very beganing like car is running in a road then add some obstacle or accident senarios.
+Simulate a car moving along a straight road with no interruptions. Focus on ensuring the car follows basic traffic rules, such as maintaining lane discipline and appropriate speed.
+
+**Disscussion with toufik san:** What is important is starting from this one is easy for us then next step which part is updated - for initial part we used three categories of discount. In second step calculating some number from the random numbe. In scenarion section why you put some difficult portion. 7% off is given to the fist week selling customer, How the income is related to this? sensei didnt mentioned about the income in the second step he added this. Toufik san believe that it would be more compitable with real world wheres sensei suggest him to make simplified model. (About the treshold value i am not understanding)
+When we think about complicated model -- we would think more simplified modeling though you can think it may be not be real world.  
+And you have noticed coming to this point you had face difficult moments thats why research is not easy.
+Again we are going to make this income as treshold.  then he is counting the person in the treshold then what the calculation do?
+Their concern is the income of the seller. It is not focused to the buyer. Why dont you collect the data of the buyer. Why dont you calculated total sell from the seller? How much we can get from the selling that is our concern why dont you collect the data. This is the repeted disscussion whenever you see real life example you are satisfied.
+Whats happening here you are not seeing the number you making realistic not randomly. When we rely on our feeling the output we want is more realstic, thats why we need to practice? while practicing we are not intend to going to the final step directly.
+Underline efforts is not easy, actually he have to fighting against his felling its not easy.
+First randomly --
+You can calculate the discount ratio on it. 
+we gonna see the second scenario, in second scenario he also didnt calculated the selling. Number customers who reviewers - whats missing? When you want you give some discount to the top reviewers this can violate the rules. 
+In scenarios three, there are also three promotional offer, in this you are giving discount to the people who is using this media users why dont directly giving the money to the company.--
+Having some disscussion with other research doing person talking with, how they are doing this could be nice to overcome with natural feeling.
+The disscussion could be so serious to us to relax maybe the laboratory devices can relax us, what would be next step in your word - he can simplify think about the model.
+The next step is to calculating the sellers income and add some treshold for the buyers.
+Sensei suggestins, you can write a simple code in simple way throw away the real world. Even now hasan san is thinking about real world thats what preventing him to write a simple code .
+you can write a simple code although it wont reflect the real world. Only writing the keyword may confuses you  wheather we want it or not.
+While we are doing research we cant say which direction is right or wrong. Also next step could be writing this to your research paper.
+Wheathers we confused about our content in our research paper is it ok or not. Thats why we need some comment from the reviewrs from the outside is nice. Dont expect to accept your paper in your initial version.
+
+Even we the know importance though its difficult for us to do that. Sensei suggested the M1 to start writing their paper.
+
+
