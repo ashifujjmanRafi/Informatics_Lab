@@ -20,9 +20,9 @@ clock = pygame.time.Clock()
 
 # Car settings
 car_width, car_height = 30, 50
-car_x = WIDTH // 2 - car_width // 2  # Center of the lane
+car_x = WIDTH // 2 - car_width//2 # Center of the lane
 car_y = HEIGHT - car_height - 20
-car_speed = 5
+car_speed = 3
 
 # Road settings
 lane_width = 400
