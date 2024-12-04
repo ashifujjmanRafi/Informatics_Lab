@@ -1722,4 +1722,64 @@ Wheathers we confused about our content in our research paper is it ok or not. T
 
 Even we the know importance though its difficult for us to do that. Sensei suggested the M1 to start writing their paper.
 
+## 21.11.24
+
+As last meeting i got some suggestion for making prototype of the mockup from the scratch and i write a code today that only a car manully can go forward and break and also can go right and left. 
+
+## 22.11.24
+
+Today after finishing prayer i came to lab for upgrading the prototype in v2 i am going to add one feature the car can go forward dynamically. Today i tried to do that may be i need some time for finish this. Sensei suggested me that after this i can add some features about some obstacles and so on.
+
+## 25.11.24
+
+About research i havent upgrade my prototype yet, still i am trying so many things happening acctually, mentally i am bit upset cant doing daily things.
+
+## 26.11.24
+
+I have tried to make a prototype where a single car in going forward dynamically.
+
+## 27.11.24 **LAB MEETING**
+
+Last lab meeting summerization: Sensei suggested  me to do some prototype, From very beganing like car is running in a road then add some obstacle or accident senarios.
+Simulate a car moving along a straight road with no interruptions. Focus on ensuring the car follows basic traffic rules, such as maintaining lane discipline and appropriate speed.
+
+
+Next step simulator: We would like to make these simulation ready for LLM, When the car is going and not having anything 
+Implementing some obstacle and going through this may be good for some senarios. We
+Next may be make some promt for LLM, hey LLM whats happening here.
+Two following car one see the stop sing and stop and ask LLM what should the following car do? And adding some promt for the following car. What this car should do? Then check the LLMs reaction. And then check the answer.
+In my paper This simple text base scenario, and asking LLM.
+Connection between the simulator And the LLM -  some disscussion with undergrad student
+
+**Note from Tauhid san:** Rafi-san told about his last discussion that sensei told him to make about prototypes. Rafi-san showed his prototype. Sensei told Rafi-san to make more simpler porotype as his prototype was bit complex. Sensei is happy with the prototype and asked him about his questions. Rafi-san asked sensei how can he take LLM decision. Sensei suggested him to take screenshot and asked him to implement the simulator with some character. Rafi-san asked sensei about CARLA simulator. In CARLA they already have a framework. Sensei asked him to show details about CARLA in website. Sensei - we don't know the validity about the CARLA simulation, whether its for research purpose or developed by some company. Takahashi - a paper related CARLA simulation was published in collaboration of Intel and TOYOTA. Sensei- as there is a paper so it may have some validation. sensei suggested Rafi san to choose the simulator independently and afterwards ask questions to sensei, so we may know the simulators are doing and how they works. There is trade offs that we have to go through the codes thoroughly which is very hectic and time consuming so sensei suggested to try new techniques. we can decide the kind of simulator by adding some more in the prospect. how LLM can capture the correct data. what are we going to do, we don't have a clear prospect so we need to try different simulations to identify the correct one. we must be careful about the tradeoffs while selecting a simulator. So better to have a own simple simulator. Before starting the simulation we worry about so many things and therefore we are here. And these can be happen with us and we must fight against our own feeling. One thing is clear we should ready the simulation for LLM and for unknown situations. In the simplest case car going straight is okay. the potholes must be detected by the car, detecting obstacles and go through it is one kind of scenarios, will the car go through the obstacle or stop ask the LLM.LLM prompts - one car going through, one car stops, what should the next car do? or car changing the direction what the next car should do. Think about the global scenarios. sensei told us about one of his such events. Are you worrying about writing some paper. You can add this things in the paper. Then why didn't you do it before 3-4 months back. Rafi san - I was thinking about what should I do then. We can use some powerful computers to implement the LLM. Some undergraduate students implemented the relation of LLM and powerful machine. We must have some Japanese kill to discuss with Japanese students. Japanese students are getting very little chance to show their speaking skills as they are not asked about their English skill in the entrance exam. We must have learned much Japanese last one year. We must regularly practice Japanese to develop our Japanese skill. The right Japanese skill is very powerful. You told about a good amount of issues. We must not stop writing research note in the meeting. It is hard translate some Japanese as there is no specific meaning in English. Bringing own drinks very important because it is very dry in winter. Try to enjoy this season. Enjoy the scenic view oh Hamamatsu.
+
+## 28.11.24
+
+In the last lab meeting, i got some comment from sensei
+- We would like to make these simulation ready for LLM
+- Implementing some obstacle and going through this may be good for some senarios.
+- Having some disscussion with the others would be good
+- 
+
+
+## 29.11.24
+
+I went to lab today, after finising my prayer i was plannig to think about my research, now i am thinking about the prototype where the problem can be clearly identified. Two car will colide in certain circumtances. I am plannig to join a job fair in the afternoon, maybe. 
+
+## 02.12.24
+
+I am sick i cant move my neck, thats why i lay down whole day.
+
+## 03.12.24
+
+Todat the neck pain is less still i am not feeling well.
+
+## 04.12.24 **LAB Meeting**
+ 
+**Disscussion with Toufik San:** Sensei asked toufik san what was the last disscussion and toufik san mentioned about the disscussion but there is no evidence about this, and asked him why he didnt ask someone 
+for their notes. then Sensei asked his why didnt he do that, why is he just following his strictly follow his pesonal beleive. Then he replied he collected usually notes from others but last time it seems he had understad what sensei said. thats why he didnt ask.
+What should be done only thats is written, what sensei suggested toufik san to use the text editor to make the research note but toufik san is not convinced.
+Now toufik san successfully added his research note in text base. Toufik san at first he tried to use text base note but somehow he lost his data thats why started using google docs.
+
+Sensei asked toufik san about the new finding from the others note, and suggested him to highlight some notes that whould be efficient for understanding what was his last disscussion. And he successfully he started thinking how he could reach next step not what would be the next step.
 
