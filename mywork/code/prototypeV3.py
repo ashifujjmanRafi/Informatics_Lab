@@ -1,89 +1,129 @@
-import pygame
+import random
+import random
+import time
 import sys
+import os
+from datetime import datetime
+class ParkingLot:
+    def __init__(self, rows, cols):
+        self.rows = rows
+        self.cols = cols
+        self.spots = [[' ' for _ in range(cols)] for _ in range(rows)]
+        self.waiting = []
+        self.next_car_id = 1
+        self.disabeledcars = []
 
-# Initialize Pygame
-pygame.init()
+    def park(self, car):
+        for row in range(self.rows):
+            for col in range(self.cols):
+                if self.spots[row][col] == ' ':
+                    self.spots[row][col] = car
+                    return True
+        self.waiting.append(car)
+        return False
 
-# Screen settings
-WIDTH, HEIGHT = 800, 600
-screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Car Collision Simulation")
+    def leave(self):
+        occupied_spots = [(row, col) for row in range(self.rows) for col in range(self.cols) if self.spots[row][col] != ' ']
+        if occupied_spots:
+            row, col = random.choice(occupied_spots)
+            car = self.spots[row][col]
+            self.spots[row][col] = ' '
+            if car in self.disabeledcars:
+                self.disabeledcars.remove(car)
+            if self.waiting:
+                self.park(self.waiting.pop(0))
+            return car
+        return None
 
-# Colors
-WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-GRAY = (169, 169, 169)
-YELLOW = (255, 223, 0)
-BLUE = (0, 0, 255)
-RED = (255, 0, 0)
-ORANGE = (255, 165, 0)
+    def display(self):
+        print("┌" + "───────┬" * (self.cols - 1) + "───────┐")
+        for row in range(self.rows):
+            for _ in range(3):  # Three lines for each row of spots
+                print("│", end="")
+                for col in range(self.cols):
+                    if self.spots[row][col] != ' ':
+                        if _ == 0:
+                            print(" ┌───┐ │", end="")
+                        elif _ == 1:
+                            print(f" │ {self.spots[row][col]:^2}│ │", end="")
+                        else:
+                            print(" └───┘ │", end="")
+                    else:
+                        print("       │", end="")
+                print()
+            if row < self.rows - 1:
+                print("├" + "───────┴" * (self.cols - 1) + "───────┤")
+                for _ in range(5):  # 5-line gap between rows
+                    print("│" + " " * (8 * self.cols) + "│")
+                print("├" + "───────┬" * (self.cols - 1) + "───────┤")
+        print("└" + "───────┴" * (self.cols - 1) + "───────┘")
+        
+        if self.waiting:
+            print("Waiting:", " ".join(map(str, self.waiting)))
+        else:
+            print("No cars waiting")
+        print()
+       # if self.car in self.prioritycars:
+        #    self.prioritycars.remove(self.car)
+        if self.disabeledcars:
+            print("Disabeled person cars:", " ".join(map(str, self.disabeledcars)))
+        else:
+            print("No cars are disabeled persons")
+        priority_waiting = [car for car in self.disabeledcars if car in self.waiting]
+        if priority_waiting:
+            print("Disabled person cars in waiting:", " ".join(map(str, priority_waiting)))
+        else:
+            print("No disabled person cars are waiting")
+        print("=============================================================================================================")
+    def generate_car_id(self):
+        car_id = self.next_car_id
+        choice=random.choice(['disabeled','disabeled', 'ordinary', 'ordinary', 'ordinary'])
+        if choice in ['disabeled']:
+            self.disabeledcars.append(car_id)
+            #print("Disabeled generated", " ".join(map(str, self.prioritycars)))
+        self.next_car_id += 1
+        return car_id
+    
+def main():
+    # Get the directory and name of the current script
+    script_path = os.path.abspath(__file__)
+    script_dir = os.path.dirname(script_path)
 
-# Clock for controlling frame rate
-clock = pygame.time.Clock()
+    # Create the output filename
+    output_filename = "parkinglotsimulator_output.txt"
 
-# Car settings
-car1 = {"x": 300, "y": HEIGHT - 120, "width": 50, "height": 80, "speed": 4, "color": BLUE}
-car2 = {"x": 500, "y": HEIGHT - 300, "width": 50, "height": 80, "speed": 3, "color": RED}
+    # Create the full path for the output file
+    output_filepath = os.path.join(script_dir, output_filename)
 
-# Obstacle settings
-construction_x = WIDTH // 2 - 50
-construction_y = HEIGHT // 3
-construction_width = 100
-construction_height = 20
+    # Redirect standard output to the file
+    original_stdout = sys.stdout
+    with open(output_filepath, 'w') as f:  # 'w' mode overwrites the file
+        sys.stdout = f
 
-# Simulation loop
-running = True
-while running:
-    # Handle events
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            pygame.quit()
-            sys.exit()
+        parking_lot = ParkingLot(2, 7)
 
-    # Update car positions
-    car1["y"] -= car1["speed"]
-    car2["y"] += car2["speed"]
+        for _ in range(30):
+            action = random.choice(['park', 'park', 'park', 'park', 'leave', 'both'])
+            
+            if action in ['park', 'both']:
+                new_car = parking_lot.generate_car_id()
+                if parking_lot.park(new_car):
+                    print(f"Car {new_car} parked successfully.")
+                else:
+                    print(f"Car {new_car} is waiting to park.")
 
-    # Check collision
-    if (
-        car1["x"] < car2["x"] + car2["width"]
-        and car1["x"] + car1["width"] > car2["x"]
-        and car1["y"] < car2["y"] + car2["height"]
-        and car1["y"] + car1["height"] > car2["y"]
-    ):
-        car1["speed"], car2["speed"] = 0, 0  # Stop cars on collision
+            if action in ['leave', 'both']:
+                car = parking_lot.leave()
+                if car:
+                    print(f"Car {car} left the parking lot.")
+                else:
+                    print("No cars to leave.")
+            parking_lot.display()
+            time.sleep(1)
 
-    # Drawing everything
-    screen.fill(WHITE)
+    # Restore the standard output
+    sys.stdout = original_stdout
+    print(f"Simulation output has been saved to {output_filepath}")
 
-    # Draw road
-    pygame.draw.rect(screen, GRAY, (200, 0, 400, HEIGHT))
-
-    # Draw lane lines
-    for i in range(0, HEIGHT, 40):
-        pygame.draw.rect(screen, YELLOW, (WIDTH // 2 - 5, i, 10, 20))
-
-    # Draw construction
-    pygame.draw.rect(screen, ORANGE, (construction_x, construction_y, construction_width, construction_height))
-    pygame.draw.polygon(screen, ORANGE, [(construction_x, construction_y), 
-                                         (construction_x - 20, construction_y - 20), 
-                                         (construction_x + construction_width + 20, construction_y - 20), 
-                                         (construction_x + construction_width, construction_y)])
-
-    # Draw stop sign
-    pygame.draw.rect(screen, BLACK, (construction_x + construction_width // 2 - 15, construction_y - 60, 30, 60))
-    pygame.draw.circle(screen, RED, (construction_x + construction_width // 2, construction_y - 80), 20)
-    pygame.font.init()
-    font = pygame.font.Font(None, 20)
-    text = font.render("STOP", True, WHITE)
-    screen.blit(text, (construction_x + construction_width // 2 - 12, construction_y - 88))
-
-    # Draw cars
-    pygame.draw.rect(screen, car1["color"], (car1["x"], car1["y"], car1["width"], car1["height"]))
-    pygame.draw.rect(screen, car2["color"], (car2["x"], car2["y"], car2["width"], car2["height"]))
-
-    # Update display
-    pygame.display.flip()
-
-    # Control frame rate
-    clock.tick(30)
+if __name__ == "__main__":
+    main()
