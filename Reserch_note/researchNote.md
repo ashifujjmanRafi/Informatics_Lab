@@ -1783,3 +1783,31 @@ Now toufik san successfully added his research note in text base. Toufik san at 
 
 Sensei asked toufik san about the new finding from the others note, and suggested him to highlight some notes that whould be efficient for understanding what was his last disscussion. And he successfully he started thinking how he could reach next step not what would be the next step.
 
+## 5.12.24
+
+I have to make a simulation that can be a input for the LLM, Now what can i do i can check suma sans research documents for getting some idea.
+
+## 6.12.24
+
+Today is friday, after completing my prayer i came to room. Started thinking about how can be the simulation can be updated. I have some neck pain, i checked the pressure and its high.
+
+## 9.12.24
+
+I am so much tired for last two days i have done arubatio for like 18 hours, i am feeling not to do anything today. Also i have to go to Shizuoka tomorrow.
+
+## 10.12.24
+
+I have joined a job event in shizuoka, a company visit. It was a different experience we mistakenly brought the local trains ticket and faced most heptic train journey in my life.
+
+## 11.12.24 **LAB MEETING**
+
+**Last meeting Disscussion summarization:**
+In the last lab meeting, i got some comment from sensei
+- We would like to make these simulation ready for LLM
+- Implementing some obstacle and going through this may be good for some senarios.
+- Having some disscussion with the others would be good
+
+My current situation for last one week i am feeling neck pain and i am so much puzzaled and tensed about job hunting and couldnt fully concentrate in my research tough i am feeling to do something avout my research. 
+For now what can i do now.
+
+**Some Upcoming informatin:** Sensei suggested to be careful about the infuelansa, this season the the air is too cold. 
