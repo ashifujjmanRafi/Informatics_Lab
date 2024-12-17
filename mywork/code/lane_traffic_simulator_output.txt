@@ -1,0 +1,263 @@
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Empty
+Section 1: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+Section 2: [ ][S] Empty
+Section 3: [ ] Empty
+Section 4: [ ] Empty
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 1: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+Section 2: [ ][S] Empty
+Section 3: [ ] Empty
+Section 4: [ ] Empty
+========================================
+Vehicle 3 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 1: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+Section 2: [ ][S] Empty
+Section 3: [ ] Empty
+Section 4: [ ] Empty
+
+Waiting Vehicles:
+Vehicle 3 (HUMAN_CAR)
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 3 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 2: [ ][S] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+Section 3: [ ] Empty
+Section 4: [ ] Empty
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Empty
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 3: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Empty
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Empty
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Empty
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+========================================
+Vehicle 5 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+========================================
+Vehicle 6 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+========================================
+Vehicle 7 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+========================================
+Vehicle 8 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+========================================
+Vehicle 9 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+========================================
+Vehicle 10 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+========================================
+Vehicle 11 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+Vehicle 11 (AUTONOMOUS_TRUCK)
+========================================
+Vehicle 12 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+Vehicle 11 (AUTONOMOUS_TRUCK)
+Vehicle 12 (AUTONOMOUS_TRUCK)
+========================================
+Vehicle 13 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+Vehicle 11 (AUTONOMOUS_TRUCK)
+Vehicle 12 (AUTONOMOUS_TRUCK)
+Vehicle 13 (HUMAN_CAR)
+========================================
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+Vehicle 11 (AUTONOMOUS_TRUCK)
+Vehicle 12 (AUTONOMOUS_TRUCK)
+Vehicle 13 (HUMAN_CAR)
+========================================
+Vehicle 14 is waiting to enter the lane.
+
+--- Lane Traffic Simulation ---
+Section 0: [P] Vehicle 4 (HUMAN_CAR) 🚙
+Section 1: [ ] Vehicle 3 (HUMAN_CAR) 🚙
+Section 2: [ ][S] Empty
+Section 3: [ ] Vehicle 2 (AUTONOMOUS_TRUCK) 🚛
+Section 4: [ ] Vehicle 1 (AUTONOMOUS_TRUCK) 🚛
+
+Waiting Vehicles:
+Vehicle 5 (AUTONOMOUS_TRUCK)
+Vehicle 6 (AUTONOMOUS_TRUCK)
+Vehicle 7 (AUTONOMOUS_CAR)
+Vehicle 8 (HUMAN_CAR)
+Vehicle 9 (HUMAN_CAR)
+Vehicle 10 (AUTONOMOUS_TRUCK)
+Vehicle 11 (AUTONOMOUS_TRUCK)
+Vehicle 12 (AUTONOMOUS_TRUCK)
+Vehicle 13 (HUMAN_CAR)
+Vehicle 14 (AUTONOMOUS_TRUCK)
+========================================

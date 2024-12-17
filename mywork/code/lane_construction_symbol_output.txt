@@ -1,0 +1,124 @@
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: ▫️ ▫️ 🚧 ▫️ 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 ▫️ ▫️ 🚗
+========================================
+🅿️ AV-T-1 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 ▫️ 🚧 ▫️ 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 ▫️ ▫️ 🚗
+========================================
+🚦 H-2 proceeded through stop sign
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 🚙 🚧 ▫️ 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 ▫️ ▫️ ▫️
+========================================
+🚫 No vehicles to remove
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 🚙 🚧 ▫️ 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 ▫️ ▫️ ▫️
+========================================
+🅿️ H-3 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 ▫️ ▫️ ▫️
+========================================
+🅿️ AV-T-4 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚛 🛑 ▫️ ▫️ ▫️
+========================================
+🅿️ H-5 parked successfully
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: ▫️ 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚛 🛑 🚙 ▫️ ▫️
+========================================
+🅿️ AV-C-6 parked successfully
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚗 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 🚙 ▫️ ▫️
+========================================
+🅿️ AV-T-7 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚗 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚛 🛑 🚙 ▫️ ▫️
+========================================
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚗 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 🚙 ▫️ ▫️
+========================================
+🅿️ AV-C-8 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚗 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚗 🛑 🚙 ▫️ ▫️
+========================================
+🅿️ AV-C-9 parked successfully
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚗 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚗 🛑 🚙 🚗 ▫️
+========================================
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: ▫️ 🚙 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚗 🛑 🚙 🚗 ▫️
+========================================
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: ▫️ ▫️ 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: 🚗 🛑 🚙 🚗 ▫️
+========================================
+🅿️ AV-T-10 parked successfully
+🚪 Vehicle left the lane
+
+🛣️ Lane Construction Scenario 🚧
+========================================
+Lane 1: 🚛 ▫️ 🚧 🚙 🚗
+Features: 🚧 Partially Open Lane
+Lane 2: ▫️ 🛑 🚙 🚗 ▫️
+========================================

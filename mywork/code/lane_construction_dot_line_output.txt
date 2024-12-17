@@ -1,0 +1,139 @@
+Vehicle AV-T-1 parked successfully
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . - C
+Features: Partially Open Lane
+Lane 2: - S - T C
+Features: Stop Sign
+========================================
+Vehicle H-2 parked successfully
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . H C
+Features: Partially Open Lane
+Lane 2: - S - T C
+Features: Stop Sign
+========================================
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: - S - T C
+Features: Stop Sign
+========================================
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: - S - - C
+Features: Stop Sign
+========================================
+Vehicle AV-T-3 parked successfully
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . H C
+Features: Partially Open Lane
+Lane 2: - S - - -
+Features: Stop Sign
+========================================
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: - S - - -
+Features: Stop Sign
+========================================
+No vehicles to remove
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: - S - - -
+Features: Stop Sign
+========================================
+No vehicles to remove
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: - S - - -
+Features: Stop Sign
+========================================
+Vehicle AV-T-4 parked successfully
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . H C
+Features: Partially Open Lane
+Lane 2: - S - - -
+Features: Stop Sign
+========================================
+Vehicle AV-T-5 parked successfully
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . H C
+Features: Partially Open Lane
+Lane 2: T S - - -
+Features: Stop Sign
+========================================
+Vehicle AV-C-6 parked successfully
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: T - . H C
+Features: Partially Open Lane
+Lane 2: - S C - -
+Features: Stop Sign
+========================================
+Vehicle AV-C-7 parked successfully
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: C S C - -
+Features: Stop Sign
+========================================
+Vehicle H-8 parked successfully
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: H - . H C
+Features: Partially Open Lane
+Lane 2: - S C - -
+Features: Stop Sign
+========================================
+Vehicle AV-T-9 parked successfully
+
+Lane Construction Scenario
+========================================
+Lane 1: H - . H C
+Features: Partially Open Lane
+Lane 2: T S C - -
+Features: Stop Sign
+========================================
+Vehicle left the lane
+
+Lane Construction Scenario
+========================================
+Lane 1: - - . H C
+Features: Partially Open Lane
+Lane 2: T S C - -
+Features: Stop Sign
+========================================

@@ -1811,3 +1811,66 @@ My current situation for last one week i am feeling neck pain and i am so much p
 For now what can i do now.
 
 **Some Upcoming informatin:** Sensei suggested to be careful about the infuelansa, this season the the air is too cold. 
+
+We have a road and we have a car,what happen in our mind when we think its very simple to be done we dont do rather we think more difficult thing and when started work we couldnt complete, we fail. 
+We sould do start from the simple way , dont skip the easiest one. Easy task skip, skip, skip, find difficult task, and then we just stop there.
+Thoroughout the process, nothing have done.
+What we think right now, the LLM can understand the complex scenarios but we are not sure whatever the LLM can understand the most easiest scenarios and can give expected output or not.
+
+
+For japnease learning to make some note and try to speak it. Live conversation is most difficult, and most easiest way is to make memo what you want to say and say it again and again.
+
+**Note from Takahashi san :** 20241211
+13:17 Rafiさんの話
+He created a very great simulation program.
+f. Extending too much simulation what happen?
+r. It is not best in order to create input to LLM.
+(...after short talk)
+f. First, research issue, and then go job hunting matter.
+r. OK.
+f. What kind of simulation are you going to implement?
+r. Similar one with Sumasan ← Why don't you do it?
+Easy task skip, skip, skip, find difficult task, and then we just stop there (=stack / pitfall).
+Thoroughout the process, nothing have done.
+Issue is just changing your simulation design into something LLM can understand.
+Just change your design. Once you start to do it, then you can do it.
+Facing the serious situation is important in master cource.
+Unfortunately, other students cannot know how serious it is.
+Learning Japanese is same manner just preparing Japanese sentences.
+Don't skip easy thing. Utilize AI multilingal translation.
+Show up content on your computer what you are willing and then Japanese will give hints.
+(Rafi san has already prepared text-representation of simulation environment)
+pasting text representation onto chat box of GPT-4o and ask him to whether he can understand it or not.
+Then, LLM gave so complicated answer far from expectation.
+f. add to prompt this "just answer STOP or FORWARD".
+After updating prompt, LLM answered "STOP".
+NP problem is different.
+After noticing the problem, whether other problem's answer does not help another problem answer.
+↑ ????
+To whole students.
+Share your knowledge about something related to research; for example prompt engineerina.
+Others' insight can be helpful even if they don't have deep understandings on your specific research domain.
+(↓some detail may missing)
+Auto training E-to-E those company are developing AI to acheive that.
+We don't have any cars! don't worry.
+Utilize small LLMs can work well.
+When receiving answer from LLMs which looks good, you don't stop there
+but you have to think what the exact one you are willing to have and continue to ask.
+
+**Note from Touhid san:** 11 December 2024 Wednesday
+Sensei discussion with Rafi-san
+Rafi-san discussed about the last meeting. Sensei told him about the last demonstrated model was very nice. 
+Rafi-san told sensei that he was sick last week his blood pressure was a bit high. Sensei asked him about the progress of this week and told hom that the previous simulation was too much complex. 
+*Rafi-san said this simulation is okay for visualisation but not okay for LLM.* 
+Then Rafi-san told sensei about the job fair recently he visited and how was it and he also added that he talked about the versity recommendation with shirai sensei.
+Rafi-san also told us about his company visit previous day. Sensei told us that these issues are also very important for us and we must continue learning Japanese language and increase proficiency. 
+Rafi-san told that he is puzzled about the current situation and feeling great pressure and can't stable his mind. Sensei asked him about making a simpliest simulation. Rafi-san told us about suma-san thesis and how she implemented the code so Rafi-san also wants to make a similar kind of simulation. 
+The point of msater's course is to face these type of difficult situations. Similarly we the first year master's student should also understand the pressure what Rafi-san going through. 
+Sensei also suggested him to practice talking in japanese with japanese students. Rafi-san said he tries to speak in japanese but he faces difficulties in speaking Japanese so Sensei suggested him to use the smartphone and AI. Rafi-san also showed us how he is practicing Japanese using AI. 
+He also told us about he sometimes don't understand the short forms of japanese in the conversation. Sensei asked us to start with the simple japanese words. So sensei suggested us to prepare the converstion brforehand so that we can speak fluently. We can have the similar kind of conversation more then once and so it will be easier for us in similar conversation we do. We can record some converstions for learning in the future. We are living in the era where we have many resources to learn. Rafi-san agreed and added that we also have many things to distract our focus in the wrong direction. Sensei again started discussing about RAfi-sans research. Sensei asked Rafi-san to use Ai to simulate a sitution regarding his research. Sensei asked rafi-san to promt different situation the GPT. Sensei asked him to modify the promt as it was written the natural language. This time the answer was right. So sensei told us that from this we can understand that what kind of command we need to put next and this is how we can use AI. AI is also working in a similar way as it is based on LLM so we can use it in some context but sometimes it is not easy. So sharing knowledge is very important. When we findnew things we must share it with others and research laboratory is such things. We can share experience with others which will also increase our experience. Sensei asked our japanese lab mates about the prompt engineering. Using generative AI in live converstions may be very effective in generating new ideas. Sensei told us about a group who are are trying to solve similar problem. At this point we are focusing on the car scenario so we must focus on LLM like bicycle or human scenario. SO we must not skip the necessary simple things and think about the kind of answer we want. Sensei discussion with japanese students.
+Sensei asked us to visit Nagoya castle which is much bigger then Hamamatsu castle and Kyoto.
+
+**Note from Fahmidul san** Today, Sensei discussed with Rafi-san that first Sensei tell him to briefly summarize the last discussion with him.Then Sensei again asked him what kind of issue he faces right now. He said he had a high-pressure problem.Sensei again asked, Please explain the details about so many. Rafi-san attended a job fair last week. Rafi-san is confused about everything. 
+Sensei told us this information is also important for other students. Now Sensei is going to start a research-related discussion. Sensei told us that in our minds, easy steps we didn't follow, we just skipped that we worked the hardest thing, but we should think of easy steps first. What is important in a master's course to face some difficult situations? Rafi san has one year of experience. We have to fight against our deep feelings. Sensei asked him did he do it. Practice speaking Japanese with AI. Now he shows us he discussed with ChatGPT in Japanese. We are always going to start in the simplest way. For Japanese learning, make some notes and try to speak it. 
+At the job-hunting program, we should prepare some basic Japanese sentences to speak with them.Practice speaking the same thing twice or more. Don't skip the easy thing. We are living in 2024, and 2025 is coming . We don't live in the 19th century; now we have computers and the internet. Don't start with the hardest way. Sensei told Rafi-san to ask ChatGPT for some traffic-related signs’ explanations. Sensei again told Rafi-san to ask ChatGPT to Please answer STOP or FORWARD. To get the right answer, ask the direct question.Once we find them, then we can utilize them easily.Once we found any unique things, we should share them with others.Other students don't have any knowledge about our research. Now, Sensei asks this question with some Japanese students in the Japanese language. Sensei speaks Japanese very fast. Sensei asked Takahashi-san is he noticed what Rafi-san did. Rafi-san didn't expect ChatGPT’s answer. Don't skip the necessary things. Even we receive simple answers. Now Sensei discussed with Mizutanikun-san in the Japanese language. 
+

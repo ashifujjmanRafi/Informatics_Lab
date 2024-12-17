@@ -1,129 +1,122 @@
 import random
-import random
 import time
 import sys
 import os
-from datetime import datetime
-class ParkingLot:
-    def __init__(self, rows, cols):
-        self.rows = rows
-        self.cols = cols
-        self.spots = [[' ' for _ in range(cols)] for _ in range(rows)]
-        self.waiting = []
-        self.next_car_id = 1
-        self.disabeledcars = []
 
-    def park(self, car):
-        for row in range(self.rows):
-            for col in range(self.cols):
-                if self.spots[row][col] == ' ':
-                    self.spots[row][col] = car
-                    return True
-        self.waiting.append(car)
-        return False
+class LaneConstructionSimulator:
+    def __init__(self):
+        # Symbols
+        self.SYMBOLS = {
+            'P': '🚧',    # Partially Open Lane
+            'S': '🛑',    # Stop Sign
+            'AV-C': '🚗', # Autonomous Car
+            'AV-T': '🚛', # Autonomous Truck
+            'H': '🚙',    # Human-driven Car
+            'EMPTY': '▫️'  # Empty Space
+        }
+        
+        # Lane configuration
+        self.lane = [
+            [self.SYMBOLS['EMPTY'], self.SYMBOLS['EMPTY'], self.SYMBOLS['P'], self.SYMBOLS['EMPTY'], self.SYMBOLS['AV-C']],
+            [self.SYMBOLS['EMPTY'], self.SYMBOLS['S'], self.SYMBOLS['EMPTY'], self.SYMBOLS['AV-T'], self.SYMBOLS['AV-C']]
+        ]
+        
+        self.vehicles = []
+        self.vehicle_id_counter = 1
 
-    def leave(self):
-        occupied_spots = [(row, col) for row in range(self.rows) for col in range(self.cols) if self.spots[row][col] != ' ']
-        if occupied_spots:
-            row, col = random.choice(occupied_spots)
-            car = self.spots[row][col]
-            self.spots[row][col] = ' '
-            if car in self.disabeledcars:
-                self.disabeledcars.remove(car)
-            if self.waiting:
-                self.park(self.waiting.pop(0))
-            return car
-        return None
+    def generate_vehicle(self):
+        vehicle_types = ['AV-C', 'AV-T', 'H']
+        vehicle_type = random.choice(vehicle_types)
+        vehicle_id = f"{vehicle_type}-{self.vehicle_id_counter}"
+        self.vehicle_id_counter += 1
+        
+        return {
+            'id': vehicle_id,
+            'type': vehicle_type,
+            'symbol': self.SYMBOLS[vehicle_type]
+        }
+
+    def place_vehicle(self, vehicle):
+        # Find an empty spot
+        for lane_idx, lane_row in enumerate(self.lane):
+            for spot_idx, spot in enumerate(lane_row):
+                if spot == self.SYMBOLS['EMPTY']:
+                    # Check stop sign logic
+                    if spot_idx == 1 and vehicle['type'] == 'AV-C':
+                        continue  # Autonomous car stops at stop sign
+                    
+                    if spot_idx == 1 and vehicle['type'] == 'H':
+                        # Human driver might proceed
+                        if random.choice([True, False]):
+                            self.lane[lane_idx][spot_idx] = vehicle['symbol']
+                            return f"🚦 {vehicle['id']} proceeded through stop sign"
+                    
+                    if spot_idx != 1:
+                        self.lane[lane_idx][spot_idx] = vehicle['symbol']
+                        return f"🅿️ {vehicle['id']} parked successfully"
+        
+        return f"⏳ {vehicle['id']} waiting to park"
+
+    def remove_vehicle(self):
+        # Randomly remove a vehicle
+        lane_idx = random.randint(0, len(self.lane) - 1)
+        for spot_idx, spot in enumerate(self.lane[lane_idx]):
+            if spot in [self.SYMBOLS['AV-C'], self.SYMBOLS['AV-T'], self.SYMBOLS['H']]:
+                self.lane[lane_idx][spot_idx] = self.SYMBOLS['EMPTY']
+                return f"🚪 Vehicle left the lane"
+        return "🚫 No vehicles to remove"
 
     def display(self):
-        print("┌" + "───────┬" * (self.cols - 1) + "───────┐")
-        for row in range(self.rows):
-            for _ in range(3):  # Three lines for each row of spots
-                print("│", end="")
-                for col in range(self.cols):
-                    if self.spots[row][col] != ' ':
-                        if _ == 0:
-                            print(" ┌───┐ │", end="")
-                        elif _ == 1:
-                            print(f" │ {self.spots[row][col]:^2}│ │", end="")
-                        else:
-                            print(" └───┘ │", end="")
-                    else:
-                        print("       │", end="")
-                print()
-            if row < self.rows - 1:
-                print("├" + "───────┴" * (self.cols - 1) + "───────┤")
-                for _ in range(5):  # 5-line gap between rows
-                    print("│" + " " * (8 * self.cols) + "│")
-                print("├" + "───────┬" * (self.cols - 1) + "───────┤")
-        print("└" + "───────┴" * (self.cols - 1) + "───────┘")
+        print("\n🛣️ Lane Construction Scenario 🚧")
+        print("=" * 40)
         
-        if self.waiting:
-            print("Waiting:", " ".join(map(str, self.waiting)))
-        else:
-            print("No cars waiting")
-        print()
-       # if self.car in self.prioritycars:
-        #    self.prioritycars.remove(self.car)
-        if self.disabeledcars:
-            print("Disabeled person cars:", " ".join(map(str, self.disabeledcars)))
-        else:
-            print("No cars are disabeled persons")
-        priority_waiting = [car for car in self.disabeledcars if car in self.waiting]
-        if priority_waiting:
-            print("Disabled person cars in waiting:", " ".join(map(str, priority_waiting)))
-        else:
-            print("No disabled person cars are waiting")
-        print("=============================================================================================================")
-    def generate_car_id(self):
-        car_id = self.next_car_id
-        choice=random.choice(['disabeled','disabeled', 'ordinary', 'ordinary', 'ordinary'])
-        if choice in ['disabeled']:
-            self.disabeledcars.append(car_id)
-            #print("Disabeled generated", " ".join(map(str, self.prioritycars)))
-        self.next_car_id += 1
-        return car_id
-    
+        for lane_idx, lane_row in enumerate(self.lane):
+            print(f"Lane {lane_idx + 1}: {' '.join(lane_row)}")
+            
+            # Highlight special lane features
+            features = []
+            if 1 in lane_row:
+                features.append("🛑 Stop Sign")
+            if self.SYMBOLS['P'] in lane_row:
+                features.append("🚧 Partially Open Lane")
+            
+            if features:
+                print("Features:", ", ".join(features))
+        
+        print("=" * 40)
+
 def main():
-    # Get the directory and name of the current script
+    # Set up file output
     script_path = os.path.abspath(__file__)
     script_dir = os.path.dirname(script_path)
-
-    # Create the output filename
-    output_filename = "parkinglotsimulator_output.txt"
-
-    # Create the full path for the output file
+    output_filename = "lane_construction_symbol_output.txt"
     output_filepath = os.path.join(script_dir, output_filename)
 
-    # Redirect standard output to the file
+    # Redirect output
     original_stdout = sys.stdout
-    with open(output_filepath, 'w') as f:  # 'w' mode overwrites the file
+    with open(output_filepath, 'w') as f:
         sys.stdout = f
 
-        parking_lot = ParkingLot(2, 7)
+        simulator = LaneConstructionSimulator()
 
-        for _ in range(30):
-            action = random.choice(['park', 'park', 'park', 'park', 'leave', 'both'])
+        for _ in range(15):
+            action = random.choice(['park', 'leave', 'both'])
             
             if action in ['park', 'both']:
-                new_car = parking_lot.generate_car_id()
-                if parking_lot.park(new_car):
-                    print(f"Car {new_car} parked successfully.")
-                else:
-                    print(f"Car {new_car} is waiting to park.")
+                new_vehicle = simulator.generate_vehicle()
+                result = simulator.place_vehicle(new_vehicle)
+                print(result)
 
             if action in ['leave', 'both']:
-                car = parking_lot.leave()
-                if car:
-                    print(f"Car {car} left the parking lot.")
-                else:
-                    print("No cars to leave.")
-            parking_lot.display()
+                leave_result = simulator.remove_vehicle()
+                print(leave_result)
+            
+            simulator.display()
             time.sleep(1)
 
-    # Restore the standard output
+    # Restore standard output
     sys.stdout = original_stdout
-    print(f"Simulation output has been saved to {output_filepath}")
+    print(f"Simulation output saved to {output_filepath}")
 
 if __name__ == "__main__":
     main()
