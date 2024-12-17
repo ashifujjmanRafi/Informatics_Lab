@@ -48,7 +48,7 @@ class RoadCollisionSimulator:
             self.move_human_car()
             self.move_autonomous_vehicle()
 
-            time.sleep(0.1)  # Simulate movement delay
+            time.sleep(0.5)  # Simulate movement delay
 
         self.display_road()
         print("Simulation ended.")

@@ -1,97 +1,65 @@
-
-import random
 import time
-import sys
-import os
 
-class TwoLaneCollisionSimulator:
-    def __init__(self):
-        # Road layout with two lanes
-        self.lanes = [
-            list("------H-S------"),  # Top lane
-            list("===================="),  # Middle separator
-            list(" -----------A---")   # Bottom lane
-        ]
-        
-        # Vehicle and sign symbols
-        self.SYMBOLS = {
-            'H': 'H',   # Human Car
-            'A': 'A',   # Autonomous Vehicle
-            'S': 'S',   # Stop Sign
-            'EMPTY': '-'  # Empty Space
-        }
-        
-        # Tracking vehicle positions
-        self.vehicle_positions = {
-            'H': {'lane': 0, 'position': self.lanes[0].index('H')},
-            'A': {'lane': 2, 'position': self.lanes[2].index('A')}
-        }
+class RoadCollisionSimulator:
+    def __init__(self, road_length):
+        self.road = [[' ' for _ in range(road_length)] for _ in range(3)]  # Two-lane road with divider
+        self.road[0][road_length // 2] = 'S'  # Stop sign in the top lane
+        self.human_car_position = 0  # Human-driven car starts at the beginning of the bottom lane
+        self.av_position = 0  # Autonomous vehicle starts at the beginning of the top lane
+        self.road[1] = ['-' if i % 2 == 0 else ' ' for i in range(road_length)]  # Lane divider
+        self.road[2][self.human_car_position] = 'H'  # Human car
+        self.road[0][self.av_position] = 'AV'  # Autonomous vehicle
 
-    def move_vehicles(self):
-        # Create a copy of the lanes
-        new_lanes = [lane.copy() for lane in self.lanes]
-        
-        # Move Human Car (Top Lane)
-        h_lane = self.vehicle_positions['H']['lane']
-        h_pos = self.vehicle_positions['H']['position']
-        
-        # Move towards stop sign
-        if h_pos + 1 < len(self.lanes[h_lane]):
-            if self.lanes[h_lane][h_pos + 1] == self.SYMBOLS['S']:
-                print("Human Car approaching STOP sign!")
-            elif self.lanes[h_lane][h_pos + 1] == self.SYMBOLS['EMPTY']:
-                new_lanes[h_lane][h_pos] = self.SYMBOLS['EMPTY']
-                new_lanes[h_lane][h_pos + 1] = self.SYMBOLS['H']
-                self.vehicle_positions['H']['position'] += 1
-        
-        # Move Autonomous Vehicle (Bottom Lane)
-        a_lane = self.vehicle_positions['A']['lane']
-        a_pos = self.vehicle_positions['A']['position']
-        
-        # Move towards stop sign
-        if a_pos + 1 < len(self.lanes[a_lane]):
-            if self.lanes[a_lane][a_pos + 1] == self.SYMBOLS['S']:
-                print("COLLISION: Autonomous Vehicle crashed into STOP sign!")
-                new_lanes[a_lane][a_pos] = 'X'  # Collision marker
-            elif self.lanes[a_lane][a_pos + 1] == self.SYMBOLS['EMPTY']:
-                new_lanes[a_lane][a_pos] = self.SYMBOLS['EMPTY']
-                new_lanes[a_lane][a_pos + 1] = self.SYMBOLS['A']
-                self.vehicle_positions['A']['position'] += 1
-        
-        # Update lanes
-        self.lanes = new_lanes
-
-    def display(self):
-        print("\nTwo-Lane Collision Scenario")
-        print("=" * 30)
-        for lane in self.lanes:
+    def display_road(self):
+        # Display the two-lane road with all elements
+        for lane in self.road:
             print(''.join(lane))
-        print("=" * 30)
+        print('-' * len(self.road[0]))
 
-def main():
-    # Set up file output
-    script_path = os.path.abspath(__file__)
-    script_dir = os.path.dirname(script_path)
-    output_filename = "two_lane_collision_output.txt"
-    output_filepath = os.path.join(script_dir, output_filename)
+    def detect_collision(self):
+        # Check if AV hits the stop sign
+        if self.road[0][self.av_position] == 'S':
+            print("Collision detected! AV hit the stop sign.")
+            return True
+        return False
 
-    # Redirect output
-    original_stdout = sys.stdout
-    with open(output_filepath, 'w') as f:
-        sys.stdout = f
+    def move_human_car(self):
+        # Move the human-driven car forward
+        self.road[2][self.human_car_position] = ' '
+        self.human_car_position += 1
+        if self.human_car_position < len(self.road[2]):
+            self.road[2][self.human_car_position] = 'H'
 
-        simulator = TwoLaneCollisionSimulator()
+    def move_autonomous_vehicle(self):
+        # Move the autonomous vehicle forward unless a collision has occurred
+        if not self.detect_collision():
+            self.road[0][self.av_position] = ' '
+            self.av_position += 1
+            if self.road[0][self.av_position] == 'S':
+                self.road[0][self.av_position] = 'X'  # Mark collision after moving to S
+            elif self.av_position < len(self.road[0]):
+                self.road[0][self.av_position] = 'AV'
 
-        # Run simulation for 10 steps
-        for step in range(10):
-            print(f"\nStep {step + 1}:")
-            simulator.move_vehicles()
-            simulator.display()
-            time.sleep(1)
+    def simulate(self):
+        while self.av_position < len(self.road[0]) - 1:
+            self.display_road()
 
-    # Restore standard output
-    sys.stdout = original_stdout
-    print(f"Simulation output saved to {output_filepath}")
+            if self.detect_collision():
+                break
 
-if __name__ == "__main__":
-    main()
+            self.move_human_car()
+            self.move_autonomous_vehicle()
+
+            time.sleep(0.5)  # Simulate movement delay
+
+        self.display_road()
+        print("Simulation ended.")
+
+# Simulation parameters
+road_length = 20
+
+# Create a RoadCollisionSimulator instance
+simulator = RoadCollisionSimulator(road_length)
+
+# Run the simulation
+simulator.simulate()
