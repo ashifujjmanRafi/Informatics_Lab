@@ -1,0 +1,26 @@
+Initial Position:
+AV         S         
+- - - - - - - - - - 
+H                   
+--------------------
+Position Right Before Collision:
+         AVS         
+- - - - - - - - - - 
+         H          
+--------------------
+Position Before Collision:
+          S         
+- - - - - - - - - - 
+          H         
+--------------------
+Collision Step: Marking collision with 'X'.
+          X         
+- - - - - - - - - - 
+          H         
+--------------------
+Final Position: Human car reached the end.
+          X         
+- - - - - - - - - - 
+                   H
+--------------------
+Simulation ended.

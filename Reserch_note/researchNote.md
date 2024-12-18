@@ -1874,3 +1874,29 @@ Sensei asked us to visit Nagoya castle which is much bigger then Hamamatsu castl
 Sensei told us this information is also important for other students. Now Sensei is going to start a research-related discussion. Sensei told us that in our minds, easy steps we didn't follow, we just skipped that we worked the hardest thing, but we should think of easy steps first. What is important in a master's course to face some difficult situations? Rafi san has one year of experience. We have to fight against our deep feelings. Sensei asked him did he do it. Practice speaking Japanese with AI. Now he shows us he discussed with ChatGPT in Japanese. We are always going to start in the simplest way. For Japanese learning, make some notes and try to speak it. 
 At the job-hunting program, we should prepare some basic Japanese sentences to speak with them.Practice speaking the same thing twice or more. Don't skip the easy thing. We are living in 2024, and 2025 is coming . We don't live in the 19th century; now we have computers and the internet. Don't start with the hardest way. Sensei told Rafi-san to ask ChatGPT for some traffic-related signs’ explanations. Sensei again told Rafi-san to ask ChatGPT to Please answer STOP or FORWARD. To get the right answer, ask the direct question.Once we find them, then we can utilize them easily.Once we found any unique things, we should share them with others.Other students don't have any knowledge about our research. Now, Sensei asks this question with some Japanese students in the Japanese language. Sensei speaks Japanese very fast. Sensei asked Takahashi-san is he noticed what Rafi-san did. Rafi-san didn't expect ChatGPT’s answer. Don't skip the necessary things. Even we receive simple answers. Now Sensei discussed with Mizutanikun-san in the Japanese language. 
 
+## 12.12.24
+
+I have to make a simulation that can be a input for the LLM, Now what can i do i can check suma sans research documents for getting some idea.
+
+## 13.12.24
+
+Today is friday, after completing my prayer i came to room. Started thinking about how can be the simulation can be updated. I have some neck pain, i checked the pressure and its high.
+
+## 16.12.24
+
+I am so much tired for last two days i have done arubatio for like 18 hours, i am feeling not to do anything today.
+
+## 17.12.24
+
+I have try to create prototype and there were some irror and now i am trying to solve those error. Maybe next week i gonna show some output.
+
+## 18.12.24 **LAB Meeting**
+
+Disscussion with Toufik san: Toufik san told sensei he is being puzzaled by thinking about his probelm why, and he can not overcome from his situation. Then sensei asked him to briefly disscussed about his difficulties that will be also help to understand the M1 student. 
+Then sensei asked him to write the issuses in his research note and explain how he is trying to overcome this situation.
+And then he told that he read books daily and take classed and he also tried to read kanji.
+
+We need to atleast remember the time when we stuck to like this kind of similar situation. 
+Some professor are trying to find automatically with the help of AI and wearable devices this kind of situation.
+Sensei suggested to record some time in research and code things and can be tracked down how much time we have invested in research and other thoughts. Its a very a rare skill and we are doing masters for overcome the feelings. And strongly suggested to avoid personal strong feeling. 
+And for next time sensei expected to see some time management prove like how much time has been used for reading japanese , and magazine and also the research.
