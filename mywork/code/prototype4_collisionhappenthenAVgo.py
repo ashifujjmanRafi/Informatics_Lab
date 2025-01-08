@@ -37,7 +37,6 @@ class RoadCollisionSimulator:
         self.av_position += 1
         if self.av_position < len(self.road[0]):
             self.road[0][self.av_position] = 'AV'
-
     def simulate(self):
         while self.av_position < len(self.road[0]) - 1:
             self.display_road()
@@ -48,7 +47,7 @@ class RoadCollisionSimulator:
             self.move_human_car()
             self.move_autonomous_vehicle()
 
-            time.sleep(0.1)  # Simulate movement delay
+            time.sleep(0.5)  # Simulate movement delay
 
         self.display_road()
         print("Simulation ended.")

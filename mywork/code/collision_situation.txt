@@ -1,19 +1,21 @@
+H = Human Car,
+AV = Autonomous Vechiels, 
+S = Stop Sign
+AV         S         
+- - - - - - - - - - 
+H                   
+--------------------
 Initial Position:
 AV         S         
 - - - - - - - - - - 
 H                   
 --------------------
-Position Right Before Collision:
+Position Right Before STOP:
          AVS         
 - - - - - - - - - - 
          H          
 --------------------
-Position Before Collision:
-          S         
-- - - - - - - - - - 
-          H         
---------------------
-Collision Step: Marking collision with 'X'.
+Complete Stop Step: Marking Stop with 'X'.
           X         
 - - - - - - - - - - 
           H         

@@ -29,14 +29,12 @@ class RoadCollisionSimulator:
     def detect_collision(self):
         # Check if the AV hits the stop sign in the top lane
         if self.road[0][self.av_position] == 'S':
-            # Collision detected, write states to file in 3 steps
+            # Collision detected, write states to file in 2 steps
 
-            # Step 1: Before collision
-            self.write_road_to_file("Position Before Collision:")
 
-            # Step 2: Collision with stop sign
+            # Step 1: Collision with stop sign
             self.road[0][self.av_position] = 'X'  # Mark collision with 'X'
-            self.write_road_to_file("Collision Step: Marking collision with 'X'.")
+            self.write_road_to_file("Complete Stop Step: Marking Stop with 'X'.")
 
             self.collision_occurred = True
             return True
@@ -63,6 +61,7 @@ class RoadCollisionSimulator:
 
     def simulate(self):
         # Step 1: Initial position
+        self.write_road_to_file("H = Human Car,\nAV = Autonomous Vechiels, \nS = Stop Sign\n")
         self.write_road_to_file("Initial Position:")
 
         while self.av_position < len(self.road[0]) - 1:  # Continue until the AV reaches the end of the road
@@ -71,7 +70,7 @@ class RoadCollisionSimulator:
 
             # Step 2: Before collision, when AV is one step away from stop sign
             if self.av_position == len(self.road[0]) // 2 - 1:
-                self.write_road_to_file("Position Right Before Collision:")
+                self.write_road_to_file("Position Right Before STOP:")
 
             self.move_human_car()
             self.move_autonomous_vehicle()

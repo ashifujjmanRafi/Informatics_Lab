@@ -108,7 +108,7 @@ class RoadCollisionSimulator:
         self.human_car_position += 1  # Move car forward
         if self.human_car_position < len(self.road[2]):
             self.road[2][self.human_car_position] = 'H'  # Place car in the new position
-
+            
     def move_autonomous_vehicle(self):
         # Move the autonomous vehicle forward in the top lane
         if not self.collision_occurred:

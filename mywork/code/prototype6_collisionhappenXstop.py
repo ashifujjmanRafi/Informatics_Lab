@@ -12,7 +12,7 @@ class RoadCollisionSimulator:
         self.collision_occurred = False  # Track if a collision occurred
 
     def display_road(self):
-        # Display the two-lane road with all elements
+        # Display the road with all elements
         for lane in self.road:
             print(''.join(lane))
         print('-' * len(self.road[0]))
@@ -28,10 +28,10 @@ class RoadCollisionSimulator:
 
     def move_human_car(self):
         # Move the human-driven car forward
-        self.road[2][self.human_car_position] = ' '
-        self.human_car_position += 1
-        if self.human_car_position < len(self.road[2]):
-            self.road[2][self.human_car_position] = 'H'
+        if self.human_car_position < len(self.road[2]) - 1:  # Ensure the car stays in bounds
+            self.road[2][self.human_car_position] = ' '  # Remove car from current position
+            self.human_car_position += 1  # Move car forward
+            self.road[2][self.human_car_position] = 'H'  # Place car in the new position
 
     def move_autonomous_vehicle(self):
         # Move the autonomous vehicle forward unless a collision has occurred
@@ -46,7 +46,14 @@ class RoadCollisionSimulator:
                     self.road[0][self.av_position] = 'AV'
 
     def simulate(self):
-        while self.av_position < len(self.road[0]) - 1:
+        # Print legend
+        print("H = Human car, AV = Autonomous vehicle, S = Stop sign")
+
+        # Step 1: Initial position
+        print("Initial Position:")
+        self.display_road()
+
+        while self.human_car_position < len(self.road[2]) - 1:  # Stop simulation when H reaches the end
             self.display_road()
 
             if self.detect_collision():
@@ -57,12 +64,9 @@ class RoadCollisionSimulator:
 
             time.sleep(0.5)  # Simulate movement delay
 
-        # Continue moving only the human car after collision
-        while self.human_car_position < len(self.road[2]) - 1:
-            self.display_road()
-            self.move_human_car()
-            time.sleep(0.5)
-
+        # Ensure H stops at the last position
+        self.road[2][self.human_car_position] = 'H'
+        print("Final Position: Human car reached the end.")
         self.display_road()
         print("Simulation ended.")
 

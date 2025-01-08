@@ -1738,7 +1738,7 @@ About research i havent upgrade my prototype yet, still i am trying so many thin
 
 I have tried to make a prototype where a single car in going forward dynamically.
 
-## 27.11.24 **LAB MEETING**
+## 27.11.24 **LAB MEETING Disscussion with me **
 
 Last lab meeting summerization: Sensei suggested  me to do some prototype, From very beganing like car is running in a road then add some obstacle or accident senarios.
 Simulate a car moving along a straight road with no interruptions. Focus on ensuring the car follows basic traffic rules, such as maintaining lane discipline and appropriate speed.
@@ -1799,7 +1799,7 @@ I am so much tired for last two days i have done arubatio for like 18 hours, i a
 
 I have joined a job event in shizuoka, a company visit. It was a different experience we mistakenly brought the local trains ticket and faced most heptic train journey in my life.
 
-## 11.12.24 **LAB MEETING**
+## 11.12.24 **LAB MEETING Disscussion with me:**
 
 **Last meeting Disscussion summarization:**
 In the last lab meeting, i got some comment from sensei
@@ -1888,7 +1888,7 @@ I am so much tired for last two days i have done arubatio for like 18 hours, i a
 
 ## 17.12.24
 
-I have try to create prototype and there were some irror and now i am trying to solve those error. Maybe next week i gonna show some output.
+I have try to create prototype and there were some error and now i am trying to solve those error. Maybe next week i gonna show some output.
 
 ## 18.12.24 **LAB Meeting**
 
@@ -1900,3 +1900,107 @@ We need to atleast remember the time when we stuck to like this kind of similar 
 Some professor are trying to find automatically with the help of AI and wearable devices this kind of situation.
 Sensei suggested to record some time in research and code things and can be tracked down how much time we have invested in research and other thoughts. Its a very a rare skill and we are doing masters for overcome the feelings. And strongly suggested to avoid personal strong feeling. 
 And for next time sensei expected to see some time management prove like how much time has been used for reading japanese , and magazine and also the research.
+Next time sensei would ask him how many time in his research and japanease.
+
+About last last meeting:
+
+Sensei asked toufik san about the new finding from the others note, and suggested him to highlight some notes that whould be efficient for understanding what was his last disscussion. And he successfully he started thinking how he could reach next step not what would be the next step.
+
+From Takahashi san:
+fight against our natural feelings.
+
+Try enjoying Japanese written magazine.
+You have so many way to learn Japanese and important skills for your feature.
+
+(Go more detailed discussion about our research)
+
+We confirmed: facts "you did not spend enough time to write code for these weeks"
+
+Proper responsible position in company. Have to right answer to difficult question.
+Some more money. If you not want to easy and easy spending those money to ... is OK.
+Somewhat unfortune for us is to make good answer to very difficult question to be answered.
+Get into these situation easily.
+むずかしい
+You have to have those skills to fight against our natural feelings.
+
+Disscussion with Mizutani san:
+土曜日と日曜日を除くと何日ぐらいですか？
+12月26日までに受け取ることになっているのではないかと思いますが、
+12 Tsuki 26-nichi made ni uketoru koto ni natte iru node wanai ka to omoimasuga,
+はいどのような点で困っていますか
+Haido no yōna ten de komatteimasu ka
+25ページ書いたところなのですね。
+25 Pēji kaita tokorona nodesu ne
+フォーマットが問題です
+載せないといけないという場合にはブロック フェニックスを使ってください みたいな書き方が良いかもしれませんはい
+Nosenaito ikenai to iu baai ni wa burokku Fenikkusu o tsukatte kudasai mitaina kakikata ga yoi kamo shiremasen ha
+
+## 19.12.24
+
+In last meeting sensei told that we would not have lab meeting in next week and next next week. Then our next lab meeting would be in next year 8th of january. 
+About my research i have make one  prototype version 5 for one specific situation like a AV is seeing the Stop sign and just crush the stop sign and go through, this would a error but sensei also suggested to make this kind of error also. 
+
+## 20.12.24
+
+
+
+## 23.12.24
+
+## 26.12.24 - 5.01.25 **冬休み**
+
+明けましておめでとうございます。(Akemashite omedetou gozaimasu.)
+In this vacation i am trying to learn japanease and improve my daily routine and also my food  habit.
+
+## 6.1.25
+
+I updated the last prototype with limited situation, may be it could be the initial for the further update of my code. In last update the output was like AV have seen the S and Stop.
+
+H = Human Car,
+AV = Autonomous Vechiels, 
+S = Stop Sign
+AV         S         
+- - - - - - - - - - 
+H                   
+--------------------
+Initial Position:
+AV         S         
+- - - - - - - - - - 
+H                   
+--------------------
+Position Right Before STOP:
+         AVS         
+- - - - - - - - - - 
+         H          
+--------------------
+Complete Stop Step: Marking Stop with 'X'.
+          X         
+- - - - - - - - - - 
+          H         
+--------------------
+Final Position: Human car reached the end.
+          X         
+- - - - - - - - - - 
+                   H
+--------------------
+Simulation ended.
+
+
+
+## 7.1.25
+
+In the last lab meeting, i got some comment from sensei,
+
+-  what happen in our mind when we think its very simple to be done, we dont do the simple way,
+rather we think more difficult thing and when started work we couldnt complete, we fail.
+- Sensei suggested some efficient way to learn japanease like discuss with other japanease lab members. 
+- Use AI for personal assistant to learn japanease 
+- For japnease learning to make some note and try to speak it. Live conversation is most difficult, and most easiest way is to make memo what you want to say and say it again and again.
+About the Research,
+Sensei suggested to make some simple text base prototype for the LLM.
+I have already some prepared text-representation of simulation environment
+then i paste text representation onto chat box of GPT-4o and ask him to whether he can understand it or not.
+Then, LLM gave so complicated answer far from expectation. add to prompt this "just answer STOP or FORWARD". After updating prompt, LLM answered "STOP".
+
+
+## 8.1.25  **LAB Meeting**
+
