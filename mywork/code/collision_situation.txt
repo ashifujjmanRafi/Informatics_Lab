@@ -1,6 +1,7 @@
 H = Human Car,
 AV = Autonomous Vechiels, 
 S = Stop Sign
+
 AV         S         
 - - - - - - - - - - 
 H                   

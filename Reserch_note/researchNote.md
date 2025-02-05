@@ -2002,5 +2002,212 @@ then i paste text representation onto chat box of GPT-4o and ask him to whether 
 Then, LLM gave so complicated answer far from expectation. add to prompt this "just answer STOP or FORWARD". After updating prompt, LLM answered "STOP".
 
 
-## 8.1.25  **LAB Meeting**
+## 8.1.25  **LAB Meeting Disscussion with me**:
+
+Local learning LLM, 
+
+**Note from Tauhid San**
+Memebers present in the meeting: rafi-san, toufiq-san, fahmidul-san, rubel-san, misho-san, touhid-san, mizutani-san,Takahashi-san
+Today's lab meeting started at 1:06 pm.
+Sensei greeted us Happy New Year. He also awared us about the traffic rules.
+Discussion with Rafi san. Rafi san told about the last meetings follow up. Rafi san made two prototypes for two situations. Rafi san described his protypes and he also demonstrated them. sensei asked him about the current issues he is facing. Rafi san told about the issues he is facing. Sensei gave him some suggestions to solve the issues. Sensei told him about different situations and told him we don't need to reimpliment the existing code. Using deep learning it can be done. Sensei also told him about the different libraries and tools that can be used. Sensei also told him see existing code and watch tutorials. Mid term presentation in the end of March. We must plan about the monthly planning. How LLMs' handles the situation. Without proper planning It is hard to implement. Sensei asked him to focus on learning Japanese. Japanese is really very very important. ENjoy movies with japanese student to get more new insights of japanese language. So that he can fully understand the Japanese language. Next week we will have a company in th campus so we can attend the meeting. Sensei asked him to apply in some small companies to increase the chance of employment.
+
+
+## 9.1.25
+
+I have to make a simulation that can be a input for the LLM, Now what can i do i can check suma sans research documents for getting some idea.
+
+## 10.1.25
+
+Today is friday, after completing my prayer i came to room. Started thinking about how can be the simulation can be updated. I have some neck pain, i checked the pressure and its high.
+
+## 13.1.25
+
+I am so much tired for last two days i have done arubatio for like 18 hours, i am feeling not to do anything today.
+
+## 14.1.25
+
+I have try to create prototype and there were some error and now i am trying to solve those error. Maybe next week i gonna show some output.
+
+## 15.1.25 **LAB MEETING**
+
+We will have some disscussion with M2 and Mizutani san. 
+And sensei suggested to M1 students to prepare theri research paper from the conclusion.
+
+Disscussion with Toufik san: Started with some ordinary question, what we disscussed last time and what are the current issue he is facing now.
+Toufik san searching some research paper and he can not finding some good papers, Then sesnei asked why are you searching some paper.
+
+Then sensei asked why you souldnt search for some related papers? As far i remember searching some paper their ambition was high and they did the work as they described in the paper , if we read or use this paper our planing wouldnt match our height. Our target will be lower and our work would be more less, thats why we shouldnt search some paper.
+There are so many non research papers that are not reviewed in proper way in the archive it easy to upload such paper those are not actually research paper.
+
+And research is not some following existing work rather its a orginal work.
+
+Then sensei asked him to explain why we shouldnt see some related papers.
+
+Whitout knowing our work what we have achived we cant find some related paper, it would make some problem. Most of the time it ends with picking some wrong paper.
+
+Why we think complex simulation is more related to reality. In our deep mind we think this step is very easy i shold try more complex and i cant complete the complex the portion and step into a neverending loop. In the end i do nothing.
+
+Then sensei wanted to see some current situtaion of touhid san simulation and asked how did he setup the trashhold value.
+It is best to set up the parameter. His current assumption is to set up the parameter is best for now.
+--------
+Then sensei talked about job hunting and about how is he preparing for having language exllecence.
+
+## 16.01.25
+
+Next i can do check wheather the simulation is working properly for LLM or not and then the LLM is proving what kind of output.
+
+## 17.01.25
+
+I tried to collect some comment from LLM for different situation and in think working as expected,
+![Stop before sudden break of AV1](/mywork/outfromLLM/LLMOutput05.31 PM.png)
+![Stop if see a ball](/mywork/outfromLLM/LLMOutput05.49 PM.png)
+
+## 20.01.25
+
+I am not feeling well today.
+
+## 21.01.25
+
+Summarization of last lab meeting,
+I showed my updated version of simulation, and then sensei asked about my current issues, that time i was confused with the issued and in current situation LLM are giving output only stop or forward what would be next. then sensei suggested some point, like we will keep out simulation or expected output simple like in different kind of situations promt would be answer like Is it go Forward or Stop. And also talked about my current situation of job hunting and japanese learning. And suggested to join some company briefing and watch anime for learning japanease.
+
+## 22.01.25 **Lab Meeting,DM**
+
+Current Issues,
+![Limited number of query can be done in Chatgpt](/mywork/outfromLLM/LLMOutput01.png)
+- Cloud LLM has some limitation like less number of query?
+- How to incorporate/use local LLM?
+Claude, Deepseek,Huggyface , Mizutani san have claude pro version he can help to run the promt,
+
+API
+About the local LLM, VNC -- pick aya model and 
+
+**Note from Takahashi san:** Output from LLM what would be next.
+Different situation of scenario.
+Attend some companies introduction seminar, and watched anime to learn Japanese.
+some limitation; number of queries are limited.
+f. GPT-4o free plan? yes.
+f. Which kind of other option you can utilize as a cloud service?
+I am using perplexity pro version.
+f. Just for question, what is perplexity you  this service or don't know?
+f. Perplexity is a service for searching web, which uses other external AI to gather information,
+   so even if you use pro version, we still have some limitation.
+   But we can compare them and it is good.
+f. Others?
+Claude, Gemini, and some others...
+f. Did you have some discussion about cloud based services as well as running locally?
+f. Ask Mizutani-kun what kind of cloud based AI models as well as locally running models in Japanese.
+(どんなAIがわたしのけんきゅうにつかえますか？とRafiさんが聞いた)
+m. Claude AIは僕がProfessional versionを使っているので私の方で使えます。あなたのプロンプトを僕に送ってくれたら
+代わりに使えます。GPT-4oも商用利用の方を動かせるはずなのでプロンプトを投げてもらえたら少しでもいい結果が得られるはず。Huggingfaceにはいろいろなモデルがあるので。。。
+水谷くんが操作して先生の部屋にあるコンピュータUltraEPYCでLMStudioを動かしつつ、
+より大きなモデルの応答を見ようとしたがVNCのクリップボードが破損していてコピペ作業ができず。
+Azizurさんに今の状況について質問されたのでI don't knowと答えてしまった。
+教員からI don't know は言わない方がいい。I am not sure とか I don't know yet とかに言い換えようと指摘された。
+I don't know だと I don't care about it とか Don't ask me about it というような意味になってしまうことがあるそうだ。
+To avoid unnecessary serious issue, I usually type propmts on my own.
+r. Local LLMs work 私のパソコンで作りたいです。
+Installed and configured RealVNC Viewer with help by Mizutani.
+Collapse
+
+**Note from Mishu:** Sensei discussed
+Fast off, Sensei informed us to write our research note in LATEX. Then Sensei discussed with Rafi san. Rafi san fast told sensei last time what kind of discussed with him. Then Sensei asked him what kinds of issues he faces right now. He told Sensei which kinds of issues he faces right now. Sensei gave some suggestions. Now, Rafi san is practicing with Mizutani san about AI in Japanese. Sensei informed us to be careful about using AI to hunt data. Sensei, for a long time, discussed with Rafi san and Mizutani san LLM RealVNC viewer. Rafi san asked Mizutani san how to connect LLM to his personal computer. Now Mezutani san connects LLM Rafi san’s computer. sensei told us that sharing some knowledge in the lab is very important.LLM problem solved now Rafi San is back in the discussion. Rafi San successfully used the RealVNC viewer. Sensei reminds us not to depend on our minds. The discussion finished with Rafi san.
+Now Sensei sort of discussed with Mizutani san with Japanese.
+一言 入れると一応 論理的には問題ないと入れるように 修士論文を書こうとするとからとっても 読みづらいものになってしまうことはあって必要なことが書かれた部分を毎回探さないといけなくなるので なので 書いてある内容に多少の重複 などはあっても書いてある内容の細かさに違いがあるのであれば それはそれであの残しても大丈夫な場合が結構ありますよ はいなるんでしょうね
+One word: If you include it, it's logically fine, but when you try to write a master's thesis, it can become very difficult to read, and you have to look for the part that says what you need every time. So, even if there is some overlap in what is written, if there are differences in the details of what is written, there are many cases where it's okay to leave it in. Yes, I guess that's the case.
+直さなきゃいけなくなって困ってます
+I have to fix it and I'm in trouble.
+so probably the doctor process of writing up your own Fitness Maybe some for different world what other Japanese Master costume to us three doing but at least they share some common ideas on there so knowing about how he's writing his cases comfort useful to you I hope hi are you
+だから、おそらく医師はあなた自身のフィットネスを書き上げるプロセスです。おそらく、私たち3人がやっている他の日本のマスターコスチュームとは異なる世界のためにいくつかありますが、少なくとも彼らはそこでいくつかの共通のアイデアを共有しているので、彼が自分のケースをどのように書いているかを知ることはあなたにとって便利です。こんにちは、あなたは
+来年のこの時期に変わらなくてすみますよ いろんな意味で まず大事なのは ですね はい
+So that it won't have to change at this time next year. In many ways, the first thing that's important is, right?
+ところで色々 設定して実際 文字を使ったおもしろから 文字の大きさを戻すの忘れて小さくなったりしません か大丈夫そうなら いいですけれど はいだんだん 年齢が上がってきて 老眼 という 困ったものを抱えている先生が選ばれて本当の設定がうまくできてないと本当か適当に近いサイズのポンプをするので困るんだけど そういうのところ
+By the way, it's fun to set various things and actually use letters, so don't forget to change the size of the letters and make them smaller? If it seems okay, that's fine, but as I get older, I'm getting older and I have a problem with presbyopia, so if the settings are not done properly, I'll use a pump that's close to the actual size, which is a problem.
+
+
+**Note from Tauhid san:**
+**Memebers present in the meeting:** rafi-san, toufiq-san, fahmidul-san, rubel-san, misho-san, touhid-san, mizutani-san,Takahashi-san<br>
+**Today's lab meeting started at 1:06 pm.**
+Sensei discussion with Rafi san
+Rafi san showed his cloud LLM results and told his issues about the limitations of the cloud based LLMs and showed his results of perplexity GPT. Sensei suggested Rafi san to check other kind of cloud based LLMs. Sensei awaredus about the pronmts we are using in the GPTs and they can use them in the future for training. Rafi san asked Mizutani san to learn more about Local LLMs and mizutani showed him some models and the results were consisted and pick aya model. Now sensei asked rafi san about other issues. Rafi san asked mizutani san that how can he connnect to the shared pc from his personal computer and mizutani san showed him so. Now Rafi san can access to local LLM and he can continue his research without any limitations which he faced in cloud based LLMs. Then sensei asked him about his next issues. Sensei also added that he will have his mid term presentation in march and about submiting his research paper to any international conference. Writing research paper can clear up some ideas about the research. We should not follow the deep feeling blindly. We must start writing and summaring to research. Then next discussion will be with mizutani san. We need to show our research notes in the next lab using **LaTeX**. We must be careful about using the Optical drive.
+Today I learned about VNC, Virtual Machine, Cloud LLMs, Local LLMs,
+良いと思いますので。 あらあら。 2023 見つかりましたか はい。 修士論文を準備している時には、必要なファイルはすぐに参照できるように。 準備をしておいた方がいいですよ。 そしてサンプルを見るときは1人の先輩のものだけを見るのではなく複数人のものを見るようにした方がいいですよ あの先輩だけが。 見ることができますか？ リスクは大事に扱ってくださいね。 ものは見つかりました。 店の大きさって これぐらいですよ。 小さくないですか。 知らされた画面も見ながら 何を どう 小さいのか っていうことも知っておくといいですよ さっきは 終止 論文の実力が見えました 大丈夫ですか？ 川添先輩からもらったテンプレートのやつなので、 たくさん心配になることがあります 大学の教員は楽しい 職業ですね。日本語の会話や話を聞いてみるチャンスですよ? したがって、あなたが明確かつ完璧に理解しているかどうかは問題ではありませんよね？スピーカー それは簡単ではありません。 専門分野の軽い知識がないと非常に複雑です。
+
+**Note from Azi san:**
+Discussion with Rafi
+The discussion started with the usual question: "What did we discuss last time, and what issues is Rafi facing now?"
+Rafi began by answering the first question, mentioning that Sensei suggested watching anime for language development and talked about job hunting. Then, he switched to the second question.
+Rafi showed some AI services he is using, including Perplexity, Gemini, and Claude.
+Sensei talked about data safety and protection when sharing with AI.
+Mizutani-san connected to a local LLM machine deployed in Sensei's room and ran Rafi's prompt. It provided the same result as Claude and Perplexity.
+Sensei emphasized the importance of sharing knowledge and encouraged us never to hesitate to ask questions if we don't know something. Mizutani-san is helping Rafi deploy VNC on his laptop so that he can access the machine in Sensei's room.
+Sensei stressed the importance of staying in the lab and meeting people in person, which is why we are here instead of in our home country or dormitory room, or attending online. It’s a great opportunity.
+
+**Note from Fahmidul san:**
+
+**Note from Toufik san:**
+
+
+
+## 23.01.25
+I am planning to take some more result from the local LLM, Then in next issue could be how to compare the result as human perspective.
+
+## 24.01.25
+I am not feeling so well.
+
+## 27.01.25
+
+About my curretn
+-  We must start writing and summaring to research.
+
+## 28.01.25 **Lab Meeting**
+
+Next month the schedule would be some changes, In next meeting would be skipped. In next next wednesday we may have this meeting may be delayed, In 19 February,maybe there will be our meeting, Again 26th the meeting would be skipped. Sensei will let us know in later moment or in slack. 
+
+Why we disscuss about combination parameter because from currrent code we get a single 
+why we were disscussion to overcome the confusion, and get some work to be done like his confusion is changing random parameter or checking each result is difficult. Sensei telling about 10thousand output or parameter.
+Still toufik feel deep pressure, Deciding the right parameter will be used in the code.
+Why this disscussion to overcome the confusion of deciding the right parameter,
+
+Sensei asked toufiq san about the last lab discussion - some important points from the code, why he gave the fixed value for threshold, why he put some parameters, and gave suggestions to put some parameter distribution. Sensei asked us th same to us about the last meeting.
+
+Sensei told him not to worry about the parameters but try them all. Current situation in simulation is to try all possible parameters. Finite number of combination of patrameter values. Every moment he has to change the parameters to find the exact parameters. 
+Why he did not update his code to handle dynamic parameters? Its not complicated but hard to try all the parameters. 
+We must listen to the discussions very carefully and take notes. Deep feelings can distruct us by looking into thousands of outputs from the parameters, but this is the right way to do so, one fixed parameter is not enough to get the right output. he can add different parameters in different scenarios like discount. He don't need to change all the parameters in the scenarios which is better for the users. 
+Sometimes our deep mind can produce doubts and we believe it blindly. Which can be happen to us in near future. Sensei told that there is no 'why' in the toufiq sans note. 
+We are doing so because to find the correct parameters, without trying all the possible parameters we can't decide the right one to use.  
+What was the issues? why this discussions - to decide the right parameters. This is the logical structure. We should be careful about some deep felling like 'we should decide'. When we try all the combination of parameters then we don't need to decide.
+
+In summary we did fight against our deep mind , and try to understand ...
+Maybe toufik san understand what happened in todays disscussion.
+todays focus was **WHY** and ..
+Written code is really simple but dynamic code would be hard.
+
+
+## 29.01.25
+For now the main issue i am facing is continiously applying for companies and getting negative feedback from them for not havig japanease proficiency.
+
+## 30.01.25
+About the research what should i do next, right now i have access to the local LLM and Cloud base as far my simulation the results are satysfying. What can i do next?
+
+## 03.02.25
+There was another problem i mentioned that lack of cordination of vechiels. what can be done for this problem would be my issue.
+
+## 04.02.25
+
+
+About my research there are upcoming mid term presentation in the last week of march. I have to ger prepared for the presentation.
+
+## 05.02.25 
+
+I got some information that the upcoming IIAI conferance dates, the paper submission dates are 15 of april.
+So in very recent i have three works
+- making presenatation for the midterm 
+- updating the paper for conference
+- and Adding some complex scenarios
+
+
+
+
 
