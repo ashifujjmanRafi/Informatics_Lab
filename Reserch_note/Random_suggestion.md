@@ -85,3 +85,8 @@ LLM-based OCR: LLMs, trained on vast amounts of text and image data, can directl
 
 
 **less complex and human like reasoning** we present an autonomous vehicular system based on multi-agents to reduce the complexity of the autonomous system. In fact, instead of executing several tasks by one process, we split them between different agents. Therefore, this complexity reduction reduces the execution time and provide a quick intervention in complex scenarios. Furthermore, our multi-agent system can be applied for all vehicular brands. In contradictory to the existing systems that were dedicated to specific brands.
+
+
+
+
+# Paper Writing manner:

@@ -2082,6 +2082,33 @@ Claude, Deepseek,Huggyface , Mizutani san have claude pro version he can help to
 
 API
 About the local LLM, VNC -- pick aya model and 
+/br
+**fukuta:  22:35
+@channel**
+Now I have prepared an experimental setup of lm-studio remote desktop environment which can be accessed from the lab network.
+You can access to this "shared desktop" using VNC by the following steps:
+Connect to my (=supervisors) wifi network (Fukuta-BB5 or Fukuta-BB5WPA).
+use "192.168.11.120:7" to access VNC remote desktop. The pass is which you are using to access to lab's WiFi. (please don't write it in slack channel if you don't know it, but try telling it using the whiteboard at the lab room.)
+You will see the screen of LM studio. Here, you can even use some of 70B-scale LLMs in a "usable" speed(>1tok/sec).
+Note: This is an experimental testing setup. Sometimes it may be shutdown suddenly due to maintenance reason. This is a shared remote desktop so everyone will share the same screen. Be careful someone is also seeing this screen, or some may accidentally delete your important logs.
+PLEASE: DO NOT CONNECT TO MY WIFI UNLESS YOU ARE USING THE ABOVE REMOTE DESKTOP!! Connecting to your lab room network for ordinary tasks! When you finished using it, please disconnect from the above-mentioned WiFi. Please do NOT setup auto-connect-to-this-WiFi!   (Fukuta-BB3a should be much faster in many case :wink:
+If you don't know what is VNC, see the following (but not ask it to me!)
+https://www.realvnc.com/en/connect/download/viewer/macos/
+You can download realVNC viewer from the above link.
+Then use the address specified in step 2. to connect to the remote desktop.
+Again, please don't ask me about your own personal network troubles! If you cannot manage them by your own, then you are not eligible to use it.
+<<<LIMITATIONS>>>
+Due to the university's regulation, we cannot give you a direct access to the above from other networks. Sorry please come to the lab room 1 and then play with it.
+The remote desktop is only for lm-studio. You cannot run any other code on there.
+If you are going to use Local Inference Server, do NOT use the default port number "1234". I have already changed the server port to "12534". Please use this as is, to avoid unnecessary port number conflicts.
+Due to the limitation of VNC protocol itself, we cannot do copy and paste in Japanese and other 8-bit characters in texts. Soon Japanese Input to the chat window will be available (I have already found the way to do but not enough time to apply it to the current setup!). But this copy-paste issue in 8-bit characters cannot be resolved in any way, unfortunately.
+<<<INFO>>>
+This computer has 64core/128thread AMD EPYC with 256GB of main memory. No GPUs but runs smoothly in most cases.
+RealVNC®RealVNC®
+Download VNC Viewer for macOS by RealVNC®
+RealVNC® Viewer for Mac is the most secure VNC Viewer to connect to all of your devices remotely. Download RealVNC® Viewer for macOS now.
+Est. reading time
+8 minutes
 
 **Note from Takahashi san:** Output from LLM what would be next.
 Different situation of scenario.
@@ -2206,6 +2233,94 @@ So in very recent i have three works
 - making presenatation for the midterm 
 - updating the paper for conference
 - and Adding some complex scenarios
+
+## 06.02.25
+## 07.02.25
+
+## 10.02.25
+
+Our thesis midterm presentation date is announced, hmaster's thesis proposal/interim presentation on March,Date: Thursday, March 27 and Friday, March 28.
+Place: Faculty of Informatics Bldg. 2
+
+About research paper writing i have to clarify the problem statement and what things we are considering. Like in simulation we are giving simple textbase input.
+
+
+
+## 11.02.25
+
+Today i have and internship in Kosai, I left in the morning it was basically a one day work experience. Though it is close to hamamatsu, this the first time for me travelling alone. And fortunately i didnt face any hazard. It was a good experience.
+I am so much tired today. Tomorrow may be there will be lab meeting.
+
+## 12.02.25 **Lab Meeting**
+
+**Last meeting summarization:**
+- Cloud LLM has some limitation like less number of query?
+for this i asked mizutani san for some free cloud base LLM, he shows me the Deepsekk and we checked one of my sample simulation and the output was as expected. Then we disscussed about there would be some limitation for cloud base LLM.
+- How to incorporate/use local LLM?
+For this again i asked mizutani san how to use local LLM, first he showes me how to use then we coonect my pc to lm-studio remote desktop environment.
+
+Some upcomming schedule: master's thesis proposal/interim presentation on March,Date: Thursday, March 27 and Friday, March 28. My current situation is there are many deadlines are coming and as sensei's schedule maybe we will have very limited number of meeting. What can we do for taking proper preparation?
+
+And i applied for internship though i am not sure wheather i will get the chance or not, but if i have chance then the intership schedule is proablly 3/14  - 3/26.
+
+In my research there was an another portion that is communication between the Vehicle, i am confused this portion what can we for this part for now?
+
+
+## 13.02.25
+
+Sensei told that in february 19 there will be meeting and next next meeting will be skiped and 
+then 5th of march that meeting will also be skiped. 
+and 12 of march the campus will be closed beacuse there would be enterance exam. 
+Then we will have possible 2 meetings before our mid term presentation.
+
+## 17.02.25
+
+In monday i had helth checkup and it seems my pressure is not normal and they a lot of blood and i am not feeling ok, I took the day off.
+
+## 18.02.25
+
+I am taking preparatin for tomorrows interview and getting tensed about upcoming schedule.
+About my research 
+
+## 19.02.25 **Lab Meeting DM:**
+
+**Last meeting summarization:**
+- Cloud LLM has some limitation like less number of query?
+for this i asked mizutani san for some free cloud base LLM, he shows me the Deepsekk and we checked one of my sample simulation and the output was as expected. Then we disscussed about there would be some limitation for cloud base LLM.
+- How to incorporate/use local LLM?
+For this again i asked mizutani san how to use local LLM, first he showes me how to use then we coonect my pc to lm-studio remote desktop environment.
+
+Some upcomming schedule: master's thesis proposal/interim presentation on March,Date: Thursday, March 27 and Friday, March 28. Sensei told that in february 19 there will be meeting and next next meeting will be skiped and 
+then 5th of march that meeting will also be skiped. 
+and 12 of march the campus will be closed beacuse there would be enterance exam.
+
+My current situation is there are many deadlines are coming and as sensei's schedule maybe we will have very limited number of meeting. What can we do for taking proper preparation?
+
+And i applied for internship though i am not sure wheather i will get the chance or not, but if i have chance then the intership schedule is proablly 3/14  - 3/26.
+
+- In my research there was an another portion that is communication between the Vehicle, i am confused this portion what can we for this part for now?
+- What i can do about the presentatin slide what can be added in there.
+
+
+Midterm presentation : presentation tittle,
+Toward a Multi-Agent Approach for Dynamic **Traffic Control and Optimization,** what is missing in this tittle-
+
+Toward a Multi agent approch for Dynamic LLM Accident Car control Car communication
+
+Toward a Multi agent approch for LLM-Based Dynamic Vehicle control and communication in accidental condition. 
+
+
+Like we also incorporiting LLM in our research, and its about safe driving contribution to Autonomous Level5,
+We are going to check How LLM is going to perform in Unknow unsafe situations compare to current AVS.
+We also want to have communication between the cars that could be human drive car or AV.V2V using multiagent.
+maybe slightly different from dynamic traffic control and optimization i think.maybe i am wrong.
+Avoiding accident is also may contribution to traffic cntrol or optimization. - not the full problem solution.  Its maybe the part of big goal, 
+It also reflect the doing on my research. 
+
+Same thing would be done in toufik sans updating the presentation tittle:
+
+
+
 
 
 
