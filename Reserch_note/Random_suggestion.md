@@ -88,5 +88,11 @@ LLM-based OCR: LLMs, trained on vast amounts of text and image data, can directl
 
 
 
+About Research:
+Imagine you're driving near a playground, and suddenly a ball rolls onto the road. As a human, you might immediately think, a child might be chasing the ball. So, you would slow down or stop, even before seeing the child. Traditional AV might not understand this situation in the same way. Since it relies on pre-programmed rules and sensors, it may only see the ball as an object but not realize that a child could follow. This means the AV might not slow down or stop in time, creating a dangerous situation. As per human driving capabilities this is an example of Unknown Unsafe situation. 
+My research focuses on integrating large language models (LLMs) as primary decision-making agents in Automated Driving Systems (ADS) to enable human-like reasoning in unknown and unsafe situations. My research seeks to find "Can LLMs effectively enhance decision-making for AVs in Unknown-Unsafe domains within a multi-agent frame-work compared to current mechanisms?"
+AVs and human drivers are going to share roads and a V2V-enabled cooperation would be crucial for managing mixed traffic scenarios. To address these challenges, we are plannig to employs a multi-agent framework that enhances vehicle-to-vehicle (V2V) communication, improving coordination among vehicles. This allows vehicles to exchange real-time information and collectively adapt to dynamic environments, leading to safer and more reliable decision making to avoid uncertain situations.
+We aim to contribute to the advancment of autonomous driving to Level 5 by leveraging LLMs for enhanced reasoning. 
+
 
 # Paper Writing manner:

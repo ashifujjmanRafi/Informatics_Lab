@@ -2299,6 +2299,18 @@ My current situation is there are many deadlines are coming and as sensei's sche
 And i applied for internship though i am not sure wheather i will get the chance or not, but if i have chance then the intership schedule is proablly 3/14  - 3/26.
 
 - In my research there was an another portion that is communication between the Vehicle, i am confused this portion what can we for this part for now?
+
+i think to do this , a car will have a certatin communication base radius, like in this certain distance it can communicate with other crossing cars and share it next move and so on. this can minimize the accident possiblity. issue is i dont know how to do this.
+Ask LLM about this situation hey llm think you are in this kind of situation what would you do.
+** We assume the car have light communaction setup and they can communicate each other 
+** Then next issue would be how the LLM react with the communication. 
+Simulation where the cars can communicate each other !
+
+We have to setup some specific situation, Like road crossing situation two cars is communication each other and sending message and in the promt and How LLM is reacting.
+
+For genaral implementation is little tough rather i can do it for some specifiq situation and for communication in initial i can only use 0/1 for only stop and forward command and later moment it could be extended.
+And if i got stuck to how can i do it, first i may have the clear idea what i want to do.
+
 - What i can do about the presentatin slide what can be added in there.
 
 
@@ -2318,6 +2330,132 @@ Avoiding accident is also may contribution to traffic cntrol or optimization. - 
 It also reflect the doing on my research. 
 
 Same thing would be done in toufik sans updating the presentation tittle:
+
+
+**Note from touhid san**
+Rafi san told about the last meetings issues LLMs and DeepSeek AI. He successfully implemented the LLM in his local machine. Then he talked about the M2 mideterm presententation and he discussed about the difficulties about tight schedule. He asked about the midterm presentation slides. Sensei told him about the presentation registration - presentation title, Rafi san is confused about his research title as the existing title doesn't covers all the research scopes. So sensei asked him what is missing in the title. Rafi san replied incorporating LLm in research, Safe driving contribution to Autonomous Level5, avoiding accidents. We may set up great goal and our research may impact very less. The present title covers a lot of things so sensei asked him to revise the title based on the topics covered. Rafi san hardly explained in his research note about the issue of his research title. So all these should be included in the research notes. **To write the title we should tfind the keyword of our research and it should cover impotant topics of our research.** Then sensei asked him about the present issues about his research and rafi san said that he is confused about the communication part of the research. Then sensei asked rafi san to assume some situations so that he can solve the current issue like the simulation where the cars can communicate with each other.
+Sensei discussion with Toufiq San
+Sensei asked toufiq san about his presentation title and is it okay? explain. Sensei asked him to analyse the title and find any missing part. Sensei asked him about the title that is he going to control the whole ecommerce in the market but which is not okay and sensei asked him about which part should e update. The toufiq san idendified the missing parts with the help of sensei and sensei asked if he can update by himself as he has seen the process of Rafi san. Then sensei also helped toufiq san to write his presentation title. We can also do the same in thinking about writing our own research title. Noticing the method is very important because without sensei's help we have to do it ourselves.
+
+## 20.2.25
+
+
+The last summerization is i have to upadate my paper and then form there i can upadate my presentation slide also. And for other part i think i will just include the idea.
+
+## 21.2.25
+
+I tried to explain my research to the M1 students and get comment from them. And i got also get some tentative comment from takahashi san also.
+
+## 24.2.25
+
+I have two main focus about research i have midterm presentation in end of this month and An internation conference in middle is April.
+Sensei suggested me to update my paper.
+
+## 25.2.25
+
+I am taking preparatin for tomorrows interview and getting tensed about upcoming schedule.
+About my research. 
+
+## 26.2.25
+
+
+This is my isse,
+i think to do this , a car will have a certatin communication base radius, like in this certain distance it can communicate with other crossing cars and share it next move and so on. this can minimize the accident possiblity. issue is i dont know how to do this.
+
+
+
+## 27.2.25
+**ABout V2V communication**
+We have to setup some specific situation, Like road crossing situation two cars is communication each other and sending message and in the promt and How LLM is reacting.
+For genaral implementation is little tough rather i can do it for some specifiq situation and for communication in initial i can only use 0/1 for only stop and forward command and later moment it could be extended. And if i got stuck to how can i do it, first i may have the clear idea what i want to do.
+
+
+## 28.2.25
+
+In my research there was an another portion that is communication between the Vehicle i got some suggestion about this from sensei.
+Ask LLM about this situation hey llm think you are in this kind of situation what would you do.
+- We assume the car have light communaction setup and they can communicate each other 
+- Then next issue would be how the LLM react with the communication. 
+Simulation where the cars can communicate each other !
+
+## 3.3.25
+
+From the march 1st the all company have started their recuritment. And this week going to be an haptic.
+
+## 4.3.25
+
+I have disscussed with shirai sensei about school recommendation, he told me that i didnt fullfill the requirement of getting the reocmmendation. I am felling nervous and low because i have really limited japanese language proficiency.
+
+## 5.3.25
+
+I have two job inoformation session and About research i think 
+i have to add details about the dirving domain situation.
+
+## 6.3.25
+
+I have a interview today at koito, that will be in japanease and i am practicing for this.
+
+## 7.3.25
+
+For last week i just attend various company information session and all are happend in japanese, it was a great experience. For research i have updated some portion. Still there are many things i have to add.
+
+
+## 10.3.25
+
+In last disscussion with me, i have shared some upcoming schedule about midterm presentation and conference and told sensei that i am concern and confused about the short time we will have for practice.
+I was confused about my research title as the existing title doesn't covers all the research scopes. So sensei asked me what is missing in the title.Then we chaged the tittle and the  present title covers a lot of topics covered. For now its ok. I got another suggestion from sensei that i should started writing the research paper. Then i can also update the Presentation slide.
+
+I have started update the paper and next meeting i gonna share updated paper.
+
+## 11.03.25 **Lab Meeting DM:**
+
+Next meeting will be ordinary but the time can change. For next month we may have disscussion about tentative schedule about M1 students class. Next 26 will held as usal. And then 2nd april we will skip the meeting.
+Second week of april this week we will skip our metting. During this two week properly use slack channel.
+
+Disscussion with taufik san, He have make some data and create some figure and then sensei asked him what is the purpose creating this figure. And its give hard time to toufik san.
+
+Sensei is telling that some company is creating real time data as a researcher we actually we dont need use real data. And if you only show some data and figure without having the understanding what gonna do with that, this could be somewhat troublesome for you, the commenter of conference or reader can complain about it.
+After writing the note sensei told him to think about his research purpose. We gonna tink about your research question that will say it in the conclusion part of your paper.
+**Note form toufik i missed this part**
+
+Genaration of data and comparing is not the purpose of research rather it is way of showing someting,
+We can implement a simulation to terge to shown for the system using necessary parameters for this assumption.
+
+Then sensei asked what is the purpose of your research? The action will not be the purpose, LIke you are saying to implement?
+To implement to show what?
+We have some purpose to implement something then tell me what is the purpost of yours.
+
+Then toufik replied his simulation,
+ can agent base simulation data cober various aspect of customers behaviour and promotional factors.
+ Then he wrote i am not sure about my research purpose.
+
+*****-----
+
+today meeting is in onlile. Sensei told about schedule specially for Masters second grade
+- why is we are doing this code and data?
+- generating of data or comparing data is not perpose of research rather it is way of showing somethings.
+- some researcher working with real data bz they want to show how is act with real data in merket.
+- we can implement a simulation to terger to shown for the system using necessary parameters for this assumption.
+can agent base simulation data cover various aspect of Customers's behavior and promotional factors. i'm not sure about purpose of reseach is above line or not. I am worried about can simulation data cover all aspect of customer behaviors.
+what can we do::
+- we can fixed some aspet of customer's behaviors.
+- what happen when his desire product price will get by discout.
+- if discount is less than his buying capacity what decision he takes, what a customer choose when quality and
+
+
+Disscussion with me ,
+
+
+
+
+
+
+## 12.03.25
+
+Now lets introduce the output from different LLM and disscuss about the input and also i gonna disscuss about the assumption. in my paper.
+
+
+
 
 
 
