@@ -2407,7 +2407,7 @@ I was confused about my research title as the existing title doesn't covers all 
 
 I have started update the paper and next meeting i gonna share updated paper.
 
-## 11.03.25 **Lab Meeting DM:**
+## 11.03.25 **Lab Meeting:**
 
 Next meeting will be ordinary but the time can change. For next month we may have disscussion about tentative schedule about M1 students class. Next 26 will held as usal. And then 2nd april we will skip the meeting.
 Second week of april this week we will skip our metting. During this two week properly use slack channel.
@@ -2453,6 +2453,29 @@ Disscussion with me ,
 ## 12.03.25
 
 Now lets introduce the output from different LLM and disscuss about the input and also i gonna disscuss about the assumption. in my paper.
+
+## 13.03.25
+
+I make a folder at the Overleaf to upload my least output from different LLM. Then tried updated the methodology part.
+
+## 14.03.25
+
+For last week i just attend various company information session and all are happend in japanese, it was a great experience. For research i have updated some portion. Still there are many things i have to add.
+
+## 17.03.25
+
+I have uploaded the update paper and waiting for sensei's comment. 
+
+## 18.03.25
+
+In last disscussion with me, i have shared some upcoming schedule about midterm presentation and conference and told sensei that i am concern and confused about the short time we will have for practice.
+
+I was confused about my research title as the existing title doesn't covers all the research scopes. So sensei asked me what is missing in the title.Then we chaged the tittle and the  present title covers a lot of topics covered. For now its ok. I got another suggestion from sensei that i should started writing the research paper. Then i can also update the Presentation slide.
+
+
+
+## 19.03.25 **Lab Meeting DM:**
+
 
 
 
