@@ -96,3 +96,42 @@ We aim to contribute to the advancment of autonomous driving to Level 5 by lever
 
 
 # Paper Writing manner:
+
+If you want it even more strict, you could try \begin{figure*}[!htbp] for more flexibility:
+
+h = here
+t = top
+b = bottom
+p = page of floats
+! = override LaTeX's internal restrictions
+
+\begin{figure*}[!htbp]
+    \centering
+    % First Row
+    \begin{subfigure}[b]{0.3\textwidth}
+        \includegraphics[width=\linewidth]{outfromLLM/deepq_TL.png}
+        \caption{Output from DeepQ}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.3\textwidth}
+        \includegraphics[width=\linewidth]{outfromLLM/GPT_TL.png}
+        \caption{Output from ChatGPT}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.3\textwidth}
+        \includegraphics[width=\linewidth]{outfromLLM/google:flan-t5-large.png}
+        \caption{Output from google/flan-t5-large}
+    \end{subfigure}
+
+    % Space between rows
+    \vspace{1em}
+
+    % Second Row
+    \begin{subfigure}[b]{0.3\textwidth}
+        \includegraphics[width=\linewidth]{outfromLLM/claude.png}
+        \caption{Output from Claude}
+    \end{subfigure}
+
+    \caption{Comparison of responses from different LLMs on the task}
+    \label{fig:llm_outputs}
+\end{figure*}

@@ -2464,6 +2464,8 @@ For last week i just attend various company information session and all are happ
 
 ## 17.03.25
 
+Previously i searched hugging face once and choose the option text to text, and it suggested many Cloud base LLM and it is categorized in different perspective like top download, top used. For instance i used only googles LLM and Added the output in the paper.
+
 I have uploaded the update paper and waiting for sensei's comment. 
 
 ## 18.03.25
@@ -2477,13 +2479,223 @@ I was confused about my research title as the existing title doesn't covers all 
 ## 19.03.25 **Lab Meeting DM:**
 
 
+I got some comment from sensei, 
+
+What kind of models and changes in promt , what whould be the difference and GPU performance can change the performance
+
+Sub research question,
+What can you see from the results? Is it enough to test them just once? Can we test them for 20 times or so to calculate some statistics such as the mean and variance of them? 
+
+This research question is too general to be answered. Break this into more specific sub research questions, such as, "Is an agent able to decide the action to take by having a  help from LLM on without having specific learning process on the situation?"
+
+If we change the promt a bit is going to effect the decision of the LLM?
+Is it comptible to use Only the Cloud base LLM?
+How the GPU performance will effect the time of decision making?
+Did The all LLM giving same result ?
+
+What is changing their decision?
+Language / addition promt engineering/
+
+what factor you have consider to chosing the LLM? - what should be explained by catagory -
+top downloaded? - most recent / most trending / recommended /?
+Have to be specified when it was it top downloaded like top downloaded in 19th march.
+
+What other language dependency?
+how the different language may affect the output?
+
+catagory:
+- Quantization, what qunatization is used, metrics 
+I have to find some reference to know more about quantization.
+lamma cpp
+- Model size
+- 
+
+What kind of computer we used?
+cpu/gpu
+
+Promt changing result - recording the changes.
+
+We should record what we did  is important thing in our research. 
+If we dont take detailed note it may hamper recording the what we did, its also necessary to prove what we tried to learn during the time.
+
+Add timeline to the presentation. After updating the paper i may have chance to update the slides.
+
+**Note from Takahashi san:**
+don't hesitate to be deleted by sensei.
+You may not reach latter part on plan presentation. actually we are doing is very important but difficult, necessary important all of you
+early as possible you may spend mostly 1 year.
+
+In last last meeting, we discussed about research title etc.
+You are worrying about time is short.
+Most of students are thinking same thing.
+Actually you are doing things very slowly.
+Wide-spreading lower performance doing everything slowly.
+We can take practice to fight against such a situation; you have responsible to do some very important things at your company(tightly connected to your future, right?).
+Then we gonna clarlify your issue by seeing removing them into here, doesn't mean your writing is wrong.
+
+You can do things more easily. Just pushing of regenerate button again and again.
+Sometimes we cannot notice such a easy task, when we are focusing on "is this OK is this OK?" Therefore noticing such feelings is very important.
+Then please start writing I'll give you small moment to write down your thoughts.
+When you are thinking something, try to write them down on your note as well.
+
+Sometimes you might catch more general research question, last one is very general one. You can ... some detailed one.
+
+Todays topdown LLM .... And also another criteria... clarification is very important "when you see top download at a time 19th march".
+Recent changes are changing day by day.
+To keep the reproducibility quantization they utilizes some matrix a very important.
+Uploaded model says q10 showing us some parameters on doing this quantization but don't provide the detailed way of quantization.
+Removing sparse part (simle-zero or something).
+Do you know something detailed explanation about quantization?
+You wrote "What does quantization size mean"?
+llama.cpp is nice because it shows good performance even on CPUs including Intel or AMD.
+Saying the method of quantization is neccesarry. reproducibility is very important, but you are not doing it.
+Which quantization is better which languages you use, native language you are speaking also nice.
+How those result is language dependent or not is further research.
+Japanese language too match quantized some other language for some words korean language, these happens... Japanese is very difficult
+Japense specifically tuned LLM sometimes further optimization keep performance compared to other languages.
+I cannot use ...some european people.
+
+Visiting toyokawa toyohashi city, things dramatically change. their driving speed is so different.
+Respecting local customs.
+
+Doing things in parallel is very important. → Take right strategy.
+
+Specially designed CPUs including vector processing unit.
+Exactly the same model and same parameters result was very different.
+
+Actual core contribution to the community is ... our natural expectation.
+
+Go back to first situation, how do we prepare some nice slides? Uhh.
+
+Disscussion with toufik san:
+
+toufiq san has joined in his internship and sensei asked him about the internship and he told that it is very good but at this time it is very difficult for him to concentrate in all the things because he hase many things to focus on. Then toufiq san talked about his internship - the company is very strict in terms of time management and quality work. the company is located near the beach of hamamatsu. two days he travelled by bus but today he rode bicycle as he had to join the lab meeting. he had to speak in Nihongo in the company. which is excellent. so sensei asked him to demonstrate some japanese language. so he demonstrated that how he told about his meeting and leaving early today. he also added that though he is doing internship but they are treated as a permanent worker. sensei told that in some japanese companies it is very important in the selection process. In the internship is the chance to learn about the work culture about the company. sensei asked all the passing students to burn all the research data in the DVD's. which is much more reliable way of storing then using cloud based storage. After joining in any internship we should think about how we can contribute in the company the experience will help us to choose the next internship and company. all companies are not good in Japan as like any other country so we should be very careful and we can ask about the company to some people who has working  experience in the company. sensei asked hassan san about the last meeting discussion. so he told about the last discussion but some points were missing so senseia asked about us to tell about the missing points. we also take the memos of others note in our research notes so we don't miss any details of the lab meeting discussion. When we are doing some complicated things only our own mind thoughts are very risky so we should take comments from others so that we are in the right track. because remembering is very hard. hassan san again told about his last meeting discussion after reading everyones research notes. sensei told that it is very important for us to remember the important points and helpful to find the missing points in own research notes. so we must not hesitate to share our notes with each other. toufiq san asks about the updated code. Sensei asked hassan san about the current issues and he told about the comparison part in the he should include in the paper. so sensei asked him to write those issues in the research note and also suggested us to write anything we are facing issues in the research notes. hassan san asked sensei aout the inclusion of the statistical data in his paper to compare the result. we should be clear about our goal to start coding.
+
+Research question of toufik san, can we make some simulation 
+
+
+## 20.03.25
+
+what is quantization : basic meaning is rounding off. like 1.8999 = 1.9 less bit save space.
+
+In the context of LLM : Input set of large value -> reducing precision of weight value -> less the output set -> rounding off
+- less storage
+-  faster functional 
+trade off
+- quantizing model can reduce the accuracy
+-  
+
+## 21.03.25
+
+
+## 22.03.25
+
+One missing link writing 
+- i havent mention about the other communication part of V2V what consideration we will kepp in mind and what kind of experiment we will conduct.
+- Sensei once suggest about we dont have to bother about the communication part we will assume that some others already have achived that now one car is communicating his cueernt status when it run into anothers cars a certain radius lets say 10 meter radius of a car to avoid any unwanted situation , whenever it encounter it will share its current status like what are around him and its speed if any potential decision it can take like there is some stop sign for partial road construction it will stop after 20 meter. like this . this communication will happen between the cars and let know the decision agent also.
+Here the question arise is one  agent is enough for taking all decision. here comes the idea of multi agent.
+
+
+## 24.03.25
+
+Anothere research question can be added, 
+A single LLM base decision agent is enough for take decison?
+
+## 25.03.25
+
+What now, chossing LLM and what would be the factor .
+first i am chossing LLM model family through Quantization , what others can be considered
+then what factor can be considered to picking the model for text to text human like reasoning for autonomous vechiels.
+- LM Studio Recommendations (Best Performance & Accuracy)
+Mistral 7B – Strong instruction-following capabilities, optimized for reasoning (4-bit, 8-bit).
+OpenHermes 2.5 – Open-source model, fine-tuned for instruction-following tasks (4-bit, 8-bit).
+DeepSeek 7B – Competitive with GPT-4 in structured reasoning tasks (4-bit, 8-bit).
+- Hugging Face – Open Source Models (Top Downloads & Performance)
+LLaMA 2 13B – Reliable for reasoning, widely tested in quantized formats (4-bit, 8-bit).
+Mixtral 8x7B – High performance in reasoning tasks, supports long-context understanding (4-bit, 8-bit).
+- Top Commercial Services (Performance-Based Selection)
+Claude 3 Sonnet – Consistent human-like reasoning, well-suited for AV decision-making (Cloud-only).
+GPT-4 Turbo – Advanced multi-step reasoning, but requires cloud-based deployment (Cloud-only).
+Falcon 7B/40B – Strong performance in reasoning tasks (8-bit, Cloud for 40B, Local for 7B).
+Justification for Selection Criteria
+
+- Hugging Face Models: Chosen based on high downloads and proven effectiveness in reasoning tasks. These models are widely used and have been tested extensively within the research community.
+- LM Studio Models: Selected for their strong performance and compatibility with local deployment. These models offer efficient reasoning capabilities and work well within LM Studio’s runtime.
+- Top Commercial Services: Included based on comparative performance with open-source models. These models have demonstrated high accuracy in previous benchmarks and evaluations.
+Additionally, due to compatibility issues, some models from Hugging Face were tested directly on the Hugging Face interface instead of running them locally through LM Studio.
+Then run the test,
+
+## 26.3.25 **Lab Meeting DM:**
+
+First clarify what we already know,
+2nd step is, 
+
+
+## 27.3.25
+Sensei suggested me to add some clarification about the multiagent framework.
+clarification about the contribution slide, 
+Remove some slides about that are coverd in the talk,
+another suggestion was update the model with newer one,
+
+
+In our research, we will assume that vehicle-to-vehicle (V2V) communication has been achieved through a standardized networking protocol, such as LAN-based direct communication or a low-latency wireless system. Under this assumption, each vehicle can communicate with other vehicles within a defined radius (e.g., 10 meters). When a vehicle enters another vehicle’s information-sharing radius, they exchange data regarding their current status, such as, Obstacle detection, road signs, and traffic conditions,Speed, direction, and future intended actions.
+To evaluate the impact of V2V communication on autonomous decision-making, we will investigate how Large Language Models (LLMs) process and utilize this information. Specifically, we will examine whether incorporating V2V-exchanged data improves decision accuracy and enables AVs to make more precise and context-aware choices.
+While V2V communication facilitates information sharing, it also introduces a critical question:
+Is a single centralized decision-making agent sufficient for processing all incoming V2V data and making autonomous driving decisions, or is a multi-agent system required for improved efficiency and scalability?
+
+This real-time data exchange enhances situational awareness and helps prevent accidents by enabling vehicles to make informed decisions based on shared environmental data.
+
+
+
+**We are here to learn through session.**
+
+Disscussion with Toufik san:
+Try confirming wheather we 
+weather the simulation is learning or not? 
+
+In japan it is important to ask repetedly untill you understand. it is bit difficult
+
+tittle - changing tittle 
+Clarification about multiagent. and senarios.
+
+
+## 28.3.25 **Midterm Presentation**
+Toufiq san
+Slide with 4 figures. Is this your results? Or previous research result, How to obtain these results?
+What is the software/Api name? What language? What package? What library? Are these famous libraries or packages. What is the goal of this research?
+
+**Question to me:**
+- How you will use the info of other car agent? why multi agent?
+  
+- What will be the Sharing data process? How many situations?  
+- Slide - 17, the status of vehicles and obstacles and how the situations are fed. For 
+  example the text based situation. 
+- The amount of the detalled situations? -In future work is not clear, possible future question. 
+**how to handle this data - see some paper mentioning about some related work**
+Level of detatil issue, asking about my assumption, phisiblity of Multi agent contribution. Assumption to justification.
+- How would you achieve the obstacle detection?
+- Make sure about the assumptions of your research. 
+
+Short discussion with sensei:
+Don't say har or yes when you dont undestandig the question. About the taufik san situations there was a question answer gap as sensei mentioned. 
 
 
 
 
 
+## 31.03.25
 
 
+## 07.04.25
+I will not directly mentioned about the number of the scenarios rather i will upload the images of the scenarios. 
+Then run the test .
+compare the expected result and the actual result.
+In conclusion part : 
 
+## 08.04.25
 
+prepare (how many? put the number here!) - i will haldle this another way.
+Done for now .
+( From the results, what we can see? Put your observations and what were consistent to your intuition and what were somewhat different from your expectation.)
 
+( Did you prepare the golden (correct) answer for these scenarios? If so, please clearly state it and also calculate how was the accuracy of the responses comparing to the golden answers?)
