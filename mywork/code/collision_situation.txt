@@ -2,28 +2,13 @@ H = Human Car,
 AV = Autonomous Vechiels, 
 S = Stop Sign
 
-AV         S         
-- - - - - - - - - - 
-H                   
---------------------
 Initial Position:
 AV         S         
 - - - - - - - - - - 
 H                   
 --------------------
 Position Right Before STOP:
-         AVS         
+        AV S         
 - - - - - - - - - - 
          H          
 --------------------
-Complete Stop Step: Marking Stop with 'X'.
-          X         
-- - - - - - - - - - 
-          H         
---------------------
-Final Position: Human car reached the end.
-          X         
-- - - - - - - - - - 
-                   H
---------------------
-Simulation ended.
