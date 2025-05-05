@@ -2676,7 +2676,7 @@ Level of detatil issue, asking about my assumption, phisiblity of Multi agent co
 - How would you achieve the obstacle detection?
 - Make sure about the assumptions of your research. 
 
-Short discussion with sensei:
+**Short discussion with sensei:**
 Don't say har or yes when you dont undestandig the question. About the taufik san situations there was a question answer gap as sensei mentioned. 
 
 
@@ -2685,8 +2685,55 @@ Don't say har or yes when you dont undestandig the question. About the taufik sa
 
 ## 31.03.25
 
+QA session log incomplete version but I hope it will be helpful.
+am 11:00
+Rafi
+Toward a Multi Agent Approach for LLM-based...
+**Araya sensei**
+Is agent a car? Agent means..what? Autonomous vehicle. How do you use other information from other car?
+communication we ca.., if your car your car they can share information, in fixed text format... what is the obstacle traffic density, to the decision agent.
+Decision agent make decision by using reasoning ability of LLM
+And that's why we choose LLM mimicking human reasoning (including common sense).
+For now actually, we created scenario 5 situations.
+If we can create dataset, pre-trained model, we don't reasoning. This kind of LLM for their ability actually.
+Kitani sensei
+k. slide17 You showed the status of each vehicle, how do you ばーばらいず the situation to the text?
+r. Some other AI do that.
+k. In my opinion it could be very important, amount of the detailed situation you showed obstacle pedestrians... ;
+Sometimes pedestrians sometimes doesn't looks go across the road how to handle such situation,
+r. some third-party (traditional obstacle detection) already achieved / there are some gaps, unknown unsafe uncertain we are actually trying use reasoning ability human-like decision make.
+k. I see. More detailed information gets more accurate result make sure assumption on your result.
+12:17
+(after kawabata's presentation, professors talks with...)
+Kitani sensei said "I had been in India until yesterday. Many drivers on the road hit a horn( :loudspeaker: ). So it seemed to be enough that focusing on front and other cars behind you will covers others. It was very different from Japan and interesting. (note: it may mean there are many information other than vision in India) I heard Honda's(Japanese car maker) engineer said that India's road situation is so efficient because little accidents happen there even everyone don't follow traffic rules.".
+Fukuta sensei said "When I went to China, every time I look at cross road, accidents happened. The situation are really different country to country.". (edited) 
+
+
+**Haruhiro Takahashi**
+Here is the feedback from our supervisor
+---
+Rafi
+("I" = "Fukuta sensei")
+Before getting into the details, I'd say one thing "don't forget to gather information".
+What was observed was that 2 questions by Araya sensei and Kitani sensei were somehow overlapping.
+Getting such kind of discussion is one of preferable situation
+because at least the keypoints of your presentation were captured by them. So nice!
+Araya sensei asked you "Why multi-agent?".
+This question gave you a chance to explain more about multi-agent approach and you clearly explained it.
+Rafi spent many time to explain about the approach with single-agent that's why Araya sensei asked that question.
+The assumption and what you really focus on in your research were very clearly explained in your answer. That's good.
+Araya sensei asked you "How many situations...?". It may be the question about the coverage.
+(Fukuta sensei said something important here, but I couldn't catch it.) ... Possible next research question.
+Kitani sensei asked you about clarification and the discussion got into the details.
+Q: "How do you convert information into LLM-readable form?".
+Kitani sensei asked that because the topic itself is being researched actively,
+so you can cite some related work also in this context.
+Next question was about your assumption and feasibility.
+The feasiblity will be asked too at the time of final presentation as well as clarification.
+
 
 ## 07.04.25
+
 I will not directly mentioned about the number of the scenarios rather i will upload the images of the scenarios. 
 Then run the test .
 compare the expected result and the actual result.
@@ -2699,3 +2746,157 @@ Done for now .
 ( From the results, what we can see? Put your observations and what were consistent to your intuition and what were somewhat different from your expectation.)
 
 ( Did you prepare the golden (correct) answer for these scenarios? If so, please clearly state it and also calculate how was the accuracy of the responses comparing to the golden answers?)
+
+## 09.04.25
+
+From the results, what we can see? Put your observations and what were consistent to your intuition and what were somewhat different from your expectation.
+- i tried to explain my understanding and observation of the result for the scenarios.
+Did you prepare the golden (correct) answer for these scenarios? If so, please clearly state it and also calculate how was the accuracy of the responses comparing to the golden answers?
+- Preparin the golden answer , this part i didnt understand, and the about the accuracy 
+
+## 10.04.25
+
+We tested the basic scenario in phi-2 and in every run it changes its response. and add some explanation.
+
+## 14.04.25
+
+I got some new comment from sensei like ,
+Why don't you also include some results (LLM outputs) on these communication agent secnarios? 
+
+Why don't you also include the consistency checking results on these difference generative AIs? 
+
+## 15.04.25
+
+## 16.04.25
+
+I have an job interview and i have to go fuji.
+
+## 17.04.25
+
+I have another job interview in KOITO
+
+## 18.04.25
+
+I got a job offer from JATCO.
+
+## 21.04.25
+
+About the research and sensei comment i am planning to add a new schenario that need the communication agent role. but how would be the promt update i dont know yet.
+
+## 22.04.25
+
+I have an final interview in KOITO and i have to go in shizuoka.
+
+## 23.04.25
+Last disscussion about my paper,
+
+I got some new comment from sensei like ,
+Why don't you also include some results (LLM outputs) on these communication agent secnarios? 
+
+Why don't you also include the consistency checking results on these difference generative AIs? 
+
+Current issue is how to write the promt.
+
+Next schedule,
+Tomorrow sensei is busy and next week sensei will send some schedule for M2 completeing the masters course.
+
+In next week,
+
+In next next week, after national holidays that will be used for tuesday class and we will skip that day.
+
+Disscussion with toufik san:
+
+About taking text directly from chatgpt is prohabite, and the most important thing is not fulfilling the result the process reach to the result what messure we take it is important.
+
+we need a single person to bank craupt like this illegal activities,
+then sensei asked toufik san why didn he faced the senseis question rather he just the removed the portion. about the part of genarative AI.
+
+
+## 24.04.25
+
+i am trying to update the communication agents incorporated schenario following senseis comment. I am thinking to add a new situtaion where this communication agents information will be used. and another comment from sensei was added some consistency result.
+
+
+## 25.04.25
+
+This is the situation ,
+
+AV2 = Autonomous Car- cant see the stop sign
+AV1 = Autonomous Truck, 
+S = Stop Sign
+
+AV1         S         
+- - - - - - - - - - - - - -
+                   
+--------------------------
+Initial Position:
+ AV2    AV1     S         
+- - - - - - - - - - - - - - 
+                  
+--------------------------
+Position Right Before STOP:
+     AV2      AV1 S         
+- - - - - - - - - - - - - - 
+                  
+--------------------------
+Simulation ended.
+What the AV2 on the above would do? Please just answer  STOP or FORWARD.
+
+for this i run this promt in gpt 4-turbo 20 times and result was not excepted like it resulted forward.
+then i added the communication agents information and then the situation looks like this,
+
+AV2 = Autonomous Car- cant see the stop sign
+AV1 = Autonomous Truck, 
+S = Stop Sign
+
+AV1         S         
+- - - - - - - - - - - - - -
+                   
+--------------------------
+Initial Position:
+ AV2    AV1     S         
+- - - - - - - - - - - - - - 
+                  
+--------------------------
+Position Right Before STOP:
+     AV2      AV1 S         
+- - - - - - - - - - - - - - 
+                  
+--------------------------
+
+Information from communication agent:
+AV2 Communication Agent: Sending Own Status ---
+Vehicle 2 Status Details:
+  Vehicle ID:  2
+  Obstacle Presence: True
+  Obstacle Proximity: 14 meters
+  Traffic Density: light
+  Intended Action: Forward
+
+AV2 Communication Agent: Receiving Status from AV1 ---
+Received Status Details:
+  Vehicle ID: 001
+  Obstacle Presence: True
+  Obstacle Proximity: 5 meters
+  Traffic Density: light
+  Intended Action: stop
+
+What the AV2 on the above would do? Please just answer  STOP or FORWARD.
+
+and this time it we also run the same promt 20 time and each time it resulted same ,"stop" then i calculated the consistancy and updated the paper.
+
+## 28.04.25
+
+I upload the updated version in the slack and waiting for senseis comment.
+
+## 29.04.25
+
+Sensei said i can upload this version after checking the typo error. and i cheacked and upadated the paper and upload it to the slack and waiting for senseis comment.
+
+## 30.04.25 **Lab Meeting DM:**
+
+My current issue is get final comment from sensei .
+and I havent open account for submitting my paper to the conferance , i need senseis guidance for this matter.
+
+Some announcement:
+16th may
