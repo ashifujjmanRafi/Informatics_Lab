@@ -2899,4 +2899,11 @@ My current issue is get final comment from sensei .
 and I havent open account for submitting my paper to the conferance , i need senseis guidance for this matter.
 
 Some announcement:
-16th may
+16th may:consent paper submission of graduation by sensei.
+Thesis tittle submission : 6/18, this should be allign with the content of the main thesis, This is also the reason for rejection of thesis, Mismatch tittle and the content.
+
+25 of july: thesis submission preliminary, 
+Research presentation possible date for the conference: mid of july/
+8 of August: Final presenatation.
+20 of August: Final presenatation for the graduation.
+26 of August: Final version thesis submission - be careful about the submission it would be end at the noon.
