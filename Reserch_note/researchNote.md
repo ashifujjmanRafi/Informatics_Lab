@@ -2939,4 +2939,18 @@ Creating a detailed timeline and checklist for all upcoming submissions and pres
 - Preparing necessary documentation for conference submission
 
 ## 07.05.25
+May 16: Submission of the Consent Paper for Graduation by your supervisor.
 
+June 18: Submission of Thesis Title.
+Important: The title must closely match the content of your main thesis. A mismatch between title and content is a common reason for rejection.
+
+Mid-July: Possible date for Research Presentation at the Conference.
+
+July 25: Preliminary Thesis Submission.
+
+August 8: Final Thesis Presentation.
+
+August 20: Graduation Final Presentation.
+
+August 26 (by noon): Final Thesis Submission.
+Important: Be mindful of the deadline—submissions after noon will not be accepted.
