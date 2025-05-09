@@ -1225,7 +1225,7 @@ For now i am confused ? i find more curiousity with this theme of obstacle detec
 Discussion with me :
 He is very confused.
 Sensei question - What kind of issues he has about his research title.
-Instead of saying - what should you do => change “should” to “can” i.e., what can i do
+Instead of saying - what should you do => change "should" to "can" i.e., what can i do
 He thought he would get some ideas from the papers => so, he started to read them.
 Before reading those papers, did you prepare some questions on reading those papers?
 Why are you willing to have the brief summary of the content of the paper - the summary is already there in the abstract. You can directly copy and paste the abstract if you just want a summary. It is very easy and accurate.
@@ -1344,16 +1344,16 @@ https://scholar.google.co.jp/scholar?as_ylo=2024&q=obstacle+detection+for+autono
 About Waymo, Before our Waymo Driver begins operating in a new area, we first map the territory with incredible detail, from lane markers to stop signs to curbs and crosswalks. Then, instead of relying solely on external data such as GPS which can lose signal strength, the Waymo Driver uses these highly detailed custom maps, matched with real-time sensor data, to determine its exact road location at all times.
 
 Lidar: 
-Lidar, or Light Detection and Ranging, paints a 3D picture of the vehicle’s surroundings. Lidar sensors are located all around the vehicle in order to send millions of laser pulses in all directions, then measure how long it takes for them to bounce back off objects. No matter the time of day, our lidar system gives the Waymo Driver a bird’s eye view of what’s around.
+Lidar, or Light Detection and Ranging, paints a 3D picture of the vehicle's surroundings. Lidar sensors are located all around the vehicle in order to send millions of laser pulses in all directions, then measure how long it takes for them to bounce back off objects. No matter the time of day, our lidar system gives the Waymo Driver a bird's eye view of what's around.
 
 Camera:
 Our cameras give the Waymo Driver a simultaneous 360° view around the vehicle. They are designed with high dynamic range and thermal stability, to see in both daylight and low-light conditions, and tackle more complex environments. They can spot traffic lights, construction zones, and other scene objects, even from hundreds of meters away. There are 29 cameras on our Jaguar I-PACEs.
 
 Radar: 
-Radar uses millimeter wave frequencies to provide the Waymo Driver with crucial details like an object’s distance and speed. Radar is effective in rain, fog, and snow.
+Radar uses millimeter wave frequencies to provide the Waymo Driver with crucial details like an object's distance and speed. Radar is effective in rain, fog, and snow.
 
 Brain: 
-As the “brain" of the Waymo Driver, our onboard computer combines the latest server-grade CPUs and GPUs. It takes information provided by dozens of sensors on the car, identifies the different objects (like other cars and pedestrians), and plans a safe route towards your destination – all in real time.
+As the "brain" of the Waymo Driver, our onboard computer combines the latest server-grade CPUs and GPUs. It takes information provided by dozens of sensors on the car, identifies the different objects (like other cars and pedestrians), and plans a safe route towards your destination – all in real time.
 
 
 First what i am planning to doning -> research background -> research motivation -> motivation senario? ->
@@ -1611,7 +1611,7 @@ About my research what i can do now actually this is my goes with my current sit
 
 ## 6.11.24 **Lab meeting**
 
-**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it’s best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master’s students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
+**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it's best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master's students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
 - About figure, you should use copy licensed figure.
 - Are these unknown situations really unknown to us?
   What happens on agents is really unknown.
@@ -1668,7 +1668,7 @@ About my research i have updated my paper and didnt get any comment from sensei.
 
 ## 13.11.24 **Lab meeting**
 
-**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it’s best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master’s students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
+**Last lab meeting summerization:** Some good advices for everyone actually, LaTeX is used because each conference requires a specific format, so it's best to start learning it early. It's helpful to start with the conclusion because it gives direction for the rest of the paper.Sensei advised first-year master's students to start writing their papers now. Start writing early to help you think more deeply about your research.There are some reasons. One of them is final reviewers might not be a expert of the field and that is why they want to see some evidence to prove your paper has been accepted by the community members of related field.
 - About figure, you should use copy licensed figure.
 - Are these unknown situations really unknown to us?
   What happens on agents is really unknown.
@@ -1680,7 +1680,7 @@ Next thinking about some prototype, We really dont know our research outcome rig
 The first step is to start writing code about the car crashing,
 How can we make some knowledge to the cars,
 
-Note from Hasan san, Firstly sensei listen rafi san’s present situation, sensei said sorry to him. Sensei told unknown situation   for car that is known to human . then sensei , told him to make prototype. He ask to sensei , what type of prototype he can make, then sensei told to follow mock up. First of all write some code that show some known and unknown  situation . then next step is  prototype to final simulation.In  Implementation  some situation with the code , though it hard but start to first some specific situation implementation,and it can be written in paper. And also listing up the worries topics that can be shown to sensei. If we stuck in some situation then we should  left  it for that time and reading some top conference papers. About it. Sensei emphasize to write research note.
+Note from Hasan san, Firstly sensei listen rafi san's present situation, sensei said sorry to him. Sensei told unknown situation   for car that is known to human . then sensei , told him to make prototype. He ask to sensei , what type of prototype he can make, then sensei told to follow mock up. First of all write some code that show some known and unknown  situation . then next step is  prototype to final simulation.In  Implementation  some situation with the code , though it hard but start to first some specific situation implementation,and it can be written in paper. And also listing up the worries topics that can be shown to sensei. If we stuck in some situation then we should  left  it for that time and reading some top conference papers. About it. Sensei emphasize to write research note.
 
 ## 14.11.24
 
@@ -1872,7 +1872,7 @@ Sensei asked us to visit Nagoya castle which is much bigger then Hamamatsu castl
 
 **Note from Fahmidul san** Today, Sensei discussed with Rafi-san that first Sensei tell him to briefly summarize the last discussion with him.Then Sensei again asked him what kind of issue he faces right now. He said he had a high-pressure problem.Sensei again asked, Please explain the details about so many. Rafi-san attended a job fair last week. Rafi-san is confused about everything. 
 Sensei told us this information is also important for other students. Now Sensei is going to start a research-related discussion. Sensei told us that in our minds, easy steps we didn't follow, we just skipped that we worked the hardest thing, but we should think of easy steps first. What is important in a master's course to face some difficult situations? Rafi san has one year of experience. We have to fight against our deep feelings. Sensei asked him did he do it. Practice speaking Japanese with AI. Now he shows us he discussed with ChatGPT in Japanese. We are always going to start in the simplest way. For Japanese learning, make some notes and try to speak it. 
-At the job-hunting program, we should prepare some basic Japanese sentences to speak with them.Practice speaking the same thing twice or more. Don't skip the easy thing. We are living in 2024, and 2025 is coming . We don't live in the 19th century; now we have computers and the internet. Don't start with the hardest way. Sensei told Rafi-san to ask ChatGPT for some traffic-related signs’ explanations. Sensei again told Rafi-san to ask ChatGPT to Please answer STOP or FORWARD. To get the right answer, ask the direct question.Once we find them, then we can utilize them easily.Once we found any unique things, we should share them with others.Other students don't have any knowledge about our research. Now, Sensei asks this question with some Japanese students in the Japanese language. Sensei speaks Japanese very fast. Sensei asked Takahashi-san is he noticed what Rafi-san did. Rafi-san didn't expect ChatGPT’s answer. Don't skip the necessary things. Even we receive simple answers. Now Sensei discussed with Mizutanikun-san in the Japanese language. 
+At the job-hunting program, we should prepare some basic Japanese sentences to speak with them.Practice speaking the same thing twice or more. Don't skip the easy thing. We are living in 2024, and 2025 is coming . We don't live in the 19th century; now we have computers and the internet. Don't start with the hardest way. Sensei told Rafi-san to ask ChatGPT for some traffic-related signs' explanations. Sensei again told Rafi-san to ask ChatGPT to Please answer STOP or FORWARD. To get the right answer, ask the direct question.Once we find them, then we can utilize them easily.Once we found any unique things, we should share them with others.Other students don't have any knowledge about our research. Now, Sensei asks this question with some Japanese students in the Japanese language. Sensei speaks Japanese very fast. Sensei asked Takahashi-san is he noticed what Rafi-san did. Rafi-san didn't expect ChatGPT's answer. Don't skip the necessary things. Even we receive simple answers. Now Sensei discussed with Mizutanikun-san in the Japanese language. 
 
 ## 12.12.24
 
@@ -2139,7 +2139,7 @@ Installed and configured RealVNC Viewer with help by Mizutani.
 Collapse
 
 **Note from Mishu:** Sensei discussed
-Fast off, Sensei informed us to write our research note in LATEX. Then Sensei discussed with Rafi san. Rafi san fast told sensei last time what kind of discussed with him. Then Sensei asked him what kinds of issues he faces right now. He told Sensei which kinds of issues he faces right now. Sensei gave some suggestions. Now, Rafi san is practicing with Mizutani san about AI in Japanese. Sensei informed us to be careful about using AI to hunt data. Sensei, for a long time, discussed with Rafi san and Mizutani san LLM RealVNC viewer. Rafi san asked Mizutani san how to connect LLM to his personal computer. Now Mezutani san connects LLM Rafi san’s computer. sensei told us that sharing some knowledge in the lab is very important.LLM problem solved now Rafi San is back in the discussion. Rafi San successfully used the RealVNC viewer. Sensei reminds us not to depend on our minds. The discussion finished with Rafi san.
+Fast off, Sensei informed us to write our research note in LATEX. Then Sensei discussed with Rafi san. Rafi san fast told sensei last time what kind of discussed with him. Then Sensei asked him what kinds of issues he faces right now. He told Sensei which kinds of issues he faces right now. Sensei gave some suggestions. Now, Rafi san is practicing with Mizutani san about AI in Japanese. Sensei informed us to be careful about using AI to hunt data. Sensei, for a long time, discussed with Rafi san and Mizutani san LLM RealVNC viewer. Rafi san asked Mizutani san how to connect LLM to his personal computer. Now Mezutani san connects LLM Rafi san's computer. sensei told us that sharing some knowledge in the lab is very important.LLM problem solved now Rafi San is back in the discussion. Rafi San successfully used the RealVNC viewer. Sensei reminds us not to depend on our minds. The discussion finished with Rafi san.
 Now Sensei sort of discussed with Mizutani san with Japanese.
 一言 入れると一応 論理的には問題ないと入れるように 修士論文を書こうとするとからとっても 読みづらいものになってしまうことはあって必要なことが書かれた部分を毎回探さないといけなくなるので なので 書いてある内容に多少の重複 などはあっても書いてある内容の細かさに違いがあるのであれば それはそれであの残しても大丈夫な場合が結構ありますよ はいなるんでしょうね
 One word: If you include it, it's logically fine, but when you try to write a master's thesis, it can become very difficult to read, and you have to look for the part that says what you need every time. So, even if there is some overlap in what is written, if there are differences in the details of what is written, there are many cases where it's okay to leave it in. Yes, I guess that's the case.
@@ -2169,7 +2169,7 @@ Rafi showed some AI services he is using, including Perplexity, Gemini, and Clau
 Sensei talked about data safety and protection when sharing with AI.
 Mizutani-san connected to a local LLM machine deployed in Sensei's room and ran Rafi's prompt. It provided the same result as Claude and Perplexity.
 Sensei emphasized the importance of sharing knowledge and encouraged us never to hesitate to ask questions if we don't know something. Mizutani-san is helping Rafi deploy VNC on his laptop so that he can access the machine in Sensei's room.
-Sensei stressed the importance of staying in the lab and meeting people in person, which is why we are here instead of in our home country or dormitory room, or attending online. It’s a great opportunity.
+Sensei stressed the importance of staying in the lab and meeting people in person, which is why we are here instead of in our home country or dormitory room, or attending online. It's a great opportunity.
 
 **Note from Fahmidul san:**
 
@@ -2620,7 +2620,7 @@ Falcon 7B/40B – Strong performance in reasoning tasks (8-bit, Cloud for 40B, L
 Justification for Selection Criteria
 
 - Hugging Face Models: Chosen based on high downloads and proven effectiveness in reasoning tasks. These models are widely used and have been tested extensively within the research community.
-- LM Studio Models: Selected for their strong performance and compatibility with local deployment. These models offer efficient reasoning capabilities and work well within LM Studio’s runtime.
+- LM Studio Models: Selected for their strong performance and compatibility with local deployment. These models offer efficient reasoning capabilities and work well within LM Studio's runtime.
 - Top Commercial Services: Included based on comparative performance with open-source models. These models have demonstrated high accuracy in previous benchmarks and evaluations.
 Additionally, due to compatibility issues, some models from Hugging Face were tested directly on the Hugging Face interface instead of running them locally through LM Studio.
 Then run the test,
@@ -2638,7 +2638,7 @@ Remove some slides about that are coverd in the talk,
 another suggestion was update the model with newer one,
 
 
-In our research, we will assume that vehicle-to-vehicle (V2V) communication has been achieved through a standardized networking protocol, such as LAN-based direct communication or a low-latency wireless system. Under this assumption, each vehicle can communicate with other vehicles within a defined radius (e.g., 10 meters). When a vehicle enters another vehicle’s information-sharing radius, they exchange data regarding their current status, such as, Obstacle detection, road signs, and traffic conditions,Speed, direction, and future intended actions.
+In our research, we will assume that vehicle-to-vehicle (V2V) communication has been achieved through a standardized networking protocol, such as LAN-based direct communication or a low-latency wireless system. Under this assumption, each vehicle can communicate with other vehicles within a defined radius (e.g., 10 meters). When a vehicle enters another vehicle's information-sharing radius, they exchange data regarding their current status, such as, Obstacle detection, road signs, and traffic conditions,Speed, direction, and future intended actions.
 To evaluate the impact of V2V communication on autonomous decision-making, we will investigate how Large Language Models (LLMs) process and utilize this information. Specifically, we will examine whether incorporating V2V-exchanged data improves decision accuracy and enables AVs to make more precise and context-aware choices.
 While V2V communication facilitates information sharing, it also introduces a critical question:
 Is a single centralized decision-making agent sufficient for processing all incoming V2V data and making autonomous driving decisions, or is a multi-agent system required for improved efficiency and scalability?
@@ -2907,3 +2907,36 @@ Research presentation possible date for the conference: mid of july/
 8 of August: Final presenatation.
 20 of August: Final presenatation for the graduation.
 26 of August: Final version thesis submission - be careful about the submission it would be end at the noon.
+
+## 01.05.25
+
+Working on opening an account for conference paper submission. Need to ensure all requirements are met and documentation is prepared properly.
+
+## 02.05.25
+
+Reviewing and finalizing the paper for the last round of feedback from sensei. Double-checking all references, figures, and ensuring consistency in terminology throughout the paper.
+
+## 03.05.25
+
+Preparing documentation for the upcoming deadlines:
+- June 16th: Consent paper submission for graduation
+- June 18th: Thesis title submission
+- July 25th: Preliminary thesis submission
+- August 8th: Final presentation
+- August 20th: Final presentation for graduation
+- August 26th (noon): Final version thesis submission
+
+## 04.05.25
+
+Working on aligning the thesis title with the content to ensure there's no mismatch, as this is crucial for thesis acceptance. Making sure the title accurately reflects the research focus on multi-agent communication and LLM-based autonomous vehicle decision-making.
+
+## 05.05.25
+
+Creating a detailed timeline and checklist for all upcoming submissions and presentations:
+- Organizing research materials
+- Planning presentation structure
+- Reviewing all experimental results and consistency checks
+- Preparing necessary documentation for conference submission
+
+## 07.05.25
+
