@@ -2944,8 +2944,8 @@ June 18: Submission of Thesis Title.
 Important: The title must closely match the content of your main thesis. A mismatch between title and content is a common reason for rejection.
 Mid-July: Possible date for Research Presentation at the Conference.
 July 25: Preliminary Thesis Submission.
-August 8: Final Thesis Presentation.
-August 20: Graduation Final Presentation.
+August 18: Final Thesis Presentation.
+August 20: 
 August 26 (by noon): Final Thesis Submission.
 Important: Be mindful of the deadline—submissions after noon will not be accepted.
 
@@ -2956,15 +2956,245 @@ Important: Be mindful of the deadline—submissions after noon will not be accep
 
 ## 09.05.25
 
+For now i am submitting the confirmation latter for the job. I have decided to join JATCO.
 
 ## 12.05.25
 
+I am not feeling well maybe i will take rest today and i am trying to improve japanese skill by watching anime. 
 
 ## 13.05.25
 
 
 
+
 ## 14.05.25 **Lab Meeting DM:**
 **Last disscussion with me**, my current issue was get final comment from sensei .
-and I havent open account for submitting my paper to the conferance , i need senseis guidance for this matter. I have successfully submitted the papaer
+and I havent open account for submitting my paper to the conferance , i need senseis guidance for this matter. 
+I have successfully submitted the papaer
+
+Issue, June 18, Submission of Thesis Title.
+Important: The title must closely match the content of your main thesis. A mismatch between title and content is a common reason for rejection.
+
+Notification of acceptance/rejection: May 10 19, 2025 (PST)
+before the next meeting we will have the acceptance result of paper.
+
+Cameraready due: May 30, 2025 - the paper is ready to be prited and added to the book
+Its about final version of the paper. In our submission we have deleted the authors name and in camera ready we have to added this to  the cameraready  paper. And in case we have to do some adjust in the lenght of the paper. After the getting the acceptance result we will have to do the rest.
+
+Early Registration due: May 30, 2025
+IIAI AAI 2025 Congress dates: July 13-19, 2025
+
+
+The tittle was for the midterm presentation and as well as for the conference, "Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition"
+
+Extra analysis on multi agent approch, 
+About the word LLM, that is ok. 
+Dynamic Vehicle control, - the opposite side is static control sytem means the car will have some way static way of responding, like some learning apporch stored in the car, the car having some preprogrammed routine in the response of the situation. the response is the static.
+For dynamic respond something better in the preprogrammed situation, that is actually included in our work.
+When we use the LLMs for the every moment decision the car should have this dynamic character.  
+In Accidental Condition : For this When we dont have the internet connection is it can use dynamic decision using the LLms . For this We have think of the local LLms, - 
+
+In local LLms we have to check the the performance in this kind of situation and also the use of commnication agent. expand the result on Local LLms.
+
+Communication: the meaning of this word in unclear, - the statically response of the communication agent.
+Ask LLM about some effective communication 
+"What kind of additional cautions the car should send the following cars, (in the radius)?" 
+In some exceptional case can car send some emergency message to say stop? 
+
+- this are the things i have to do to keep the tittle.
+
+- Also extend the use of Local LLMs,
+
+the context window size. the longer context size , the more memory.
+the short promt case, the size of LLm 30B size 20GB in quantized size,
+
+## 15.05.25
+**Note from takahashi san:**
+I only took a note of very limited content so sorry.
+am 11:51
+what is things??
+digital proceedings
+camera photo based printing -> be ready for camera copy
+registration? early registration
+> Authors have to make a registration by the early registration due in order to include your paper(s) into the proceedings.
+currently sensei is planning to do that... I after receiving acceptance notification administration staffs to pay the fee or do behalf of yourself.
+26 July
+---
+pm 15:20
+about title. The actual research activity was limited to single agent approach. ← did not match to the title.
+Actually what you are doing in your work is not the perfect fit to the title.
+Add multiple agent approach. Actually what you are doing
+You are also doing dynamic communication ? No ← title is confusing.
+You can ask LLMs to find (do?) some effective communication by some ways.
+Additonal causions that is following cars that the car is seeing in front of the car.
+pm 16:05
+- giving the code of Llmui.java
+
+## 16.05.25
+**Research note from Touhid san:** **Today's lab meeting started at 2:25 pm.**
+Sensei told about his throat condition which is gettin better and better.
+Last last week discussion we had paper submission deadline for confernece. The deadline was japan time which was very little margin.
+Last week wednesday was tuesday's routine. 
+In the conference 5 papers in total were submitted from our LAB. We will start Today's discussion by seeing the submitted papers for the conference.
+In the end of August we will have our plan presentation. And final presentation for the final year master student. Next next time we will have long long discussion. 
+A notification of the conference submission will be on 19 this month. What is camera ready? Cameraready is the final version of the paper which will be published on the conference. 
+The photo based printing the hard copy of the paper to the actual printing so historically it is called cameraready the finally included paper for conference proceeding. 
+when you receicve the accepentance notification the author name should be included and the paper need to modified according to comment on the length of the paper and 
+the acceptance category like full paper, 
+short paper and poster presentation. If the paper is not accepted then we will think about other confernece. We must attend a conference to complete other master's degree.  
+if not accepted we need to quickly prepare the version of the paper to submit in another conference.  Another thing is what is registration to the conference? 
+In most case credit card can be used to pay the registration fee. Sensei will negotiation with the adminstritive staffs. 
+After receiving the notification sensei will give more detailed instructions and 
+M2 students will have to do some more works and prepare for the presentation and prepare for the theis and the registration starts 18 June.
+you have prepare your thesis in parallel. 
+Becareful about the deadlines for the 2nd year master's student and about physical condition.
+Rafi san discussion with Sensei
+Multi agent system means more than one agent and Rafi san's approach was single agent approach which contradicts with the title of the paper which is a limitation. 
+It does not match with the thesis title. So he should do some extra analysis regarding multi agent approach. 
+about the dynamic part of the title, Dynanic Vehicle control, - the opposite side is static control sytem means the car will have some way static way of responding, 
+like some learning approach stored in the car, 
+the car having some preprogrammed routine in the response of the situation. the response is static. 
+for dynamic response is something better in the preprogrammed situation that is actually included in our work.
+When we use the LIMs for the every moment decision the car should have this dynamic character.
+In Accidental Condition: For this When we dont have the internet connection is it can use dynamic decision using the Llas.
+For this We have think of the local LLms, In local les we have to check the the performance in this kind of situation and also the use of comenication agent, 
+expand the result on Local LLms.
+Communication: the meaning of this word in unclear, the statically response of the communication agent.
+Ask LLM about some effective communication
+"What kind of additional cautions the car should send the following cars, (in the radius)?"
+In some exceptional case can car send some emergency message to say stop?
+ 
+
+
+
+
+
+## 19.05.25
+
+## 20.05.25
+
+I got the result of the conference, our paper got accepted.
+
+And i got some comment from the reviewer: 
+
+TITLE: Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition
+
+
+----------------------- REVIEW 1 ---------------------
+SUBMISSION: 9881
+TITLE: Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition
+AUTHORS: Md Ashifujjman Rafi and Naoki Fukuta
+
+----------- Originality and Novelty -----------
+SCORE: 3 (fair)
+----------- Significance -----------
+SCORE: 3 (fair)
+----------- Reliability -----------
+SCORE: 2 (poor)
+----------- Readability and Writing style -----------
+SCORE: 2 (poor)
+----------- Presentation -----------
+SCORE: 3 (fair)
+----------- Overall evaluation -----------
+SCORE: 1 (weak accept)
+----- TEXT:
+This paper presents an innovative preliminary framework integrating Large Language Models (LLMs) into a multi-agent system for autonomous vehicles, particularly in unknown or unsafe traffic conditions. 
+The authors introduce a novel "Communication Agent" to facilitate vehicle-to-vehicle (V2V) information exchange, 
+thereby enhancing the context-awareness of the "Decision Agent." 
+The experimental setup using quantized LLMs and structured prompts is clearly described, 
+with initial findings showing promising improvements in consistency and reasoning when using V2V data. 
+The paper’s strengths lie in its practical scenario modeling, systematic LLM evaluation, and thoughtful identification of consistency challenges. 
+However, the work is still in an early stage, and lacks deeper quantitative analysis or deployment in realistic environments. 
+The proposed scenarios are simplified and would benefit from expansion to cover more complex or edge-case conditions. Nonetheless, the research
+ 
+ 
+opens a valuable direction for adaptive and explainable AV control using LLMs. I recommend acceptance due to its novelty and potential impact on safety and decision-making in AV systems.
+----------- Paper Research Domain -----------
+SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
+----------- Reviewer's confidence -----------
+SCORE: 3 ((medium))
+
+
+----------------------- REVIEW 2 ---------------------
+SUBMISSION: 9881
+TITLE: Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition
+AUTHORS: Md Ashifujjman Rafi and Naoki Fukuta
+
+----------- Originality and Novelty -----------
+SCORE: 3 (fair)
+----------- Significance -----------
+SCORE: 3 (fair)
+----------- Reliability -----------
+SCORE: 2 (poor)
+----------- Readability and Writing style -----------
+SCORE: 3 (fair)
+----------- Presentation -----------
+SCORE: 3 (fair)
+----------- Overall evaluation -----------
+SCORE: -1 (weak reject)
+----- TEXT:
+This paper explores the potential integration of Large Language Models (LLMs) within a multi-agent framework for autonomous vehicles (AVs) 
+to enhance decision-making in unknown and unsafe traffic situations. 
+The proposal of using LLMs as decision agents in combination with vehicle-to-vehicle (V2V) 
+communication is novel and potentially valuable for improving autonomous driving systems.
+
+Weak points:
+1. While the study evaluates multiple LLMs, it uses a relatively small set of traffic scenarios,
+which can hardly present the complex and real-world traffic situations.
+2. The study highlights issues with consistency in the LLMs' responses to identical traffic scenarios, 
+which is a critical concern for safety and reliability. 
+However, it does not adequately address how to mitigate the risks of LLM mistakes in the decision-making process. 
+In autonomous vehicles, inconsistent or incorrect outputs from LLMs could lead to serious accidents,
+but the paper does not propose effective fail-safe mechanisms, redundancy strategies, 
+or real-time error detection to ensure safety in such cases. 
+This is a critical issue that needs to be explored further to guarantee the reliability and safety of the AV system.
+3. While the paper investigates the effect of V2V communication on decision-making, 
+the results and analysis could be further elaborated. 
+How does the communication data impact decision accuracy compared to scenarios without communication, 
+and what are the potential risks or drawbacks?
+4. The proposed multi-agent system relies on V2V communication, which might face challenges in scalability and real-time processing, 
+especially in dense traffic environments. 
+The paper doesn’t explore potential limitations related to network congestion or latency in real-world implementations.
+----------- Paper Research Domain -----------
+SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
+----------- Reviewer's confidence -----------
+SCORE: 4 ((high))
+
+
+
+----------------------- REVIEW 3 ---------------------
+SUBMISSION: 9881
+TITLE: Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition
+AUTHORS: Md Ashifujjman Rafi and Naoki Fukuta
+
+----------- Originality and Novelty -----------
+SCORE: 4 (good)
+----------- Significance -----------
+SCORE: 3 (fair)
+----------- Reliability -----------
+SCORE: 4 (good)
+----------- Readability and Writing style -----------
+SCORE: 4 (good)
+----------- Presentation -----------
+SCORE: 4 (good)
+----------- Overall evaluation -----------
+SCORE: 2 (accept)
+----- TEXT:
+This study investigates how large language models (LLMs) function as decision-making agents that respond to scenario-specific text prompts derived from actual traffic situations. This study is an interesting research utilizing LLMs and is considered to be useful once completed.
+
+At present, there are dependencies on the scenario, so mentioning safety considerations in cases where the scenario cannot be anticipated and designing the agent's behavior would improve the study. Additionally, it is hoped that this research could provide guidelines for the design of V2V protocols。
+----------- Paper Research Domain -----------
+SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
+----------- Reviewer's confidence -----------
+SCORE: 3 ((medium))
+
+
+## 21.05.25 **Lab Meeting DM:**
+
+In last meeting i shared a issue that i was confused that wheather my work and tittle is allign or not.
+because sensei warn us to be carefully chosse the tittle if it doesnt match the work there is a chance it couldnt be accepted.
+- Need to expand results on Local LLMs performance
+  - for this i can use API(https://ollama.com/) 
+Sensei suggeseted way to 
+
 
