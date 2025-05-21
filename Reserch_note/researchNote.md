@@ -3098,14 +3098,7 @@ SCORE: 3 (fair)
 ----------- Overall evaluation -----------
 SCORE: 1 (weak accept)
 ----- TEXT:
-This paper presents an innovative preliminary framework integrating Large Language Models (LLMs) into a multi-agent system for autonomous vehicles, particularly in unknown or unsafe traffic conditions. 
-The authors introduce a novel "Communication Agent" to facilitate vehicle-to-vehicle (V2V) information exchange, 
-thereby enhancing the context-awareness of the "Decision Agent." 
-The experimental setup using quantized LLMs and structured prompts is clearly described, 
-with initial findings showing promising improvements in consistency and reasoning when using V2V data. 
-The paper’s strengths lie in its practical scenario modeling, systematic LLM evaluation, and thoughtful identification of consistency challenges. 
-However, the work is still in an early stage, and lacks deeper quantitative analysis or deployment in realistic environments. 
-The proposed scenarios are simplified and would benefit from expansion to cover more complex or edge-case conditions. Nonetheless, the research
+This paper presents an innovative preliminary framework integrating Large Language Models (LLMs) into a multi-agent system for autonomous vehicles, particularly in unknown or unsafe traffic conditions. The authors introduce a novel "Communication Agent" to facilitate vehicle-to-vehicle (V2V) information exchange, thereby enhancing the context-awareness of the "Decision Agent." The experimental setup using quantized LLMs and structured prompts is clearly described, with initial findings showing promising improvements in consistency and reasoning when using V2V data. The paper’s strengths lie in its practical scenario modeling, systematic LLM evaluation, and thoughtful identification of consistency challenges. However, the work is still in an early stage, and lacks deeper quantitative analysis or deployment in realistic environments. The proposed scenarios are simplified and would benefit from expansion to cover more complex or edge-case conditions. Nonetheless, the research
  
  
 opens a valuable direction for adaptive and explainable AV control using LLMs. I recommend acceptance due to its novelty and potential impact on safety and decision-making in AV systems.
@@ -3113,6 +3106,7 @@ opens a valuable direction for adaptive and explainable AV control using LLMs. I
 SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
 ----------- Reviewer's confidence -----------
 SCORE: 3 ((medium))
+
 
 
 ----------------------- REVIEW 2 ---------------------
@@ -3133,28 +3127,13 @@ SCORE: 3 (fair)
 ----------- Overall evaluation -----------
 SCORE: -1 (weak reject)
 ----- TEXT:
-This paper explores the potential integration of Large Language Models (LLMs) within a multi-agent framework for autonomous vehicles (AVs) 
-to enhance decision-making in unknown and unsafe traffic situations. 
-The proposal of using LLMs as decision agents in combination with vehicle-to-vehicle (V2V) 
-communication is novel and potentially valuable for improving autonomous driving systems.
+This paper explores the potential integration of Large Language Models (LLMs) within a multi-agent framework for autonomous vehicles (AVs) to enhance decision-making in unknown and unsafe traffic situations. The proposal of using LLMs as decision agents in combination with vehicle-to-vehicle (V2V) communication is novel and potentially valuable for improving autonomous driving systems.
 
 Weak points:
-1. While the study evaluates multiple LLMs, it uses a relatively small set of traffic scenarios,
-which can hardly present the complex and real-world traffic situations.
-2. The study highlights issues with consistency in the LLMs' responses to identical traffic scenarios, 
-which is a critical concern for safety and reliability. 
-However, it does not adequately address how to mitigate the risks of LLM mistakes in the decision-making process. 
-In autonomous vehicles, inconsistent or incorrect outputs from LLMs could lead to serious accidents,
-but the paper does not propose effective fail-safe mechanisms, redundancy strategies, 
-or real-time error detection to ensure safety in such cases. 
-This is a critical issue that needs to be explored further to guarantee the reliability and safety of the AV system.
-3. While the paper investigates the effect of V2V communication on decision-making, 
-the results and analysis could be further elaborated. 
-How does the communication data impact decision accuracy compared to scenarios without communication, 
-and what are the potential risks or drawbacks?
-4. The proposed multi-agent system relies on V2V communication, which might face challenges in scalability and real-time processing, 
-especially in dense traffic environments. 
-The paper doesn’t explore potential limitations related to network congestion or latency in real-world implementations.
+1. While the study evaluates multiple LLMs, it uses a relatively small set of traffic scenarios, which can hardly present the complex and real-world traffic situations.
+2. The study highlights issues with consistency in the LLMs' responses to identical traffic scenarios, which is a critical concern for safety and reliability. However, it does not adequately address how to mitigate the risks of LLM mistakes in the decision-making process. In autonomous vehicles, inconsistent or incorrect outputs from LLMs could lead to serious accidents, but the paper does not propose effective fail-safe mechanisms, redundancy strategies, or real-time error detection to ensure safety in such cases. This is a critical issue that needs to be explored further to guarantee the reliability and safety of the AV system.
+3. While the paper investigates the effect of V2V communication on decision-making, the results and analysis could be further elaborated. How does the communication data impact decision accuracy compared to scenarios without communication, and what are the potential risks or drawbacks?
+4. The proposed multi-agent system relies on V2V communication, which might face challenges in scalability and real-time processing, especially in dense traffic environments. The paper doesn’t explore potential limitations related to network congestion or latency in real-world implementations.
 ----------- Paper Research Domain -----------
 SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
 ----------- Reviewer's confidence -----------
@@ -3197,4 +3176,6 @@ because sensei warn us to be carefully chosse the tittle if it doesnt match the 
   - for this i can use API(https://ollama.com/) 
 Sensei suggeseted way to 
 
+Sensei shared this link to check how the paper is presented in the conference,
+https://aamas2025.org/index.php/conference/program/accepted-papers/
 
