@@ -3008,6 +3008,7 @@ In some exceptional case can car send some emergency message to say stop?
 the context window size. the longer context size , the more memory.
 the short promt case, the size of LLm 30B size 20GB in quantized size,
 
+
 ## 15.05.25
 **Note from takahashi san:**
 I only took a note of very limited content so sorry.
@@ -3174,9 +3175,42 @@ In last meeting i shared a issue that i was confused that wheather my work and t
 because sensei warn us to be carefully chosse the tittle if it doesnt match the work there is a chance it couldnt be accepted.
 - Need to expand results on Local LLMs performance
   - for this i can use API(https://ollama.com/) 
+
 Sensei suggeseted way to 
 
 Sensei shared this link to check how the paper is presented in the conference,
 https://aamas2025.org/index.php/conference/program/accepted-papers/
 
-This is a tutorial link for checking the related work , checking about this link see some materials from them will be helpfull for the conference.
+This is a tutorial link for checking the related work , 
+checking about this link see some materials from them will be helpfull for the conference.
+
+I have to check the pdf by sensei,
+
+
+For the cameraready version preparation,
+Please do not forget to add the author information on the paper in the cameraready version. 
+Then keep the page limit it is the first 
+- template
+What can be included, 
+we can not change drastically change in our paper, we would keep the contenet as it is, for page policy we would cut some text.
+We have to check some errror, some worg figure number, wrong spelling , wrong 
+The upadate the body of the paper please check the minor error,
+
+First add authors name 
+check minor errors
+shrink the pages
+some reply for the reviewer,
+
+- paper validation system (PDF eXpress) by the help of sensei.
+
+**Note from Touhid san:**
+Sensei briefed about the last lab meeting and said one out of five papers were accepted in the iiai conference. Some are full, short and poster paper depending on the situation. Later we will discuss about the notification. To complete the degree we must have to attend a conference out of our campus before our completing our degree and we M1 student should also not hesitate to submit paper in the conference this year. Sensei ask us to follow some conferences in advance:
+https://aamas2025.org/index.php/conference/program/accepted-papers/ (October - May)
+https://aamas2025.org/index.php/conference/program/tutorials/#T1
+https://www.cs.cmu.edu/~conitzer/FOCALtutorial.html
+https://aamas2025.org/index.php/conference/registration/
+https://2025.ijcai.org/ (January - August)
+https://2025.eswc-conferences.org/ (December - March)
+
+Sensei discussion with Rafi san
+sensei discussed about the comments made by the reviewers of the conference. senseis comments don't forget to add author's name and strictly follow the template provuided by the conference. we cannot drastically change the paper from the submitted version if no reviewers strictly recommend to do so so we will keep the contents as it is. the reviewers have not mentioned any mistake or errors in the notification but we will check for different errors like grammatical, spelling and minor errors. Sometimes we write wrong author and institution name so we must be careful about these things. Becareful about the deadline and using overleaf.
