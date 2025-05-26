@@ -3169,7 +3169,7 @@ SCORE: 2 (Technical Papers in ICT Scope (theory, development and application))
 SCORE: 3 ((medium))
 
 
-## 21.05.25 **Lab Meeting DM:**
+## 21.05.25 **Lab Meeting DM: paper submission suggestion:cameraready**
 
 In last meeting i shared a issue that i was confused that wheather my work and tittle is allign or not.
 because sensei warn us to be carefully chosse the tittle if it doesnt match the work there is a chance it couldnt be accepted.
@@ -3204,6 +3204,7 @@ some reply for the reviewer,
 - paper validation system (PDF eXpress) by the help of sensei.
 
 **Note from Touhid san:**
+
 Sensei briefed about the last lab meeting and said one out of five papers were accepted in the iiai conference. Some are full, short and poster paper depending on the situation. Later we will discuss about the notification. To complete the degree we must have to attend a conference out of our campus before our completing our degree and we M1 student should also not hesitate to submit paper in the conference this year. Sensei ask us to follow some conferences in advance:
 https://aamas2025.org/index.php/conference/program/accepted-papers/ (October - May)
 https://aamas2025.org/index.php/conference/program/tutorials/#T1
@@ -3214,3 +3215,46 @@ https://2025.eswc-conferences.org/ (December - March)
 
 Sensei discussion with Rafi san
 sensei discussed about the comments made by the reviewers of the conference. senseis comments don't forget to add author's name and strictly follow the template provuided by the conference. we cannot drastically change the paper from the submitted version if no reviewers strictly recommend to do so so we will keep the contents as it is. the reviewers have not mentioned any mistake or errors in the notification but we will check for different errors like grammatical, spelling and minor errors. Sometimes we write wrong author and institution name so we must be careful about these things. Becareful about the deadline and using overleaf.
+
+**Note from Takahashi san:**
+Rafiさんのnotification メールを見ていく
+彼はfull paperで通った．
+Please read carefully the instruction for authors to complete final paper(cameraready paper) submission and registration.
+案内を注意深く読んで最終版の提出と登録を行ってください
+与えられたテンプレートにしたがって書式を直す必要
+pdf の validation ソフトを使うのが難しいのでsupervisorの指示を仰ぐ必要があり，
+そのための(時間的な)マージンを取っておく必要がある．
+Camera-readyの
+From Hamamatsu to Kokura: Hamamatsu to Nagoya (or Osaka) and Nagoya to Kokura by Nozomi
+It's OK, but traditionally is the city that is very well known for yakuza (Japanese mafia).
+Very cheep hotel may be close to the teritory of yakuza.
+---
+pm 15:19
+Let's look review comments quickly (but not quickest)
+1人目
+weak accept
+(Here I failed to catch up actual content. I remember sensei read "However..." part first and said something good when reading the part of "open...")
+2人目
+weak reject
+Weak point:という項目を設けていた
+この項目を後で読むことが最終発表の準備にも役立つ
+3人目
+accept
+significance以外全部4と高評価
+Possible extension is included around the sentence that starting from "Additionally".
+weak accept / weak reject / accept -> accept as full-paper
+Willing to go on instruction for preparing your camera-ready paper
+pm 15:26
+準備としてなにをするか
+- Please do not forget to add the author information with keeping paper limit
+- If you used the template from some other older students, it may be outdated. So make sure you are using the latest version of the template.
+- Unless reviewers say change or reflect the comments strongly, you should update as-is for the camera-ready paper.
+- These reviewers didn't mention errors that appear in the paper in your case, but check again.
+- After preparing adding author information, start checking small errors.
+  - author information? ordering? affiliation?
+- Try to answer to the comments from reviewers (but its priority is lower than above).
+As the deadline is approaching, be careful about the environment of compiling the paper.
+(we experienced service down of overleaf in recent days)
+Preparing very tentative version of the paper is also important.
+
+
