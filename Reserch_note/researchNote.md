@@ -3216,6 +3216,8 @@ https://2025.eswc-conferences.org/ (December - March)
 Sensei discussion with Rafi san
 sensei discussed about the comments made by the reviewers of the conference. senseis comments don't forget to add author's name and strictly follow the template provuided by the conference. we cannot drastically change the paper from the submitted version if no reviewers strictly recommend to do so so we will keep the contents as it is. the reviewers have not mentioned any mistake or errors in the notification but we will check for different errors like grammatical, spelling and minor errors. Sometimes we write wrong author and institution name so we must be careful about these things. Becareful about the deadline and using overleaf.
 
+## 22.05.25
+
 **Note from Takahashi san:**
 Rafiさんのnotification メールを見ていく
 彼はfull paperで通った．
@@ -3246,6 +3248,8 @@ weak accept / weak reject / accept -> accept as full-paper
 Willing to go on instruction for preparing your camera-ready paper
 pm 15:26
 準備としてなにをするか
+
+## 23.05.25
 - Please do not forget to add the author information with keeping paper limit
 - If you used the template from some other older students, it may be outdated. So make sure you are using the latest version of the template.
 - Unless reviewers say change or reflect the comments strongly, you should update as-is for the camera-ready paper.
@@ -3258,3 +3262,52 @@ As the deadline is approaching, be careful about the environment of compiling th
 Preparing very tentative version of the paper is also important.
 
 
+## 26.05.25
+
+Please Sign-up to the conference registration site(ConfAid, the link to the site is also at the top of https://iaiai.org/conference/aai2025/registration/), then send me the login id with pw for it to me!
+- I have successfully open the the account and i will share the id and password with sensei soon,
+[ Username ] UE340190
+[ Password ] lrG4UpZH
+
+## 27.05.25
+
+I have tried to reduce the length of the paper size that was 7 pages after adding the author information. 
+\begin{figure}[h]
+     \centering
+     \includegraphics[width=\linewidth]{Fig/withcommunicationagent.png}
+     \caption{LLM Model response with Communication agent's information (GPT4-Turbo)}
+     \label{fig:enter-label}
+\end{figure} 
+to this 
+\begin{figure}[h]
+     \centering
+     \includegraphics[width=.9\linewidth]{Fig/withcommunicationagent.png}
+     \caption{LLM Model response with Communication agent's information (GPT4-Turbo)}
+     \label{fig:enter-label}
+\end{figure}
+I tried to reduce the figure size, 1 to .9 and it perfectly fit for 6 pages. And i am going to upload the updated version to the slack channel.
+
+## 28.05.25 **Lab Meeting DM**
+
+Last lab meeting summerize,
+In last lab meeting we have got out paper acceptance result and reviewers comment. And we have briefly disscussed about the comments and sensei give me some instruction what i should do for the next step,
+- Please do not forget to add the author information with keeping paper limit
+- If you used the template from some other older students, it may be outdated. So make sure you are using the latest version of the template. -> for this i checked myself and i asked Takahashi san also and 
+he also confirmed that my paper is used the latest template.
+- These reviewers didn't mention errors that appear in the paper in your case, but check again.
+- After preparing adding author information, start checking small errors.
+  - author information? ordering? affiliation?
+- Try to answer to the comments from reviewers but this is less priority.
+
+
+Some upcoming Schedule:
+
+Coming friday is final date for upcoming conference,
+to coming next friday, And next next 3 weeks friday from 12.45 to the lab will be used for giving some information about our lab to the 
+japanese student and do some Q/A session.
+At these time the lab will be busy for this, and if we are welcome to join.
+The next coming deadline for the coming the thesis tittle submission - two weeks before the actual deadline , we will have necassary disscussion on next meeting. most possibly.
+
+Our preparation for the conference will also help us to be prepare for the thesis defence
+
+Sensei suggested the M1 students to prepare two page abstract paper in IEEE format.
