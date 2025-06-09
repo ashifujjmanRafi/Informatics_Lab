@@ -3311,3 +3311,157 @@ The next coming deadline for the coming the thesis tittle submission - two weeks
 Our preparation for the conference will also help us to be prepare for the thesis defence
 
 Sensei suggested the M1 students to prepare two page abstract paper in IEEE format.
+
+
+Disscussion with toufik san,
+- Can we use the same title which has been used at the paper which was submitted to another conference (to the registration of some new (domestic/international) conference?
+- Should we have some updates about the content of the research from the previously submitted papers (since these updates will also be reflected to the title of the newly made presentations at the domestic conference/symposium) 
+- for the first questions answer yes he can use the same tittle because he's paper has not been accepted for the previous conference.
+For the second question for the toufik sans matter there will be no reviewer for this conference and the organizer will be the checker. and the content and the tittle should be have some similarity. 
+
+
+## 30.05.25
+67470X
+Given Name*
+Md Ashifujjman
+Surname*
+Rafi
+Affiliation*
+Shizuoka University
+Email*
+rafi.md.ashifujjman.23@shizuoka.ac.jp
+
+Paper ID
+9881
+Submitter Full Name *
+Rafi Md Ashifujjman
+Submitter E-mail *
+rafi.md.ashifujjman.23@shizuoka.ac.jp
+Paper Title *
+Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition
+
+## 31.05.25
+
+I have updated my paper and uploaded the paper and mistakenly i have uploaded my paper twice and i asked sesnei for help and sensei suggeseted me to update with the same pdf for the both submission.
+
+## 2.06.25
+
+the the thesis tittle submission deadline for the tittle.
+
+## 3.06.25
+
+Last dissscussion summerization:
+In our last disscussion we have thoroughly checked my papaer wheater it is in order or not we also chceked these two points,
+(Please do not forget to add the author information with keeping paper limit, If you used the template from some other older students, it may be outdated. So make sure you are using the latest version of the template.)
+And in later moment in friday we succesfully checked and upload our cameraready paper for conference.
+
+## 4.06.25 **Lab Meeting DM**
+
+Current issuses,
+- About he presenataion slides
+- Thesis tittle
+
+Today is the Thesis tittle submission, we gonna check our tittle to ready for the thesis.
+And for M1 last of this month,
+In next month kanamori kun and toufik san will submit their paper for the symposium.  and sensei suggested to have some disscussion with kanamori san for the details paper format the symposium.
+For the domestic symposium sensei set some event date for the local organization. and sensei is the 
+organizer committe.
+
+Disscussion about thesis tittle:
+"Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Condition"
+- Chossing this one is safe.(we can extend the thesis work, )
+- about the extension , run the same promt 20 times is ok but 100 times may be better or 1000 times is more clear result.
+- think about the setting up some new experiment and also increase the number of try.
+- 100 pages for thesis writing.
+-> Toward a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication to avoid Accidental Condition
+- for this i have to clearly mentioned about what kind of condition we can avoid
+these are not complete evaluation, mention this in the tittle
+And about the experiment ->
+
+Thesis presentation, may be the same slide can be used , the same version used for the conference.
+- i can add the recent result.
+
+## 5.06.25
+ 
+Note from takahashi san:
+pm 14:36
+rf
+Today's is the deadline for the lab for registering the thesis title for 2nd grande master.
+domestic symposium you have to submit your paper. The instituion therefore IEEE conference style.
+From our laboratory to the exactly same domestic symposium, when you successfully submit their manuscript to.
+He already know I already told 
+your title for your plan presentation.
+
+Some discussion for 2nd grade master students.
+Preparing manuscript.
+What kind of plan presentation all over you research plan only the applicant writing of has been accepted.
+
+About the at the time of we are living now, therefore we may create a new conference.
+Publishing the paper countinously is very important, next 100 years, I hope those factor is important.
+Don't try conference paper randomly, probably 20 years or so, even from these 2 3rd tear conference.
+On your situation, it is so difficult to especially in this field.
+We carefully read very small number of journal paper, especially in our field, journal paper review is so long sometimes it reaches 1 or 2 years.
+Because of these reasons, the main research of those journal papers has done in 3 or 4 years ago maybe. So be careful about it especially in our field(depending on laboratory's research topics).
+
+pm 14:56
+seeing email
+presentation time will be 25 minutes for full paper.
+Even in top conferences they do not assign such a long time for presentations.
+Still now, the actual schedule for presentations is uncertain(which date is your presentation date is not mentioned yet).
+So let's see last year's schedule as a reference.
+
+The last presentation: 15min, QA: 7min
+Actual presentation was 13min and I used 20 pages of slides.
+So this time, I will prepare 30 pages of slides.
+
+pm 15:12
+It is somewhat risky, including new content which its result is not yet confirmed into the thesis title.
+For now, we have made the simulation event for the LLMs we actually run two types of events to the LLMs,
+informal information and successfuly achived the result.
+And the other was we have this kind of result.
+Which kind of you can utilize
+We do not know.
+Figure which canbe utilized? let's see.
+We result may not be changed I hope.
+Some screenshots maybe OK.
+
+So only having 2 is enough?
+But these part extended part in your research, into your thesis content.
+When we also trying including that part into the thesis title is risky in terms of its consistency or so.
+...Because full evaluation is not yet done. We have initial result.
+Experimentation?
+
+f. How to logically get the way of getting thesis title is important.
+
+So just utilizing the same title for the conference paper is one safe option.
+
+umm... start from this existing title:
+"Towards a Multi Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Conditoin"
+
+Possible short discussion is including "accidental condition" or not.
+Experimentation does not cover the all of cases to be covered.
+(...missing)
+Let's compare to different version.
+(missing)
+pm 15:26
+Some specific output or result yourself.
+Knowing these general knowledge is important.
+
+extending the content is important but more important thing is having the evaluation to get more the stability or confidence.
+
+At least just 3 times of trial is not enough. www.
+
+You can increase the number for the simulation you have already done.
+...Truly expected the action, then so the case we have we have 3 lanes, and 3 cars and some similar conditions.
+But in your case, since you do not mention "avoid" in your title, so you are lucky and having the such a result is OK even it is differ from the expected one.
+Having(Organizing) strucual multiple tasks is very important.
+
+## 5.06.25 - 7.06.25
+
+I took a vacation, between these days i have joined EID ul Adha and did my prayer and have some party with the M1 students. I felt really relexed after a very long time i took this vacation and in few days the like would be heptic again.
+
+## 9.06.25
+ 
+About the thesis, there is a certain format to be followed in our lab, i tried to run the files from suma sans format but in first apporch i showed some error and it didnt complete because of the long run time. 
+Then i tried to delete the pdf and some images from the project and sucessfully run the code.
+Now i am trying to update my contents in the format.
