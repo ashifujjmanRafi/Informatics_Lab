@@ -3465,3 +3465,13 @@ I took a vacation, between these days i have joined EID ul Adha and did my praye
 About the thesis, there is a certain format to be followed in our lab, i tried to run the files from suma sans format but in first apporch i showed some error and it didnt complete because of the long run time. 
 Then i tried to delete the pdf and some images from the project and sucessfully run the code.
 Now i am trying to update my contents in the format.
+
+## 10.06.25
+
+I got the final dates for upcoming events:
+
+June 18th (Wednesday) Deadline for submitting master's thesis titles
+July 25th (Friday) Deadline for submitting master's thesis manuscripts for review (to each review committee member)
+August 8th (Friday) Final exam (presentation) (*Summer break 8/14-8/19)
+August 22nd (Friday) Deadline for submitting final draft of master's thesis (noon)
+September 9th (Tuesday) Graduation ceremony
