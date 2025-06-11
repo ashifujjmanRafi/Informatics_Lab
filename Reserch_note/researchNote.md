@@ -110,7 +110,7 @@ Sunday there was no class , i woke up at 10 and try to learn some nihongo. And a
 
 ## 23.12.4
 
-I have some work in eki , i wake up early and went to eki. Then i have a class or Data engineering but the class was cancelled at the last moment, i was in the class and wait sometime , then i have another class at 2.25, and make a group and choose a topic and in next class we do have a presentation.
+I have some work in eki , i wake up early and went to eki. Then i have a class or Data engineering but the class was cancelled at the last moment, i was in the class and wait sometime , then i have another class at 2.25, and make a group and choose a topic and in next class we do have a .
 
 
 ## 23.12.5
@@ -3475,3 +3475,16 @@ July 25th (Friday) Deadline for submitting master's thesis manuscripts for revie
 August 8th (Friday) Final exam (presentation) (*Summer break 8/14-8/19)
 August 22nd (Friday) Deadline for submitting final draft of master's thesis (noon)
 September 9th (Tuesday) Graduation ceremony
+
+For now i am trying to update the presentation slides ,
+
+
+## 11.06.25
+
+There is updated deadline tittle submission for M1 in 7/9.
+this week the deadline of the symposim.
+And next week we have the deadline for the thesis tittle.
+
+local latex learning
+
+
