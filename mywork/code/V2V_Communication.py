@@ -78,16 +78,24 @@ class Vehicle2CommunicationAgent:
         # Tracking received statuses
         self.received_statuses = {}
         self.nearby_vehicles = []
+        
+        # Open output file for writing
+        self.output_file = open("v2v_communication_output.txt", "w")
+
+    def write_to_file(self, message):
+        # print(message)
+        self.output_file.write(message + "\n")
+        self.output_file.flush()
 
     def send_own_status(self):
         """
         Generate and send Vehicle 2's own status with specific details
         """
-        print("\n--- Vehicle 2 Communication Agent: Sending Own Status ---")
+        self.write_to_file("\n--- Vehicle 2 Communication Agent: Sending Own Status ---")
         
         # Scan for nearby vehicles
         self.nearby_vehicles = self.v2v_system.get_nearby_vehicles(self.vehicle_id)
-        print(f"Nearby Vehicles: {self.nearby_vehicles}")
+        self.write_to_file(f"Nearby Vehicles: {self.nearby_vehicles}")
         
         # Create status with specific requirements
         vehicle_2_status = VehicleStatus(
@@ -118,13 +126,13 @@ class Vehicle2CommunicationAgent:
         # Store status in V2V system
         self.v2v_system.vehicles[self.vehicle_id]['status'] = asdict(vehicle_2_status)
         
-        print("Vehicle 2 Status Details:")
-        print(f" Vehicle ID: {vehicle_2_status.vehicle_id}")
-        print(f" Obstacle Presence: {vehicle_2_status.obstacle_presence}")
-        print(f" Obstacle Type: {vehicle_2_status.obstacle_type}")
-        print(f" Obstacle Proximity: {vehicle_2_status.obstacle_proximity} meters")
-        print(f" Traffic Density: {vehicle_2_status.traffic_density}")
-        print(f" Intended Action: {vehicle_2_status.intended_action}")
+        self.write_to_file("Vehicle 2 Status Details:")
+        self.write_to_file(f" Vehicle ID: {vehicle_2_status.vehicle_id}")
+        self.write_to_file(f" Obstacle Presence: {vehicle_2_status.obstacle_presence}")
+        self.write_to_file(f" Obstacle Type: {vehicle_2_status.obstacle_type}")
+        self.write_to_file(f" Obstacle Proximity: {vehicle_2_status.obstacle_proximity} meters")
+        self.write_to_file(f" Traffic Density: {vehicle_2_status.traffic_density}")
+        self.write_to_file(f" Intended Action: {vehicle_2_status.intended_action}")
         
         return vehicle_2_status
 
@@ -132,21 +140,27 @@ class Vehicle2CommunicationAgent:
         """
         Receive status from another vehicle
         """
-        print(f"\n--- Vehicle 2 Communication Agent: Receiving Status from Vehicle {sender_vehicle_id} ---")
+        self.write_to_file(f"\n--- Vehicle 2 Communication Agent: Receiving Status from Vehicle {sender_vehicle_id} ---")
         
         # Simulate receiving status from the sender vehicle
         sender_status = self.v2v_system.vehicles[sender_vehicle_id]['status']
         
-        print("Received Status Details:")
-        print(f" Vehicle ID: {sender_status['vehicle_id']}")
-        print(f" Obstacle Presence: {sender_status['obstacle_presence']}")
-        print(f" Obstacle Type: {sender_status.get('obstacle_type', 'N/A')}")
-        print(f" Obstacle Proximity: {sender_status['obstacle_proximity']} meters")
-        print(f" Traffic Density: {sender_status['traffic_density']}")
-        print(f" Intended Action: {sender_status['intended_action']}")
+        self.write_to_file("Received Status Details:")
+        self.write_to_file(f" Vehicle ID: {sender_status['vehicle_id']}")
+        self.write_to_file(f" Obstacle Presence: {sender_status['obstacle_presence']}")
+        self.write_to_file(f" Obstacle Type: {sender_status.get('obstacle_type', 'N/A')}")
+        self.write_to_file(f" Obstacle Proximity: {sender_status['obstacle_proximity']} meters")
+        self.write_to_file(f" Traffic Density: {sender_status['traffic_density']}")
+        self.write_to_file(f" Intended Action: {sender_status['intended_action']}")
         
         # Store received status
         self.received_statuses[sender_vehicle_id] = sender_status
+
+    def close_file(self):
+        """
+        Close the output file
+        """
+        self.output_file.close()
 
 def simulate_v2v_communication():
     """
@@ -200,6 +214,12 @@ def simulate_v2v_communication():
     # Vehicle 2 receives statuses from Vehicle 1 and Vehicle 3
     vehicle_2_comm.receive_vehicle_status("001")
     vehicle_2_comm.receive_vehicle_status("003")
+    
+    # Write simulation completion message
+    vehicle_2_comm.write_to_file("\n-V2V Communication Simulation Completed-")
+    
+    # Close the output file
+    vehicle_2_comm.close_file()
 
 # Run the simulation
 if __name__ == "__main__":

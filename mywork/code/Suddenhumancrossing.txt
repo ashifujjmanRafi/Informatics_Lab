@@ -1,0 +1,15 @@
+H = Human,
+AV = Autonomous Vehicles,
+
+AV              
+- - - - - - - -
+---------------
+Initial Position:
+AV              
+- - - - - - - -
+---------------
+Position Right Before H:
+      AV H      
+- - - - - - - -
+---------------
+Simulation ended.

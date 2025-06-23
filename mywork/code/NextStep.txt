@@ -1,0 +1,23 @@
+H = Human,
+AV1,AV2,AV3 = Autonomous Vehicles,
+
+AV1           H       
+- - - - - - - - - - 
+AV2                   
+--------------------
+Initial Position:
+AV1           H       
+- - - - - - - - - - 
+AV2                   
+--------------------
+Position Right Before Human:
+          AV1 H       
+- - - - - - - - - - 
+          AV2         
+--------------------
+Final Position:
+AV3          AV1H       
+- - - - - - - - - - 
+           AV2        
+--------------------
+Simulation ended.

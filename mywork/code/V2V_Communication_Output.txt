@@ -1,0 +1,30 @@
+
+--- Vehicle 2 Communication Agent: Sending Own Status ---
+Nearby Vehicles: ['001', '003']
+Vehicle 2 Status Details:
+ Vehicle ID: 002
+ Obstacle Presence: True
+ Obstacle Type: stop_sign
+ Obstacle Proximity: 13.123529423503923 meters
+ Traffic Density: heavy
+ Intended Action: stop
+
+--- Vehicle 2 Communication Agent: Receiving Status from Vehicle 001 ---
+Received Status Details:
+ Vehicle ID: 001
+ Obstacle Presence: False
+ Obstacle Type: pedestrian
+ Obstacle Proximity: 11.076301826869942 meters
+ Traffic Density: moderate
+ Intended Action: turn_left
+
+--- Vehicle 2 Communication Agent: Receiving Status from Vehicle 003 ---
+Received Status Details:
+ Vehicle ID: 003
+ Obstacle Presence: True
+ Obstacle Type: pedestrian
+ Obstacle Proximity: 8.430152378140267 meters
+ Traffic Density: heavy
+ Intended Action: stop
+
+-V2V Communication Simulation Completed-

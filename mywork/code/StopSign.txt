@@ -1,0 +1,16 @@
+AV = Autonomous Vehicles,
+S = Stop Sign of a partial road,
+Other lane is open.
+
+AV      S       
+- - - - - - - -
+---------------
+Initial Position:
+AV      S       
+- - - - - - - -
+---------------
+Position Right Before STOP sign:
+      AVS       
+- - - - - - - -
+---------------
+Simulation ended.

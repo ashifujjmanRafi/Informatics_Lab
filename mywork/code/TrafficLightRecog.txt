@@ -1,0 +1,24 @@
+AV = Autonomous Vehicle,
+H = Human,
+TL:green = Traffic Light (Green)
+
+AV           TL:green       
+- - - - - - - - - - 
+H                   
+--------------------
+Initial Position:
+AV           TL:green       
+- - - - - - - - - - 
+H                   
+--------------------
+Position Right Before TL:
+          AV TL:green       
+- - - - - - - - - - 
+          H         
+--------------------
+Final Position:
+          AV TL:green       
+- - - - - - - - - - 
+           H        
+--------------------
+Simulation ended.
