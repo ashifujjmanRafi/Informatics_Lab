@@ -1,0 +1,20 @@
+AV2 = Autonomous Car,
+AV1 = Autonomous Truck,
+S = Stop Sign
+
+AV2       AV1 S         
+- - - - - - - - - - 
+--------------------
+Initial Position:
+AV2       AV1 S         
+- - - - - - - - - - 
+--------------------
+Position Right Before STOP:
+ AV2       AV1S         
+- - - - - - - - - - 
+--------------------
+Final Position:
+  AV2       X         
+- - - - - - - - - - 
+--------------------
+Simulation ended.

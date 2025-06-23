@@ -1,14 +1,19 @@
-H = Human Car,
-AV = Autonomous Vechiels, 
-S = Stop Sign
+H = Human,
+AV1,AV2,AV3 = Autonomous Vechiels,
 
 Initial Position:
-AV         S         
+AV1                  
 - - - - - - - - - - 
-H                   
+                
 --------------------
-Position Right Before STOP:
-        AV S         
+Position Right Before Human:
+    AV1    H      
 - - - - - - - - - - 
-         H          
+ AV2                 
+
+Final Position:
+  AV3  AV1 H         
+- - - - - - - - - - 
+    AV2
 --------------------
+Simulation ended.
