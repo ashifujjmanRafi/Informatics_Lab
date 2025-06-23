@@ -3479,12 +3479,212 @@ September 9th (Tuesday) Graduation ceremony
 For now i am trying to update the presentation slides ,
 
 
-## 11.06.25
+## 11.06.25 **Lab Meeting DM**
 
-There is updated deadline tittle submission for M1 in 7/9.
+**There is updated deadline tittle submission for M1 in 7/9.**
 this week the deadline of the symposim.
 And next week we have the deadline for the thesis tittle.
 
 local latex learning
 
+
+texshop for intregated latex
+
+Research note from takahashi san: 
+## 2025-06-11
+今日の天気は曇り．
+
+14:35
+サイバーセキュリティクラウドの柴田さんという人から電話が来た．突然だったのでびっくりした．
+
+---
+
+about SMASH25
+about the how long they will stay there:
+end of first session?
+1 day before starting. 2 nights in sapporo hokkaido
+After submitting initial version, you have to start booking hotel and flight.
+You have to do these things with knmr.
+In that case, if we could not book good hotel, we have to stay at airport without any blanket, right? So this is very important.
+
+important: you must enter the room for presentation before the time of beginning of the session **NOT the time of your presentation**.
+
+which link is the link to submit your manuscript? Let's find it from the registration email.
+
+Therefore what you have tried are different far from there from actual things actually should be done.
+Don't forget and hesitate to ask again and again.
+This confirmation is very important when you join to some Japanese companies.
+If you don't ask and confirm, other members of the company just think you have already understood.
+→ So be careful about it.
+
+15:40
+tfk is recalling what he will do after submitting very tentative paper to the site.
+f. Try explain by your words! and for other students, if you are in his situation, how do you give me the answer?
+
+??? f. answer: Cooperation with knmr to book hotel and flight immidiately. ← this is what I asked you to do.
+
+Flight plan review using Google Maps and Ekitan search.
+
+16:17
+knmr started to search for flight tickets using the site, エアトリ.
+
+プレミアムエコノミーはとると事務処理めんどくさい．空きが全然無くて仕方ない場合は例外．
+行きと帰りで経路は揃えよ．ダメ→ 行きは羽田，帰りはセントレア．
+マージンが必要 = 理想はフライトの2時間前に空港に到着すること．
+エアトリのような串刺しサイトで検索すると実際の航空会社のサイトで予約する場合と価格が異なる場合がある．
+したがっておおよその目安をつけたら航空会社のサイトで直接検索するのがよい．
+慣れていない場合はエアラインとしてANAやJALを利用するべし．なぜならトラブったときの振替をしてくれる可能性が他社より高いため．
+
+### ぜみもどき(英語)
+14:40
+終了は17:00頃を予定
+
+15:00
+tfk
+first, let's confirm the conference schedule
+SMASHのサイト，リンク壊れていた．直したとはいえ，日本語で書かれたそのサイトから情報を得させるのはABP修士の人には難しいよな．
+
+16:30
+issue just for choosing different 2 versions for models, right?
+Another question is do we have to follow some format on thesis writing? f. yes; check DVD disks by elder students.
+Also in case overleaf is down in the day of the deadline, you cannot compile your thesis.
+So to secure your chance, having local environment for latex compilation is very good.
+
+Try having discussion about what prevent you from making slides (some tasks of adding some additional results?) rather than having some small changes on the versions.
+f. Try practicing.
+first, copy your previous presentation file and rename it as those of the conference (and for thesis final defence presentation).
+second, add a slide at very latter part of that file.
+Do not add some additional text to middle part but into the latter part.
+Very small tricks and small steps are very important.
+"Oh I am making a slide page but it is not for presentation, easy easy///"
+third, copy and paste figures into slides even they are 
+Copy from latex source because copying from PDF often cause some problems.
+Do not worry too much about remaining latex commands in the slide and figures is not contained in the slide. (We can adjust them later. Having the initial version is very important)
+Entire content is contained in the slide. This is so important to correctly select which slide to show in the presentation.
+
+Therefore for first grade master student, about this part, you will face to this exact same issue in next year.
+Try capturing information which you missed.
+
+You can do by help of my pressure to you.
+Pressure sometimes helps you to do some tasks like adding texts to your 2 pages abstract.
+Through these practices, you should be experienced.
+→ When you are asked by a young student, you can answer to them these exactly same thing.
+
+
+## 13.06.25
+
+I am updating my presentation from, also i am trying to reflect he the reviewers comment on the presentation .
+
+## 16.06.25
+
+About thesis writing may be i need to shift to offline and i got some suggestion from takahashi san to try texshop for intregated latex. I am working on that
+
+## 17.06.25
+
+
+At least just 3 times of trial is not enough. www.
+
+You can increase the number for the simulation you have already done.
+...Truly expected the action, then so the case we have we have 3 lanes, and 3 cars and some similar conditions.
+But in your case, since you do not mention "avoid" in your title, so you are lucky and having the such a result is OK even it is differ from the expected one.
+Having(Organizing) strucual multiple tasks is very important.
+
+
+
+## 18.06.25 **Lab Meeting DM**
+
+Last meeting summerization,
+
+We have tried to update my presentation from scratch.
+
+Current isssues,
+-  confused about the Challanges and future work slide
+-  need sensei's comment in other part.
+
+Some upcoming Schedule:
+This weekend, in our campus we will have electricity shutdown.
+Today is thesis tittle submission deadline for M2 and sensei have already succesfully done that.
+And last week friday was the deadline of submitting the symposim for toufis san, and mention about
+air ticket, and other reciept.
+
+For M2 submitting the thesis is scheduled 7/25.this would be the instructed by the reviewers and they may asked about the printed version of thesis.
+
+**Sensei suggestion , please complete thesis writing before 7/9**
+
+Do at least what you can do before july.
+Final submission deadline for thesis 8/22 - maybe on noon be careful about that matter.
+
+abot the presenataion, how we could make some presenataion slide.
+Detailed disscussion aobut the plan presenataion tittle with M1
+
+Disscussion with toufik san,
+- Writing thesis what would be goal or the right way is not known to me.
+
+When the mind is sticking to what should i do please try  to convert this to what can i do.
+Think about what can we do about this.
+
+Updating the reseach quality  is not enough single importance, 
+we have to be concern about our easy writhing way that could be understad by the 
+reviewer.
+- Writing qualification is also important.
+- In case you have paper that has been accepted to some second grade international conferance it is safe like easy to make understad this work is Significent 
+- For toufik sans case he has to prove this point in his thesis.
+When you are worrying about research 
+- try update your research quality 
+- try to make easy understaning easy readablity in your thesis and your talk
+Just lintening others talk is also important becuse how easy we can explaing our research is important
+
+Curent issue is updating slides is updating the slides
+
+Disscussion with me:
+
+In near future work, what kind of extension we will have can be mentioned.
+By doing some validation we will confirim we will decide what is ok or not?
+We would like to know with slides are worng to share in some international conferance,
+
+To tell them we need to mention what kind of current work we are following and what extention we are having,
+we have mention this thing clearly
+
+The background issue why this slides gonna present to this position. 
+clarify some standard we followed in our research.
+
+What can we do for that, some current result on this topic by some others.
+when i am trying to prepare some presentation think
+who would be the audience, some of them would not be the same field and some would be some expert.
+mention about some related work would be nice,
+can utilize TED,
+Presentation skill without content,- presenting veery smart
+- why we are doing this , what would be the benifits
+- why is this slide , what is it explaining
+- Joining other presenataion is important to undersatand how easily we can explain our own research 
+using this experience.
+
+About presentation preparation,
+havig disscussion with some seniors about what kind of issue they faced during their conferance
+Have eyes on the weather forecast.
+knowing about some areas before visiting is good/important
+
+Some other operation some ai is being asked some validation of the code asked by the user,
+Do something 
+the computation time in a dense AV,
+
+There some other issue, there are deadline and some of experiment are not done yet , what can we do for that.
+this is a  issure to be disscussed in this moment,
+
+Making some dense situaiton of the car, maybe easy , and calculating the expected time,
+
+How can we set up some accidental scenario could be current issue,
+the one wrongly seeing the signal and the following cars also follw the car,
+
+
+About the human and AV scenario add one more car and first car see the human and send emergency message to other car to stop.
+Checking about accident car data to having emergency road coverage lenght.
+To clarify about my try would help to answering  some question from the final thesis presentation.
+- what king of step i took 
+- did i asked others for their idea.
+
+Calclutating the time what can we do in this short preiod.
+
+To all,
+Clarification of the self work is very important, what is done before and what kind of improvement we are proposing is important. 
 
