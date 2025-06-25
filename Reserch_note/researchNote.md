@@ -3632,7 +3632,7 @@ reviewer.
 When you are worrying about research 
 - try update your research quality 
 - try to make easy understaning easy readablity in your thesis and your talk
-Just lintening others talk is also important becuse how easy we can explaing our research is important
+Just listening others talk is also important becuse how easy we can explaing our research is important
 
 Curent issue is updating slides is updating the slides
 
@@ -3687,4 +3687,213 @@ Calclutating the time what can we do in this short preiod.
 
 To all,
 Clarification of the self work is very important, what is done before and what kind of improvement we are proposing is important. 
+
+
+
+
+## 20.06.25
+Note from takahasi san,
+16:24
+We gonna switch another discussion with Rafi
+
+What kind of discussion about research is my question, sensei said. Reminding is important here.
+r. At last last meeting, we discussed about the thesis title.
+That is also related to the
+What kind of result we can have there.
+Some reality simulation setup somewhat very easy to understand.
+What we discussed about some more complicated difficult situation
+What kind of issues you are having now?
+r. I have completed the preliminary version of the slides.
+r. In my presentation, what kind of future work should(can) I mention?
+f. you have some answer about them?
+r. This was 1 or 2 lines explanation is it OK?
+You already know why don't you write it down as some "near" future work?
+
+Another question about
+One reminder is when you ask is this OK we'd like to know by inference and logical validation.
+
+What kind of existing research we are trying to explain these kind of these things.
+If we have reason to why, we don't have any criteria to show things is OK or not.
+
+Your issues the form
+I am this slide how the audience know I can give.
+On the conference, interdiciplinary conference. We are integrating different topics into one.
+Therefore clarifying some base standard to those outside researchers is important.
+
+(... what sensei said here was hard to interpret to me...)
+
+16:46
+(missed some sentences and restarted at 17:05)
+17:05
+r. And also communication will dense of vehicle there, so many information would be shared. That moment, finding right information is also matter.
+Then, issue on doing such simulation?
+I caught this is very important said if the LLM made decision, no current system have fail-safe macanism.
+Extended senario of v2v communication, we haven't with wrong decision.
+We can put from your side, maybe observed
+much more safe than just single prompt-answer, in another field of code writing some systems are trying to ask the AI to validate to update if the result is matches to user's request or not.
+You can first and then also in other field, trying to how can we do can be mentioned on there.
+Are there so back to the when the number of in specific place time on the computation to get the result, what kind of limitation is when we will be the submission is alredy decided.
+Doing some experiment time is limited, then we cannot these complete the experimantation.
+We gonna prepare some new machine ask AWS to rent more powerful machine.
+Why doing this is not easy is as all of you already so here when we are feeling great pressure, to start thinking about actually important issues (like discussed now).
+And now, we did some of this I hope. So now you are starting thinking about them.
+Just making some dense situation of car may be easy.
+→ Then, what we would ...
+wrong 
+It utilize commercial services.
+Increasing the accidental situation, ...
+
+---
+
+17:16
+
+(About extending the situation)
+
+As a starting point we can start from current situation.
+
+2 cars with light
+
+So for example, they can see signal other cannot see signal. ← current senario.
+One see wrongly follows the front car. another signal...
+
+Prepare some accidental condition, right?
+Someone for help some other similar different situation.
+Also some level of generality.
+Thinking different situation coverage give noticed will increase coverage.
+
+next question will be coverage is enoguh or not.
+
+17:23
+We have some in every country checking these data may be help to see the coverage.
+Immidiately receiving, thinking about I don't have enough time to do everything.
+Having discussion with someone is very helpful.
+I can work with you.
+Time consuming task
+When you already to clarify the difficulties, that most skip doing at the time of thesis presentaion, what would happen?
+
+Our planning ability to do everything go safe is somewhat opposite optimazation.
+Optimized for very easy situation.
+Such natural intuitive optimization does not work well in our difficult situation like research.
+
+You can do many things to update your thesis.
+If you want utilize more computational resources, you can ask me to help you.
+Actually, some Japanese students already asked me to bring additional GPU to the lab.
+
+---
+
+For 1st grade master cource students.
+
+What is important here(starting point of research) respecting what is already done there as well as what issue we are having now.
+Therefore, citation is very important. Check if your manuscript includes some references to the existing research.
+Some paper contain references part, no actual citation on the body was found though.
+One great hint is "don't try reading those cited papers".
+
+If in case, imagine your plan presentations are held in close time slot, proffessor listen one and he will listen the next talk too.
+Then in some cases, he would ask sensei "Is this presentation same with previous one?".
+So saying difference and significance you are going on to do is also important.
+
+around 17:35 finish
+Collapse
+
+
+
+## 24.06.25
+
+I have updated a new scenario that include three AV and one human crossing the road and What would the following AV do,
+
+
+H = Human,
+AV1,AV2,AV3 = Autonomous Vehicles,
+
+AV1           H       
+- - - - - - - - - - 
+AV2                   
+--------------------
+Initial Position:
+AV1           H       
+- - - - - - - - - - 
+AV2                   
+--------------------
+Position Right Before Human:
+   AV3    AV1 H       
+- - - - - - - - - - 
+          AV2         
+--------------------
+Final Position:
+AV3    AV1 H       
+- - - - - - - - - - 
+           AV2        
+--------------------
+Simulation ended.
+
+
+
+
+
+
+
+## 25.06.25  **Lab Meeting DM**
+
+last meeting summerization:
+To tell them we need to mention what kind of current work we are following and what extention we are having, we have mention this thing clearly
+
+**Practical Preparation Tips,**
+Presentation skill without content,- presenting veery smart
+- why we are doing this , what would be the benifits
+- Without explaining why, it’s difficult to evaluate if something is “OK” or not.
+- why is this slide , what is it explaining
+- Joining other presenataion is important to undersatand how easily we can explain our own research 
+using this experience.
+
+*Do something the computation time in a dense AV*
+What kind of future work can be included in the presentation?
+Are 1–2 line explanations enough?
+- Sensei implied they are too short and suggested writing "near-future work" more clearly with reasons and logical links.
+
+Current issue,
+- Another suggestion from you was, Do something the computation time in a dense AV, 
+In a dense if multiple AV shares their information that would be huge and summerizing the information is an another issue, what can we do for that. can we mention it as  issue and future work.
+- what can we do for handle incorrect LLM outputs
+- About thesis writing, i have seen seniors thesis and it is bit confusing, if you can give us some suggestion what can we add and what are prohabitate 
+
+**Future Sceudle for me for the conference,**
+
+July 17 (Thu) 1:00PM-2:40PM Room A   
+SCAI 7 Session Chair: TBA 
+
+
+Sharing information for more than 15 cars, it would show the complication, And i can do for the interim work....
+
+Ther should be some clarification, what kind of dense the LLM can take the right decision, And can see the capacity of the different LLM ,
+
+
+What can we do in the backup plan ,
+for LLM would the other option to minimize the damage 
+Next step what can the car do or some other sorrounding car can do.
+
+Can we avoid this accidental situation , changing some shared informaton.
+Some vision system is being used and not result found , and someone is working on this.
+
+
+Learning capabilities for this LLM like what it has failed to do in previous action, what is mission in the past case.
+
+The promt, what happen in short doing in the the thesis.
+
+
+About thesis writing,
+- Try see PHd thesis, not masters thesis. Try putting goal on higher.
+- See some pHd thesis form some good university.
+- These thesis are reviewed paper or journal. compare these paper and the thesis and you can found...
+
+- Thinking some difficult situaiton is important to learn something throughout the process.
+Why conferance paper why thesis why masters why phd 
+
+Fight against this feeling and taking some of result is Important
+
+About the slide,
+think about consistancy, 
+- About the extended scenario only Chatgpt-4, we can add some result form other LLM also.
+- check, if we say anything it is problem wheather we have mention about it in the conclusion.
+- 
+
 
