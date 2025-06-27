@@ -1,0 +1,86 @@
+
+--- AV2 Communication Agent: EMERGENCY - Human Crossing Detected ---
+Broadcasting to Nearby Vehicles: ['AV1', 'AV3', 'AV4', 'AV5', 'AV6', 'AV7']
+AV2 Status Details:
+ Vehicle ID: AV2
+ EMERGENCY STATUS: True
+ Human Detected: True
+ Obstacle Type: human_pedestrian
+ Human Proximity: 8.5 meters
+ Current Speed: 25.0 km/h
+ Intended Action: emergency_brake
+ Lane Position: same_lane
+
+--- AV2 Communication Agent: Receiving Status from AV1 ---
+Received Status Details:
+ Vehicle ID: AV1
+ Emergency Status: True
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 23.0 meters
+ Current Speed: 0.0 km/h
+ Intended Action: emergency_brake
+ Lane Position: same_lane
+
+--- AV2 Communication Agent: Receiving Status from AV3 ---
+Received Status Details:
+ Vehicle ID: AV3
+ Emergency Status: False
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 12.0 meters
+ Current Speed: 15.0 km/h
+ Intended Action: slow_down
+ Lane Position: adjacent_left
+
+--- AV2 Communication Agent: Receiving Status from AV4 ---
+Received Status Details:
+ Vehicle ID: AV4
+ Emergency Status: False
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 18.7 meters
+ Current Speed: 20.0 km/h
+ Intended Action: slow_down
+ Lane Position: opposite_lane
+
+--- AV2 Communication Agent: Receiving Status from AV5 ---
+Received Status Details:
+ Vehicle ID: AV5
+ Emergency Status: False
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 16.5 meters
+ Current Speed: 12.0 km/h
+ Intended Action: slow_down
+ Lane Position: adjacent_left
+
+--- AV2 Communication Agent: Receiving Status from AV6 ---
+Received Status Details:
+ Vehicle ID: AV6
+ Emergency Status: False
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 21.2 meters
+ Current Speed: 10.0 km/h
+ Intended Action: slow_down
+ Lane Position: adjacent_left
+
+--- AV2 Communication Agent: Receiving Status from AV7 ---
+Received Status Details:
+ Vehicle ID: AV7
+ Emergency Status: False
+ Human Detected: True
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 25.8 meters
+ Current Speed: 8.0 km/h
+ Intended Action: slow_down
+ Lane Position: adjacent_left
+
+--- Human Crossing Emergency V2V Communication Completed ---

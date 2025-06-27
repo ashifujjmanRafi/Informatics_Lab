@@ -1,0 +1,37 @@
+
+--- AV2 Communication Agent: Sending Own Status ---
+Nearby Vehicles: ['AV1', 'AV3']
+AV2 Status Details:
+ Vehicle ID: AV2
+ Obstacle Presence: True
+ Obstacle Type: formation_adjustment
+ Obstacle Proximity: 12.87 meters
+ Traffic Density: moderate
+ Current Speed: 15.2 km/h
+ Intended Action: coordinate
+
+--- AV2 Communication Agent: Receiving Status from Vehicle AV1 ---
+Received Status Details:
+ Vehicle ID: AV1
+ Obstacle Presence: True
+ Obstacle Type: human_pedestrian
+ Obstacle Proximity: 9.90 meters
+ Traffic Density: heavy
+ Current Speed: 19.5 km/h
+ Intended Action: yield
+
+--- AV2 Communication Agent: Receiving Status from Vehicle AV3 ---
+Received Status Details:
+ Vehicle ID: AV3
+ Obstacle Presence: True
+ Obstacle Type: monitoring
+ Obstacle Proximity: 13.56 meters
+ Traffic Density: moderate
+ Current Speed: 34.5 km/h
+ Intended Action: maintain_distance
+
+--- Final Position Update for AV2 ---
+Position: Adjusted to lower lane
+Action: Formation adjustment completed
+
+--- Human Crossing V2V Communication Simulation Completed ---

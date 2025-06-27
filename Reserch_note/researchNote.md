@@ -3896,4 +3896,6 @@ think about consistancy,
 - check, if we say anything it is problem wheather we have mention about it in the conclusion.
 - 
 
-
+Disscussion with tauhid san:
+Optimization is not the top priority. what would be the core?
+After this congestion you can reach 6km far charging station is it really ok.

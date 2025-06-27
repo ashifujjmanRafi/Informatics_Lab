@@ -1,0 +1,34 @@
+
+--- Vehicle AV2 Communication Agent: Human Detection Alert ---
+Coordinating with Vehicles: ['AV1']
+Vehicle AV2 Status Details:
+  Formation Position: support
+  Human Detected: True
+  Human Proximity: 31.62 meters
+  Coordination Mode: avoidance
+  Current Speed: 13.3 km/h
+  Intended Action: formation_adjust
+
+--- Vehicle AV2: Receiving Coordination from Vehicle AV1 ---
+Received Coordination Details:
+  Sender Vehicle ID: AV1
+  Sender Formation Position: lead
+  Human Detection Status: True
+  Human Proximity: 20.00 meters
+  Coordination Mode: avoidance
+  Recommended Action: formation_adjust
+
+--- Vehicle AV2: Formation Behavior Adjustment ---
+  Action: Adjusting formation for human avoidance
+
+--- Vehicle AV2: Receiving Coordination from Vehicle AV3 ---
+Received Coordination Details:
+  Sender Vehicle ID: AV3
+  Sender Formation Position: formation_leader
+  Human Detection Status: True
+  Human Proximity: 10.00 meters
+  Coordination Mode: emergency_stop
+  Recommended Action: emergency_brake
+
+--- Vehicle AV2: Formation Behavior Adjustment ---
+  Action: Initiating emergency formation stop

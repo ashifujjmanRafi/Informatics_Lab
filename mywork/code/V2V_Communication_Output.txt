@@ -13,18 +13,18 @@ Vehicle 2 Status Details:
 Received Status Details:
  Vehicle ID: 001
  Obstacle Presence: False
- Obstacle Type: pedestrian
- Obstacle Proximity: 11.076301826869942 meters
- Traffic Density: moderate
- Intended Action: turn_left
+ Obstacle Type: traffic_light
+ Obstacle Proximity: 8.04727527531931 meters
+ Traffic Density: light
+ Intended Action: forward
 
 --- Vehicle 2 Communication Agent: Receiving Status from Vehicle 003 ---
 Received Status Details:
  Vehicle ID: 003
  Obstacle Presence: True
  Obstacle Type: pedestrian
- Obstacle Proximity: 8.430152378140267 meters
- Traffic Density: heavy
- Intended Action: stop
+ Obstacle Proximity: 2.4414462762152733 meters
+ Traffic Density: moderate
+ Intended Action: turn_left
 
 -V2V Communication Simulation Completed-
