@@ -3840,7 +3840,7 @@ To tell them we need to mention what kind of current work we are following and w
 **Practical Preparation Tips,**
 Presentation skill without content,- presenting veery smart
 - why we are doing this , what would be the benifits
-- Without explaining why, it’s difficult to evaluate if something is “OK” or not.
+- Without explaining why, it's difficult to evaluate if something is "OK" or not.
 - why is this slide , what is it explaining
 - Joining other presenataion is important to undersatand how easily we can explain our own research 
 using this experience.
@@ -3852,8 +3852,11 @@ Are 1–2 line explanations enough?
 
 Current issue,
 - Another suggestion from you was, Do something the computation time in a dense AV, 
+
 In a dense if multiple AV shares their information that would be huge and summerizing the information is an another issue, what can we do for that. can we mention it as  issue and future work.
-- what can we do for handle incorrect LLM outputs
+
+- what can we do for handle incorrect LLM outputs - try some emergency message or action that will take LLM if failed to interpreat
+
 - About thesis writing, i have seen seniors thesis and it is bit confusing, if you can give us some suggestion what can we add and what are prohabitate 
 
 **Future Sceudle for me for the conference,**
@@ -3899,3 +3902,46 @@ think about consistancy,
 Disscussion with tauhid san:
 Optimization is not the top priority. what would be the core?
 After this congestion you can reach 6km far charging station is it really ok.
+
+
+
+## 26.06.25
+
+About thesis writing,
+- Try see PHd thesis, not masters thesis. Try putting goal on higher.
+- See some pHd thesis form some good university.
+- These thesis are reviewed paper or journal. compare these paper and the thesis and you can found...
+
+## 27.06.25
+
+About the slide,
+think about consistancy, 
+- About the extended scenario only Chatgpt-4, we can add some result form other LLM also.
+- check, if we say anything it is problem wheather we have mention about it in the conclusion.
+- 
+
+## 30.06.25
+
+
+## 02.07.25
+
+- Another suggestion from you was, Do something the computation time in a dense AV - 
+Sharing information for more than 15 cars, it would show the complication, And i can do for the interim work....
+
+Ther should be some clarification, what kind of dense the LLM can take the right decision, And can see the capacity of the different LLM ,
+
+In a dense if multiple AV shares their information that would be huge and summerizing the information is an another issue, what can we do for that. can we mention it as  issue and future work.
+
+- what can we do for handle incorrect LLM outputs - try some emergency message or action that will take LLM if failed to interpreat
+
+What can we do in the backup plan ,
+for LLM would the other option to minimize the damage 
+Next step what can the car do or some other sorrounding car can do
+
+- About thesis writing, i have seen seniors thesis and it is bit confusing, if you can give us some suggestion what can we add and what are prohabitate 
+- Try see PHd thesis, not masters thesis. Try putting goal on higher.
+- See some pHd thesis form some good university.
+- These thesis are reviewed paper or journal. compare these paper and the thesis and you can found
+
+Current issues: 
+- 

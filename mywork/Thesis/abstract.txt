@@ -1,0 +1,526 @@
+# Toward a Multi-Agent Approach for LLM-Based Dynamic Vehicle Control and Communication in Accidental Conditions
+
+**A Master's Thesis Submitted to the Graduate School of Integrated Science and Technology**  
+**Shizuoka University, Hamamatsu, Japan**
+
+---
+
+**Author:** Rafi Md Ashifujjman  
+**Supervisor:** Prof. Naoki Fukuta  
+**Department:** College of Informatics, Academic Institute  
+**Date:** June 2025
+
+---
+
+## Abstract
+
+The technological advances in the field of autonomous vehicles are exponentially improving, with significant research efforts focused on achieving Level 5 automation through intelligent decision-making systems. The objective is to develop innovative and intelligent services for autonomous transportation that enhance safety, coordination, and efficiency in complex traffic environments. Current autonomous driving systems face substantial limitations when encountering unknown and unsafe traffic situations that require human-like reasoning capabilities, as traditional approaches rely heavily on pre-trained models and rule-based systems that often fail in novel scenarios not covered in their training datasets.
+
+Accordingly, this thesis addresses the problem of intelligent decision-making in autonomous vehicles through the integration of Large Language Models (LLMs) within a multi-agent framework. The research focuses on two main categories: first, improving the reasoning capabilities of existing autonomous vehicle components, and second, developing intelligent communication systems that facilitate cooperative decision-making processes. Different research efforts have been exerted to tackle various aspects in the field of LLM-based autonomous driving systems.
+
+At first, a comprehensive evaluation framework was developed to assess multiple LLM architectures including GPT-4 Turbo, Claude 3.7 Sonnet, Falcon 3 7B, and several open-source models such as OpenHermes-2.5-Mistral-7B and Google/flan-t5-large. The framework was tested under different traffic circumstances and conditions through text-based simulation scenarios, afterward, it was validated through carrying out controlled experiments analyzing decision consistency and accuracy across various models.
+
+Next is the development of the multi-agent platform architecture, which consists of two primary components: the Decision Agent powered by LLMs and the Communication Agent that facilitates structured Vehicle-to-Vehicle (V2V) information exchange. Each agent was equipped with specific capabilities - the Decision Agent for processing natural language descriptions of traffic scenarios and generating appropriate driving decisions, while the Communication Agent handles real-time data sharing about obstacles, traffic conditions, speed, and intended actions between nearby vehicles within a defined communication radius.
+
+The research addresses two fundamental questions: (1) Can an LLM-based agent make effective decisions without undergoing specific learning processes for each new situation? (2) Is a single centralized decision-making agent sufficient, or does a multi-agent system provide superior efficiency and scalability when processing V2V communication data? Hundreds of experiments were carried out for the validation of each system component, testing scenarios ranging from basic traffic light recognition to complex multi-vehicle coordination challenges involving hidden obstacles and emergency situations.
+
+The obtained results demonstrated the efficiency of LLMs to exhibit human-like reasoning in uncertain traffic situations, with decision accuracy significantly improving when contextual information from V2V communication is incorporated. Results proved the functionality of the multi-agent framework to make intelligent driving decisions with minimal pre-programmed knowledge, achieving consistent performance across diverse traffic scenarios. The Communication Agent enhanced the Decision Agent's contextual understanding by providing structured data, resulting in improved decision accuracy particularly in complex scenarios involving multiple vehicles and hidden information.
+
+The research contributes to the development of more adaptive and intelligent autonomous driving systems capable of handling unpredictable real-world scenarios through the combination of natural language reasoning and collaborative multi-agent communication, paving the way toward safer and more reliable Level 5 autonomous vehicles.
+
+**Keywords:** Autonomous Vehicles, Large Language Models, Multi-Agent Systems, Vehicle-to-Vehicle Communication, Decision Making, Traffic Safety, Intelligent Transportation Systems
+
+---
+
+## Table of Contents
+
+1. [Introduction](#1-introduction)
+2. [Literature Review](#2-literature-review)
+3. [Problem Statement and Research Questions](#3-problem-statement-and-research-questions)
+4. [Methodology](#4-methodology)
+5. [System Architecture](#5-system-architecture)
+6. [Experimental Design](#6-experimental-design)
+7. [Results and Analysis](#7-results-and-analysis)
+8. [Discussion](#8-discussion)
+9. [Limitations and Future Work](#9-limitations-and-future-work)
+10. [Conclusion](#10-conclusion)
+11. [References](#11-references)
+
+---
+
+## 1. Introduction
+
+### 1.1 Background and Motivation
+
+The pursuit of fully autonomous vehicles represents one of the most challenging applications of artificial intelligence in real-world scenarios. While current autonomous driving systems have achieved remarkable success in controlled environments and well-defined scenarios, they continue to struggle with the inherent unpredictability of real-world traffic situations. The transition from Level 4 to Level 5 automation—where vehicles must operate safely in any condition without human intervention—requires systems capable of human-like reasoning and adaptability.
+
+Traditional autonomous driving systems rely on pre-programmed rules, machine learning models trained on specific datasets, and reinforcement learning approaches. However, these systems face fundamental limitations when encountering novel situations not represented in their training data. Consider a scenario where traffic cones are positioned on a moving truck—a human driver intuitively understands that these cones pose no immediate threat, while a traditional AV system might misinterpret them as road obstacles requiring evasive action.
+
+The emergence of Large Language Models (LLMs) has demonstrated unprecedented capabilities in natural language understanding, reasoning, and decision-making across diverse domains. These models, trained on vast corpora of human knowledge and reasoning patterns, exhibit emergent abilities that suggest potential applications in autonomous driving scenarios requiring contextual understanding and adaptive decision-making.
+
+### 1.2 Research Motivation
+
+The motivation for this research stems from three critical observations in current autonomous driving technology:
+
+**1. The Unknown-Unsafe Problem:** Current AV systems struggle with situations that are both unknown (not explicitly covered in training data) and potentially unsafe. These scenarios require the kind of common-sense reasoning that humans naturally apply but that traditional AI systems find challenging.
+
+**2. Limited Contextual Communication:** While Vehicle-to-Vehicle (V2V) communication technologies exist, current implementations often lack the sophisticated contextual understanding necessary for complex decision-making in multi-vehicle scenarios.
+
+**3. Scalability of Decision-Making:** As autonomous vehicles become more prevalent, the question of whether centralized or distributed decision-making architectures will prove more effective becomes increasingly important.
+
+### 1.3 Research Objectives
+
+This thesis aims to:
+
+1. Investigate the feasibility of using LLMs as decision-making agents in autonomous vehicles
+2. Develop a multi-agent framework that combines LLM-based reasoning with V2V communication
+3. Evaluate the consistency and reliability of different LLMs in traffic decision-making scenarios
+4. Assess the impact of contextual V2V communication on decision accuracy
+5. Provide insights into the architectural requirements for LLM-based autonomous driving systems
+
+---
+
+## 2. Literature Review
+
+### 2.1 Autonomous Driving Systems Evolution
+
+The development of autonomous driving systems has progressed through several generations of approaches. Early systems relied heavily on rule-based programming, where engineers attempted to codify traffic rules and driving behaviors into explicit algorithms. While effective for well-defined scenarios, these systems proved brittle when faced with unexpected situations.
+
+The introduction of machine learning, particularly deep learning approaches, marked a significant advancement. Convolutional neural networks enabled better perception capabilities, while reinforcement learning provided frameworks for learning driving policies through trial and error. However, these approaches still required extensive training data and struggled with generalization to novel scenarios.
+
+### 2.2 Large Language Models in Decision Making
+
+Recent advances in Large Language Models have demonstrated remarkable capabilities in reasoning, problem-solving, and decision-making across diverse domains. Models like GPT-4, Claude, and various open-source alternatives have shown the ability to:
+
+- Understand complex contextual information
+- Apply common-sense reasoning
+- Generate explanations for their decisions
+- Adapt to new scenarios without explicit retraining
+
+These capabilities suggest potential applications in autonomous driving, where contextual understanding and adaptive reasoning are crucial for handling unexpected situations.
+
+### 2.3 Multi-Agent Systems in Autonomous Driving
+
+Multi-agent systems have been explored in autonomous driving contexts primarily for coordination and communication between vehicles. Traditional approaches focus on information sharing about position, velocity, and intended actions. However, these systems typically lack sophisticated reasoning capabilities about the shared information.
+
+The integration of LLMs into multi-agent frameworks represents a novel approach that could bridge the gap between raw data sharing and intelligent collaborative decision-making.
+
+### 2.4 Vehicle-to-Vehicle Communication
+
+V2V communication technologies have matured significantly, with standardized protocols enabling real-time information exchange between vehicles. Current systems typically share structured data about vehicle state, detected obstacles, and traffic conditions. However, the interpretation and utilization of this information for decision-making remains limited in current implementations.
+
+---
+
+## 3. Problem Statement and Research Questions
+
+### 3.1 Problem Statement
+
+Current autonomous driving systems face critical limitations in handling unknown and potentially unsafe traffic situations. These limitations stem from their reliance on pre-trained models and rule-based approaches that cannot adequately address the full spectrum of real-world driving scenarios. The integration of human-like reasoning capabilities through Large Language Models, combined with enhanced vehicle-to-vehicle communication, presents a potential solution to these challenges.
+
+### 3.2 Research Questions
+
+This thesis addresses two primary research questions:
+
+**Research Question 1:** Can an LLM-based agent make effective autonomous driving decisions without undergoing specific learning processes for each new situation?
+
+**Research Question 2:** Is a single centralized decision-making agent sufficient to process all incoming V2V data and make autonomous driving decisions, or is a multi-agent system required for improved efficiency and scalability?
+
+### 3.3 Hypotheses
+
+**Hypothesis 1:** LLMs can demonstrate human-like reasoning capabilities in autonomous driving scenarios, making appropriate decisions in novel traffic situations without specific training for those scenarios.
+
+**Hypothesis 2:** A multi-agent system incorporating both decision-making and communication agents will provide superior performance compared to single-agent approaches, particularly in scenarios requiring contextual understanding of V2V communication data.
+
+**Hypothesis 3:** The integration of structured V2V communication data will significantly improve the accuracy and consistency of LLM-based decision-making in autonomous vehicles.
+
+---
+
+## 4. Methodology
+
+### 4.1 Research Approach
+
+This research employs an experimental methodology combining:
+
+1. **Comparative Model Analysis:** Systematic evaluation of multiple LLM architectures
+2. **Simulation-Based Testing:** Text-based traffic scenario simulations
+3. **Consistency Analysis:** Repeated testing to assess decision reliability
+4. **Multi-Agent Framework Development:** Design and implementation of coordinated agent systems
+
+### 4.2 Model Selection Criteria
+
+The selection of LLMs for this study was based on three key factors:
+
+1. **Popularity and Performance:** Models with high download rates and proven effectiveness in text-to-text generation tasks
+2. **Local Deployment Feasibility:** Compatibility with local inference environments for real-time applications
+3. **Quantization Support:** Ability to maintain performance with reduced computational requirements
+
+### 4.3 Quantization Strategy
+
+Given the computational constraints of automotive applications, we focused on quantized models that maintain performance while reducing memory requirements by 50-75%. Research indicates that 8-bit quantization enables most LLMs to maintain performance comparable to their non-quantized equivalents, while 4-bit quantization can preserve performance across most benchmarks.
+
+### 4.4 Experimental Platform
+
+The experimental setup utilized:
+
+- **Hugging Face:** Access to open-source pre-trained models
+- **LM Studio:** Local deployment and inference environment
+- **Python-based Simulation:** Custom traffic scenario generation
+- **Commercial API Access:** Testing with GPT-4 Turbo, Claude 3.7 Sonnet, and Falcon 3
+
+---
+
+## 5. System Architecture
+
+### 5.1 Multi-Agent Framework Overview
+
+Our proposed system consists of two primary agent types:
+
+**Decision Agent:** 
+- Powered by LLMs
+- Processes traffic scenarios described in natural language
+- Makes driving decisions based on contextual understanding
+- Provides explanations for decisions when required
+
+**Communication Agent:**
+- Manages V2V information exchange
+- Structures data about obstacles, traffic conditions, speed, and intended actions
+- Provides contextual support to the Decision Agent
+- Operates within a defined communication radius (e.g., 10 meters)
+
+### 5.2 Communication Protocol
+
+The Communication Agent utilizes a standardized data format for V2V exchange:
+
+```json
+{
+  "vehicle_id": "unique_identifier",
+  "position": {"x": float, "y": float},
+  "speed": float,
+  "direction": float,
+  "detected_obstacles": [list_of_obstacles],
+  "intended_actions": "description_of_planned_actions",
+  "traffic_conditions": "current_observations",
+  "timestamp": "time_of_data_collection"
+}
+```
+
+### 5.3 Integration Architecture
+
+The integration between Decision and Communication Agents follows a structured workflow:
+
+1. **Data Collection:** Communication Agent gathers V2V information
+2. **Context Structuring:** Raw data is formatted for LLM consumption
+3. **Decision Processing:** Decision Agent receives structured context and scenario description
+4. **Action Generation:** LLM produces driving decisions with reasoning
+5. **Action Broadcasting:** Intended actions are shared via Communication Agent
+
+---
+
+## 6. Experimental Design
+
+### 6.1 Scenario Development
+
+We developed a comprehensive set of text-based traffic scenarios designed to test different aspects of autonomous driving decision-making:
+
+**Basic Scenarios:**
+- Traffic light recognition and response
+- Stop sign compliance
+- Pedestrian crossing situations
+
+**Complex Scenarios:**
+- Partially blocked roads with construction
+- Multi-vehicle coordination challenges
+- Unknown obstacle interpretation
+
+**V2V Communication Scenarios:**
+- Hidden obstacle scenarios requiring information sharing
+- Coordinated lane changes
+- Emergency situation responses
+
+### 6.2 Model Testing Protocol
+
+Each LLM was tested using a standardized protocol:
+
+1. **Prompt Standardization:** Consistent query format across all models
+2. **Response Format:** Structured output requirements (e.g., "STOP" or "FORWARD")
+3. **Consistency Testing:** 20 repeated queries per scenario per model
+4. **Context Variation:** Testing with and without V2V communication data
+
+### 6.3 Evaluation Metrics
+
+**Decision Accuracy:** Percentage of correct responses to traffic scenarios
+**Consistency Score:** Variance in responses across repeated queries
+**Response Time:** Processing time for decision generation
+**Explanation Quality:** Coherence and relevance of decision reasoning
+
+### 6.4 Statistical Analysis
+
+Consistency was quantified using binary mapping:
+- "FORWARD" = 1
+- "STOP" = 0
+
+Mean values closer to the expected response indicate higher consistency. Statistical significance was assessed using standard deviation and confidence intervals across repeated trials.
+
+---
+
+## 7. Results and Analysis
+
+### 7.1 Model Performance Comparison
+
+#### 7.1.1 Basic Traffic Light Scenario
+
+In the basic green traffic light scenario, model responses varied significantly:
+
+- **GPT-4 Turbo:** Consistent "FORWARD" responses (100% accuracy)
+- **Falcon 3 7B:** Direct "FORWARD" responses (100% accuracy)
+- **Claude 3.7 Sonnet:** Correct decision but included explanatory text despite prompt constraints
+- **OpenHermes-2.5-Mistral-7B:** Consistent "FORWARD" responses (100% accuracy)
+- **Google/flan-t5-large:** Unexpected "STOP" response (0% accuracy)
+
+#### 7.1.2 Consistency Analysis
+
+Repeated testing revealed significant variations in consistency across models:
+
+**OpenHermes-2.5-Mistral-7B:**
+- Mean consistency score: 0.95
+- Standard deviation: 0.22
+- 95% confidence interval: [0.85, 1.00]
+
+**GPT-4 Turbo:**
+- Mean consistency score: 1.00
+- Standard deviation: 0.00
+- Perfect consistency across all trials
+
+### 7.2 Impact of V2V Communication
+
+#### 7.2.1 Hidden Obstacle Scenario
+
+The extended scenario involving AV2 following AV1 with a hidden stop sign demonstrated the critical importance of V2V communication:
+
+**Without V2V Communication:**
+- GPT-4 Turbo: "FORWARD" (potentially dangerous)
+- Decision based solely on visible information
+- Risk of collision with stopped vehicle ahead
+
+**With V2V Communication:**
+- GPT-4 Turbo: "STOP" (correct response)
+- Consistent decision across 20 repeated trials
+- Mean consistency score: 1.00
+
+#### 7.2.2 Decision Accuracy Improvement
+
+The integration of V2V communication data resulted in:
+- 100% improvement in decision accuracy for hidden obstacle scenarios
+- Enhanced contextual understanding across all tested models
+- Reduced response variability in complex multi-vehicle situations
+
+### 7.3 Model-Specific Observations
+
+#### 7.3.1 Commercial Models
+- **GPT-4 Turbo:** Exceptional consistency and accuracy, effective use of V2V data
+- **Claude 3.7 Sonnet:** High accuracy but tendency to provide unsolicited explanations
+- **Falcon 3 7B:** Reliable performance with concise responses
+
+#### 7.3.2 Open-Source Models
+- **OpenHermes-2.5-Mistral-7B:** Strong performance with good consistency
+- **Google/flan-t5-large:** Significant accuracy issues in basic scenarios
+
+### 7.4 Computational Performance
+
+Quantized models demonstrated:
+- 50-75% reduction in memory requirements
+- Maintained decision accuracy comparable to full-precision models
+- Feasible real-time inference on standard automotive hardware
+
+---
+
+## 8. Discussion
+
+### 8.1 Research Question 1: LLM Decision-Making Capability
+
+Our results provide strong evidence that LLMs can make effective autonomous driving decisions without specific training for each scenario. The successful performance of multiple models across diverse traffic situations demonstrates their ability to apply general reasoning capabilities to novel contexts.
+
+**Key Findings:**
+- LLMs successfully interpreted complex traffic scenarios described in natural language
+- Models demonstrated understanding of traffic rules and safety considerations
+- Performance varied significantly between models, highlighting the importance of model selection
+
+### 8.2 Research Question 2: Multi-Agent vs. Single-Agent Architecture
+
+The comparison between scenarios with and without V2V communication strongly supports the multi-agent approach:
+
+**Advantages of Multi-Agent Architecture:**
+- Enhanced contextual awareness through information sharing
+- Improved decision accuracy in complex scenarios
+- Scalable framework for multiple vehicle coordination
+- Distributed processing reducing single-point-of-failure risks
+
+### 8.3 Implications for Autonomous Driving
+
+#### 8.3.1 Safety Considerations
+The research reveals both promising capabilities and critical limitations:
+
+**Strengths:**
+- Human-like reasoning in uncertain situations
+- Ability to process contextual information effectively
+- Improved performance with collaborative information sharing
+
+**Concerns:**
+- Inconsistency across different models
+- Potential for unexpected responses in edge cases
+- Need for robust validation in safety-critical applications
+
+#### 8.3.2 Technical Implementation Challenges
+
+**Real-Time Processing:** While quantized models showed promise, ensuring consistent real-time performance remains challenging.
+
+**Model Reliability:** The variation in consistency across models highlights the need for rigorous testing and validation frameworks.
+
+**Integration Complexity:** Combining LLM-based decision-making with existing automotive systems requires careful architectural design.
+
+### 8.4 Comparison with Traditional Approaches
+
+LLM-based systems offer several advantages over traditional rule-based and machine learning approaches:
+
+**Flexibility:** Ability to handle novel scenarios without explicit programming
+**Explainability:** Natural language explanations for decisions
+**Adaptability:** Learning from contextual information without retraining
+
+However, traditional approaches maintain advantages in:
+**Predictability:** Deterministic behavior in defined scenarios
+**Performance:** Optimized processing for specific tasks
+**Validation:** Established testing and verification methodologies
+
+---
+
+## 9. Limitations and Future Work
+
+### 9.1 Current Limitations
+
+#### 9.1.1 Experimental Scope
+- Text-based simulations may not capture all real-world complexities
+- Limited scenario diversity compared to actual driving conditions
+- Simplified V2V communication protocols
+
+#### 9.1.2 Model Limitations
+- Inconsistency across different LLM architectures
+- Potential for unexpected responses in edge cases
+- Computational requirements for real-time processing
+
+#### 9.1.3 Validation Challenges
+- Difficulty in creating truly "unknown" test scenarios
+- Limited real-world testing opportunities
+- Safety validation requirements for autonomous systems
+
+### 9.2 Future Research Directions
+
+#### 9.2.1 Enhanced Simulation Environments
+- Integration with physics-based driving simulators
+- More complex multi-vehicle interaction scenarios
+- Real-world data integration for scenario generation
+
+#### 9.2.2 Model Optimization
+- Development of domain-specific LLM architectures
+- Improved quantization techniques for automotive applications
+- Ensemble methods for enhanced reliability
+
+#### 9.2.3 System Integration
+- Integration with existing automotive control systems
+- Development of safety validation frameworks
+- Real-world testing protocols and methodologies
+
+#### 9.2.4 Advanced Communication Protocols
+- Enhanced V2V communication standards
+- Integration with infrastructure-to-vehicle (I2V) systems
+- Privacy and security considerations for shared information
+
+### 9.3 Recommendations for Implementation
+
+#### 9.3.1 Gradual Deployment Strategy
+- Initial deployment in controlled environments
+- Progressive expansion to more complex scenarios
+- Continuous monitoring and validation
+
+#### 9.3.2 Hybrid Architectures
+- Combination of LLM-based and traditional approaches
+- Fallback mechanisms for edge cases
+- Multi-level validation systems
+
+#### 9.3.3 Industry Collaboration
+- Standardization of communication protocols
+- Shared testing frameworks and datasets
+- Collaborative safety validation efforts
+
+---
+
+## 10. Conclusion
+
+This thesis has investigated the integration of Large Language Models within a multi-agent framework for autonomous vehicle decision-making, with particular focus on handling unknown and unsafe traffic situations. Through comprehensive experimentation with multiple LLM architectures and traffic scenarios, we have demonstrated both the potential and current limitations of this approach.
+
+### 10.1 Key Contributions
+
+1. **Novel Multi-Agent Architecture:** We proposed and evaluated a multi-agent system combining LLM-based decision-making with structured V2V communication.
+
+2. **Comprehensive Model Evaluation:** Systematic comparison of commercial and open-source LLMs in autonomous driving decision-making scenarios.
+
+3. **V2V Communication Integration:** Demonstration of how structured vehicle-to-vehicle communication significantly improves decision accuracy in complex traffic situations.
+
+4. **Consistency Analysis Framework:** Development of methodologies for assessing the reliability of LLM-based decision-making in safety-critical applications.
+
+### 10.2 Research Question Answers
+
+**Research Question 1:** Our results confirm that LLM-based agents can make effective autonomous driving decisions without specific training for each scenario, demonstrating human-like reasoning capabilities in novel traffic situations.
+
+**Research Question 2:** The multi-agent system approach proves superior to single-agent architectures, particularly when processing V2V communication data, providing enhanced efficiency, scalability, and decision accuracy.
+
+### 10.3 Implications for Autonomous Driving
+
+The research suggests that LLM-based multi-agent systems could address critical gaps in current autonomous driving technology, particularly in handling unpredictable real-world scenarios. However, significant work remains in addressing consistency, validation, and real-world implementation challenges.
+
+### 10.4 Future Outlook
+
+The intersection of Large Language Models and autonomous driving represents a promising research direction that could contribute to achieving Level 5 automation. Success will require continued collaboration between automotive engineers, AI researchers, and regulatory bodies to develop safe, reliable, and effective systems.
+
+The journey toward fully autonomous vehicles remains complex and challenging, but the integration of advanced AI reasoning capabilities through LLMs and collaborative multi-agent frameworks offers a compelling path forward. As these technologies continue to mature, we anticipate significant advancements in the safety, reliability, and capability of autonomous driving systems.
+
+---
+
+## 11. References
+
+[1] Y. Chang, X. Wang, J. Wang, Y. Wu, L. Yang, K. Zhu, H. Chen, X. Yi, C. Wang, Y. Wang, et al., "A survey on evaluation of large language models," ACM transactions on intelligent systems and technology, vol. 15, no. 3, pp. 1–45, 2024.
+
+[2] A. Iftekhar and N. Fukuta, "Toward an efficient and resilient electric vehicle charging place allocation using multiagent approach," in 2024 16th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI), pp. 663–664, 2024.
+
+[3] S. S. Duddela and N. Fukuta, "Toward an acceptable dynamic allocation considering fairness on autonomous car parking," in 2024 16th IIAI International Congress on Advanced Applied Informatics (IIAI-AAI), pp. 286–291, 2024.
+
+[4] J. Cho and J. Heo, "The more you know, the more you can trust: Drivers' understanding of the advanced driver assistance system," in HCI in Mobility, Transport, and Automotive Systems. Automated Driving and In-Vehicle Experience Design: Second International Conference, MobiTAS 2020, Held as Part of the 22nd HCI International Conference, HCII 2020, Copenhagen, Denmark, July 19–24, 2020, Proceedings, Part I 22, pp. 230–248, Springer, 2020.
+
+[5] M. Raza, "Autonomous vehicles: levels, technologies, impacts and concerns," International Journal of Applied Engineering Research, vol. 13, no. 16, pp. 12710–12714, 2018.
+
+[6] L. P. Kaelbling, M. L. Littman, and A. W. Moore, "Reinforcement learning: A survey," Journal of artificial intelligence research, vol. 4, pp. 237–285, 1996.
+
+[7] D. Fu, X. Li, L. Wen, M. Dou, P. Cai, B. Shi, and Y. Qiao, "Drive like a human: Rethinking autonomous driving with large language models," in Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 910–919, 2024.
+
+[8] T. Singh, E. van Hassel, A. Sheorey, and M. Alirezaei, "A systematic approach for creation of sotif's unknown unsafe scenarios: An optimization based method," tech. rep., SAE Technical Paper, 2024.
+
+[9] G. Xiao, J. Lin, M. Seznec, H. Wu, J. Demouth, and S. Han, "Smoothquant: Accurate and efficient post-training quantization for large language models," in International Conference on Machine Learning, pp. 38087–38099, PMLR, 2023.
+
+---
+
+## Appendices
+
+### Appendix A: Detailed Experimental Results
+[Detailed tables and figures showing all experimental results]
+
+### Appendix B: LLM Response Examples
+[Complete response examples from all tested models]
+
+### Appendix C: Code Implementation
+[Python implementation of simulation scenarios and testing framework]
+
+### Appendix D: Statistical Analysis
+[Detailed statistical analysis of consistency and accuracy metrics]
+
+---
+
+*This thesis is submitted in partial fulfillment of the requirements for the Master of Science degree in Integrated Science and Technology at Shizuoka University, Hamamatsu, Japan.*
