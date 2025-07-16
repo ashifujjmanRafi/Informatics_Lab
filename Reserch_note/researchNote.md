@@ -3945,3 +3945,135 @@ Next step what can the car do or some other sorrounding car can do
 
 Current issues: 
 - 
+
+todays disscussion,
+Next week we will have the same disscussion , Next next week the lab meeting will be skiped.
+
+7/25 deadline for the thesis tentative version.
+8/8 presenataion for the thesis
+8/22 mid day deadline for the thesis 10-12 o clock, 
+
+
+
+
+Presentation of toufik san,
+
+
+## 3.07.25
+
+
+## 4.07.25
+
+About the slide,
+think about consistancy, 
+- About the extended scenario only Chatgpt-4, we can add some result form other LLM also.
+- check, if we say anything it is problem wheather we have mention about it in the conclusion.
+- 
+
+
+## 7.07.25
+
+Writing the thesis section 2.
+
+## 8.7.25
+
+Last last lab meeting,
+
+In a dense if multiple AV shares their information that would be huge and summerizing the information is an another issue, what can we do for that. can we mention it as  issue and future work.
+
+- what can we do for handle incorrect LLM outputs - try some emergency message or action that will take LLM if failed to interpreat
+
+What can we do in the backup plan ,
+for LLM would the other option to minimize the damage 
+Next step what can the car do or some other sorrounding car can do
+
+- About thesis writing, i have seen seniors thesis and it is bit confusing, if you can give us some suggestion what can we add and what are prohabitate 
+- Try see PHd thesis, not masters thesis. Try putting goal on higher.
+- See some pHd thesis form some good university.
+- These thesis are reviewed paper or journal. compare these paper and the thesis and you can found
+
+
+## 9.7.25
+
+Last meeting disscussion,
+
+Sensei asked me last meetings recap and got suggestion writing thesis from the conslusion not the introduction,
+I showed the intermediate results from the next step scenario, and the updated version of the slides and uploaded the slides for review.
+
+
+current issue ,
+need some practice session on presentation?
+thesis is on the fire , need review from sensei,
+
+
+What can we do,
+try writing up nice thesis in point of our view,
+we alreday have some validation mechanism -
+Also clear meaning of the figures , explanation of the numbers, 
+For my case i have some intermidate result, e
+The thesis containing , what we can do we can follow 
+dont use undefied words, do proper citation.
+consistancy of the writing - like the difference between the introduction and conclusion.
+
+Hint about the introduction:
+
+on the conference paper we metioned aobut the past work - very recent paper we have citation.
+But in thesis we can use some historical paper as reference, - in the field 
+this should be connected to the core research 
+
+In introduction part add the research question.
+
+Writing about the structure description, can be written in the conclusion.
+
+Try realizing the goal of other approches,
+
+
+
+
+## 14.07.25
+ 
+
+first day at the conference,
+non task oriented dialouge in human relationships
+to develop a dialouge system that builds a long term trusting,
+automatically extractiong human relationship terms associated with person names.
+question : how to use this relationship , and i didnt get your research objective.
+
+Automatic weed control robot in paddy field.
+dataset is limited total number of images 217 very low
+
+Speech Emotion Recognition - this work is interesting
+the reviewer asked that he think there are some work already have been done , comparing would be good for you.
+and the speaker said they are working for on the speech emotion recognation, not facial emotion recognation.
+
+customer analysis and text genaration for small retail store.
+man made pop texts.
+LLM genarated pop texts
+the approch is to combinig the human and LLM.
+the time of this work the evaluation time should be less you mentioned but in conclusion you didnt mention that , 
+About the system architecture, the system asking the quesiotn and the user responsing with yes or no.
+The third reviewer asked can you input images 
+
+The review setting up the 0.9 temp, why did he set up the temp.
+and what validation he used to can be explained in next extension.
+
+What is your contribution,
+our contribution is to clarify the 
+OPRO is already used mechanism , comparing OPRO and LLM is not good work
+
+
+## 15.07.25
+
+MOT - multiple object tracking.
+shadow of tree make tis challangeing  the subject can be tracked.
+
+Sensei asked can we see the slides, how did it the 
+how we could identify , how this detection is important.
+
+
+Query on LLM minimizing time:
+
+
+## 16.07.25
+
+I joined only one presentation . i barely undestand that
