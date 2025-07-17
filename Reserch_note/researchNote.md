@@ -4076,4 +4076,12 @@ Query on LLM minimizing time:
 
 ## 16.07.25
 
+
+## 17.07.25
+
 I joined only one presentation . i barely undestand that
+
+
+When we do kusoripu , we become stressed, can we stop this kusoripu, 
+some people 
+the receiver of kusoripu is affected not the sender what to do with the sender.
