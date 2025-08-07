@@ -3499,6 +3499,7 @@ Research note from takahashi san:
 
 ---
 
+
 about SMASH25
 about the how long they will stay there:
 end of first session?
@@ -3975,7 +3976,7 @@ think about consistancy,
 
 Writing the thesis section 2.
 
-## 8.7.25
+## 8.7.25 **Lab Meeting DM**
 
 Last last lab meeting,
 
@@ -4085,3 +4086,174 @@ I joined only one presentation . i barely undestand that
 When we do kusoripu , we become stressed, can we stop this kusoripu, 
 some people 
 the receiver of kusoripu is affected not the sender what to do with the sender.
+
+
+
+**Memo from Sensei,**
+Here is my quick memo of the QA session for your talk: (might contain some errors, also refer others notes as well)
+-------
+Q (by Hayashi-sensei) LLM might be slow so is it possible to apply such a realtime task? Don't you use a two-layered approach which employs immediate-responding layer with slower responding one?
+(Note: see R. Brooks's "subsumption architecture" for details, which has been utilized in the robotics field!)
+A. Future work...
+Q (By Session Chair) About the UI (probably it means the API design), why don't you utilize a streaming API (to connect to the LLM) rather than such a text based chatting interface?
+A. I have seen some researches that were doing it. In the next step...
+
+**Memo from takahashi san,**
+4人目はRafiさん 18min
+QA
+by Dr. Hisashi
+I just thought LLMs are slow so it is not appropriate to emergency situation
+reactive and proactive behaivior are needed in robotics area
+special very fast communication
+in v2v some human beings we need
+separated
+these kind of ideas are often emploied in the field of robotics
+2nd comment: more complicated conversation example can we see?
+r. use number of information how actually level of LLM h ave to recon??? appropriate decision. more than more veihcle consisely making a important ??? another you will reconstruct decision
+you need good scenario
+by Dr. Nakanishi
+current interface is chat format, right? your application is for driving / you have to change interface toward processing streaming data (as driving have to treat streaming data)
+r. Yes I also think so.
+
+ 
+## 23.07.25 **Lab Meeting DM** 
+
+
+Disscussion with Touhid , Visually reach mock up easier
+Think about the benifit of doing this, we dont think about the implementation,
+When we have the implementation the problem would the rearrangement of items.
+
+then it would be difficult to make the initial mockup.
+
+Sensei suggested to you have implemented something write it down in the paper.
+Doing things in parallaly is not .
+- Mockup is the main focus.
+
+Disscussion with aji,
+First when you start working with mockup you are not using anything in lab , you dont need to ask me,
+And about some clarification about is it ok is it the right decision, We dont know if we know that already that is 
+not research. We are trying to find it,
+Preparaing mockup is not easy, doing is not hard but starting is not easy.
+
+
+on the mockup what will be shown should be the main focus,
+In the research what would be done some internal structure should be shown.
+
+Disscussion with misho san,
+
+About research note, you should write about worries on the research note,
+You having some disscussion,
+Start thinking about this is not so easy. write this line in your research note may be it would the starting point
+
+Research note writing is actually important because from that you can clarify your issuses and worries.
+
+Some more details about your research and in one week we can see your initial mockup.
+
+
+**Next Phase :**
+
+Toufik sans writing style is different from others thesis,
+
+
+## 24.07.25
+
+I am updating my thesis.
+
+## 25.07.25
+
+i have followed senseis comment and updated my thesis and finally submitted for review.
+
+## 29.07.25
+
+About research there is final defense in 8/8. Currently it will be updating the presentation slides and 
+getting prepare for the presentation.
+
+## 30.07.25 **Lab meeting**
+
+Last meeting summarization, we have disscussed about our conference and saw some picture. And then we shared some images of the conferences event to the others.
+And after that we just waited for your comments on the thesis.
+
+In next friday we will have some new japanese student. And next next friday we have our final presentation.
+
+From the next to next next week the campus will be closed 14 to 21.. 12 and 13 main holiday- the lab meeting(8/13) will be skipped. 28- 29 will be plan presentation for M1.
+
+8/20 sensei have a scheduled for joining anoter sensei, and this is under rearrangement - there is possiblity to have the meeting.
+
+And 8/22 - friday, is deadline for our thesis, what can ---- at noon of that day.
+
+On september, the schedule is not fixed.
+
+
+the differnce is , in the ordinary research presentation what is the improvement to the scocity.
+
+and in campus presentation , argur on the context why i should get diploma, i have to clerly mention or argue why i am 
+I have clearly say what i did.
+
+Include Achivement the published paper.
+Underline or bold my name.
+
+clarify in which part i have spend my effort.
+Improvement in the time of thesis writing can be mentioned.
+
+
+## 01.08.25
+
+i have update some slides caption.
+
+## 02.08.25
+
+Updating the future work slide.
+
+
+## 05.08.25
+
+
+## 06.08.25 **Lab meeting**
+
+On friday m2 have ..
+
+On 8/20, the metting would be start on 4 p.m
+
+Last disscussion summerization,
+
+In an academic research presentation, the focus is on how the research contributes to society or advances the field technically. 
+However, in a campus graduation presentation, 
+the goal is to clearly justify why I deserve the degree by explaining what I did, how much I contributed, and the efforts I made during the research.
+Include Achivement the published paper.Underline and bold my name.
+clarify in which part i have spend my effort.(there are no co-author other than sensei)
+Improvement in the time of thesis writing can be mentioned.
+
+Also suggest to rename some slide (next step -> future work)
+
+
+
+Which version of LLMs did you used on your work.you didnt mentioned.?
+Which kind of difference you have done in your work vs the related work.
+What is the research aim and core contribution of your work?
+
+try switching right slide
+You didnt metion your research question  that is good
+
+
+Deleted some Our approch talk that are not mentioned in the tesis.
+Final suggestion to toufik san, to present the slides on exactly 20 minutes you can just show the slides 3-6 just mentioning i have presented this on my plan and midterm presentation and now i am skipping the details. And doing this you can finish your talk on time sensei hope.
+
+
+for slide 6 add some evidance to say this "Unknown Situations: Traditional systems struggle with truly unfamiliar scenarios that weren't included in training data"
+
+At slide 11, also add some references about the quantization.
+About some updated model having some schene shorts can be provided.
+
+At slide 30 delete some future work that can be done immediately.
+
+Computation time i never mentioned,  the time ?
+In some new modles ... can be say something about computational time.
+
+
+dont upgrade your research final suggestion.
+
+
+
+## 07.08.25
+
+I have updated my thesis presentation and send it to the professors for review.
