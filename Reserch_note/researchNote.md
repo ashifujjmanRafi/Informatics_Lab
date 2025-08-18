@@ -7231,3 +7231,23 @@ In your how many scenario did you use in this
 research? Initially... 3.
 
 ---
+
+
+## 12.08.25
+
+It seems now we can access to the IEEE version of the proceedings of AAI2025 conference from confaid conference registration page! 
+You can download the paper (with IEEE copyright version, also with page numbers) from there!
+
+
+## 13.08.25
+
+Actually i am feeling so much pressure, From family and kepping head on is becoming so much hard
+i think .
+Anyway i am trying my best.
+
+## 18.08.25
+
+What i have to do to complete the degree,
+
+1. update the paper with the published paper 
+-   update the publishing slide with updaetd information
