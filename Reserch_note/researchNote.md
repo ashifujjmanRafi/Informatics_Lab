@@ -7249,5 +7249,75 @@ Anyway i am trying my best.
 
 What i have to do to complete the degree,
 
-1. update the paper with the published paper 
--   update the publishing slide with updaetd information
+1. update the paper with the published paper
+2. update the publishing slide with updaetd information
+3. Update the Acknowledgement part with the final presentation information
+4. And following last comment from sensei, as much as i remember they were
+    - Araya sensei, question was connected to justification of the limited number(3) to describe infinite situations
+    - Kitani sensei, situation contry assumption (Japan? or other contry?)(Language)
+    - And comparisn with a central system.
+    - Fukuta sensei, you do not have to include this in the body of the thesis but into the new APPENDIX part is OK.
+
+**And i asked Takahasi san for his research note and his understanding,**
+11:50
+(rafi) brief discussion with sensei
+(sensei told↓ about the questions from 2 professors)
+araya: question was connected to justification of the limited number(3) to describe infinite situations; 
+(fukuta) in your case, ; extra explanation about that can be appended.
+
+kitani: (fukuta)include conversation via e-mail as discussion to the thesis.
+kitani2: situation contry assumption (Japan? or other contry?); you do not have to include this in the body of the thesis but into the new APPENDIX part is OK.
+I hope it helps you
+1 reply
+
+髙橋 陽拓
+  Yesterday at 8:05 PM
+Especially, about Araya sensei's 1st question, "the limited number to describe  infinite
+situations", 
+I think sensei wanted to tell you to add explanation why there were only 3 scenarios and why they were enough (or not) if you did not write that yet.
+    
+
+## 19.08.25
+
+Done with point 1,2,3.
+
+
+## 20.08.25 **Lab meeting**
+
+Now sensei asking toufik san to upload his personal note to the slack channel.
+Sensei suggested toufik san to update some protion like i have some clarification criteria for chossing the LLM, Do them in your work also.
+-   How can we justify the criteria for chossing LLM?
+And then sensei suggested some tricks to chossing some right criteria for chossing LLM-
+    - chossing gemini not chossing cluade (clude do not allow us to long number of code genaration)
+    - then the time he started woking with the LLM, chekcing its ranking on that time could 
+  be a criteria.
+  - mentioning what kind of baseline code was used on appendix and body of the text.
+
+And about the next protion avout the, You are not using some underline mathmetical models rather some LLM models.
+
+
+Kanamori sans paper tittle "Study of robustness enhancement through dynamic and sequential interference action generation using large - sca l e lang u a ge m o d el sf o r learni n g auto n o mousd rivi ng control    "
+
+ "Study on enhancing robustness of autonomous driving control learning by dynamic and sequential generation of disruptive behaviors using large language models"
+
+Add clarification about it has been translated.
+
+@techreport{oai:ipsj.ixsq.nii.ac.jp:02002832,
+  title={Enhancing robustness of autonomous driving control learning by dynamic and sequential generation of disruptive behaviors using large language models},
+  author={Kanamori Takaya and Fukuta Naoki},
+  institution={Information Processing Society of Japan},
+  journal={Research Report: Intellectual System (ICS)},
+  volume={2025-ICS-218},
+  number={4},
+  pages={1--5},
+  year={2025},
+  month={June},
+  publisher={Information Processing Society of Japan},
+  issn={2188-885X},
+
+  note={The title is translated using DeepL.com (free version). Paper originally written in Japanese.}
+}
+ SIG Technical Reports are non-refereed and may later appear in journals, conferences, or symposia.
+
+now i have to change this code to an 1234567890()    
+
