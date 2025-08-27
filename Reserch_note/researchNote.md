@@ -7321,3 +7321,24 @@ Add clarification about it has been translated.
 
 now i have to change this code to an 1234567890()    
 
+
+## 27.08.25 **Lab meeting**
+
+Starting with Toufik san Thesis update:
+The actual decision will be made possibly in the begining of next week.
+DONE'
+
+**Disscussion with fahmidul san:**
+In the clarification he is concern about safety about the Animal. that is the difference with my work.
+And sensei asked fahmidul san did he have any experience in night time...
+In night time car are going faster, and big vechiles are commuting. you should be very careful.
+On night time this could be some problem.
+Limited chance of getting servicing.--
+Some animal are rare and its also important to keep them alive.
+
+Sensei asked did you seen any intregation of MARL and LLM.
+And sensei mentioned about the kanamori san paper.
+
+
+
+
