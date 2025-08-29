@@ -7365,10 +7365,57 @@ then change the tittle
 
 
 
-##
+## 29.08.25
 
 WHY LLM AND MARL AS DECISON AGENT:
 CAN EXPLAIN AOBUT THE TWO LAYER APPROCH FOR TAKING DECISION.
 
 
 EXPLAING ABOUT THE SCENARIOS CAN B
+In your research it is important to make scenario, how may object did you make in your scenario. - 5/6
+You considered .... is it ok ?
+Explaing 
+Presentation of Fahmidul san:
+
+How many scenario are you going to make and how many objcet?
+
+Kitani sensei,
+How Many input  mechanism are you going to use?
+k: why dont you use Infrarred camera, ... why do you chosse night time scenario?
+k:the system could used not only for night time can also be used as daytime.
+k: he thik its challangeing, because LLM take time for thiking, Do you have any plan to reduce the time?
+k: you will show the 
+A: for your rq2 how did you mesure the time, when it is not complex scenario, How are going to evalute the time ? then you find complex scenarion then do that.
+
+Presentation of Misho san:
+Only explaining about the contribution of the traffic signla in the research questoin.
+K: you target system is traffic signal, each traffic signal has a agnet and adjusted the waiting time duration. and output of your work algo minimize  the time.
+what is your inpur for the system?
+K2:you mean , how to represent the heavy wind.? I assume you are using RL, it can adapt many situation. so RL you use the LLM to get the good initial paremeter or some other purpose?
+Not only deciding the parameter and for take decision.
+
+A1: You chosse fewer accident ? when the accident to happen how the accident happen?
+for your case its depends on the scenario.
+K: what kind of sensor are you going to use?
+A2: there are two type signal for human and car and the time is not so short. So Max time signal You said you would minimize?
+what kind of city are you going to use?
+k: in your master course thesis please explaing the advancement of your work?
+
+Presentation of Aji san:
+L:What kind of , how many agents will be there? as the publisher
+
+?: in the future which it be maybe something about the audience of the system.
+?:
+L: all the agents negotiate at the same time?
+
+Presentation of Touhid san:
+
+
+L: page 2, what agent in this figures? how about the other agent? what do you the weather agent? skip saying this you are only getting weather condition.
+Is the all for the real time? 
+How can you communicate with everyone at the same time?
+What is the interaction ? is the agent communicating each other? I am only seeing the some data? Is there any information about any other EV?
+Have you manully input the data ? T: API would be updated
+
+?: in the evacuation sytem there could be many condition?.......
+something asking about the disability of some passanger.
