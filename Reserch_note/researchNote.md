@@ -7339,6 +7339,36 @@ Some animal are rare and its also important to keep them alive.
 Sensei asked did you seen any intregation of MARL and LLM.
 And sensei mentioned about the kanamori san paper.
 
+**Disscussion with Rubel san:**
+-Add timeline 
+more mockup
+add some background paper.
+
+**Disscussion with touhid san:**
+He have successfully add some scenarion and keep in mind dont add some explanation in text of the body if it is coming from some AI
+Just claryfing its from AI is ok?
+
+Just going to practicing,
+On slide 
+Not included add some priliminary result. and sensei suggested to add some preliminary result
+Some picks about Plan presenation,
+Thesis related presenatation how you can argue you have done some nice thing to go to the next and finish 
+the final part.
+In this criteria we can say something, if you have some proof please share.
+You are sharing some others research that should ---
+Update to proof the eligiability to go to the next step
+
+
+Picking some right tittle is not easy,
+Then sensei asked some clarification about the related work,
+then change the tittle 
 
 
 
+##
+
+WHY LLM AND MARL AS DECISON AGENT:
+CAN EXPLAIN AOBUT THE TWO LAYER APPROCH FOR TAKING DECISION.
+
+
+EXPLAING ABOUT THE SCENARIOS CAN B
