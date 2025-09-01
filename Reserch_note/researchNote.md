@@ -7372,11 +7372,11 @@ CAN EXPLAIN AOBUT THE TWO LAYER APPROCH FOR TAKING DECISION.
 
 
 EXPLAING ABOUT THE SCENARIOS CAN B
-In your research it is important to make scenario, how may object did you make in your scenario. - 5/6
-You considered .... is it ok ?
+
 Explaing 
 Presentation of Fahmidul san:
-
+In your research it is important to make scenario, how may object did you make in your scenario. - 5/6
+You considered .... is it ok ?
 How many scenario are you going to make and how many objcet?
 
 Kitani sensei,
@@ -7419,3 +7419,9 @@ Have you manully input the data ? T: API would be updated
 
 ?: in the evacuation sytem there could be many condition?.......
 something asking about the disability of some passanger.
+
+
+
+## 01.09.25
+
+Maybe this will be end and done in this lab as well as in the shizuoka university
